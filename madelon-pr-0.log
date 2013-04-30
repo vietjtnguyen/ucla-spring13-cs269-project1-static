@@ -1,0 +1,1174 @@
+Data set: madelon
+Algorithm: pr
+Loading madelon data set...
+Creating perceptron hyper classifier...
+Running trial 0...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/madelon/0/pr/penalty(none)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(none)-alpha(1.000000e-09)
+parameters: {'penalty': None, 'alpha': 1.0000000000000001e-09}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(none)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(none)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(none)-alpha(6.309573e-07)
+parameters: {'penalty': None, 'alpha': 6.3095734448019296e-07}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(none)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(none)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(none)-alpha(3.981072e-04)
+parameters: {'penalty': None, 'alpha': 0.00039810717055349692}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(none)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(none)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(none)-alpha(2.511886e-01)
+parameters: {'penalty': None, 'alpha': 0.25118864315095718}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(none)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(none)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(none)-alpha(1.584893e+02)
+parameters: {'penalty': None, 'alpha': 158.48931924611108}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(none)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(none)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(none)-alpha(1.000000e+05)
+parameters: {'penalty': None, 'alpha': 100000.0}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(none)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l1)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.000000e-09)
+parameters: {'penalty': 'l1', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l1)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l1)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(l1)-alpha(6.309573e-07)
+parameters: {'penalty': 'l1', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l1)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l1)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(l1)-alpha(3.981072e-04)
+parameters: {'penalty': 'l1', 'alpha': 0.00039810717055349692}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l1)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l1)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(l1)-alpha(2.511886e-01)
+parameters: {'penalty': 'l1', 'alpha': 0.25118864315095718}
+ml ce: 0.494809688581
+ml rmse: 1.40685420507
+sk acc: 0.505190311419
+sk f1: 0.629213483146
+sk prec: 0.502762430939
+sk recl: 0.84064665127
+label: 1
+ml auc: 0.505576781856
+sk auc: 0.505576781856
+label: -1
+ml auc: 0.505576781856
+sk auc: 0.505576781856
+Saving result "runs/madelon/0/pr/penalty(l1)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l1)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.584893e+02)
+parameters: {'penalty': 'l1', 'alpha': 158.48931924611108}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l1)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l1)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.000000e+05)
+parameters: {'penalty': 'l1', 'alpha': 100000.0}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l1)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l2)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(l2)-alpha(1.000000e-09)
+parameters: {'penalty': 'l2', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l2)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l2)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(l2)-alpha(6.309573e-07)
+parameters: {'penalty': 'l2', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l2)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l2)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(l2)-alpha(3.981072e-04)
+parameters: {'penalty': 'l2', 'alpha': 0.00039810717055349692}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l2)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l2)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(l2)-alpha(2.511886e-01)
+parameters: {'penalty': 'l2', 'alpha': 0.25118864315095718}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(l2)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l2)-alpha(1.584893e+02).pickle", building and running classifier...
+floating-point under-/overflow occured.
+run: penalty(l2)-alpha(1.584893e+02)
+parameters: {'penalty': 'l2', 'alpha': 158.48931924611108}
+Saving result "runs/madelon/0/pr/penalty(l2)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(l2)-alpha(1.000000e+05).pickle", building and running classifier...
+floating-point under-/overflow occured.
+run: penalty(l2)-alpha(1.000000e+05)
+parameters: {'penalty': 'l2', 'alpha': 100000.0}
+Saving result "runs/madelon/0/pr/penalty(l2)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(elasticnet)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.000000e-09)
+parameters: {'penalty': 'elasticnet', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(elasticnet)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(elasticnet)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(6.309573e-07)
+parameters: {'penalty': 'elasticnet', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(elasticnet)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(elasticnet)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(3.981072e-04)
+parameters: {'penalty': 'elasticnet', 'alpha': 0.00039810717055349692}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(elasticnet)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(elasticnet)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(2.511886e-01)
+parameters: {'penalty': 'elasticnet', 'alpha': 0.25118864315095718}
+ml ce: 0.494809688581
+ml rmse: 1.40685420507
+sk acc: 0.505190311419
+sk f1: 0.629213483146
+sk prec: 0.502762430939
+sk recl: 0.84064665127
+label: 1
+ml auc: 0.505576781856
+sk auc: 0.505576781856
+label: -1
+ml auc: 0.505576781856
+sk auc: 0.505576781856
+Saving result "runs/madelon/0/pr/penalty(elasticnet)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(elasticnet)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.584893e+02)
+parameters: {'penalty': 'elasticnet', 'alpha': 158.48931924611108}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(elasticnet)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/pr/penalty(elasticnet)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.000000e+05)
+parameters: {'penalty': 'elasticnet', 'alpha': 100000.0}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/pr/penalty(elasticnet)-alpha(1.000000e+05).pickle"...
+Clearing trial data from memory...
+Running trial 1...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/madelon/1/pr/penalty(none)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(none)-alpha(1.000000e-09)
+parameters: {'penalty': None, 'alpha': 1.0000000000000001e-09}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(none)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(none)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(none)-alpha(6.309573e-07)
+parameters: {'penalty': None, 'alpha': 6.3095734448019296e-07}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(none)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(none)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(none)-alpha(3.981072e-04)
+parameters: {'penalty': None, 'alpha': 0.00039810717055349692}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(none)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(none)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(none)-alpha(2.511886e-01)
+parameters: {'penalty': None, 'alpha': 0.25118864315095718}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(none)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(none)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(none)-alpha(1.584893e+02)
+parameters: {'penalty': None, 'alpha': 158.48931924611108}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(none)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(none)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(none)-alpha(1.000000e+05)
+parameters: {'penalty': None, 'alpha': 100000.0}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(none)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l1)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.000000e-09)
+parameters: {'penalty': 'l1', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l1)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l1)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(l1)-alpha(6.309573e-07)
+parameters: {'penalty': 'l1', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l1)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l1)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(l1)-alpha(3.981072e-04)
+parameters: {'penalty': 'l1', 'alpha': 0.00039810717055349692}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l1)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l1)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(l1)-alpha(2.511886e-01)
+parameters: {'penalty': 'l1', 'alpha': 0.25118864315095718}
+ml ce: 0.449826989619
+ml rmse: 1.34138285306
+sk acc: 0.550173010381
+sk f1: 0.25
+sk prec: 0.755813953488
+sk recl: 0.149769585253
+label: 1
+ml auc: 0.550635369994
+sk auc: 0.550635369994
+label: -1
+ml auc: 0.550635369994
+sk auc: 0.550635369994
+Saving result "runs/madelon/1/pr/penalty(l1)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l1)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.584893e+02)
+parameters: {'penalty': 'l1', 'alpha': 158.48931924611108}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l1)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l1)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.000000e+05)
+parameters: {'penalty': 'l1', 'alpha': 100000.0}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l1)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l2)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(l2)-alpha(1.000000e-09)
+parameters: {'penalty': 'l2', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l2)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l2)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(l2)-alpha(6.309573e-07)
+parameters: {'penalty': 'l2', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l2)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l2)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(l2)-alpha(3.981072e-04)
+parameters: {'penalty': 'l2', 'alpha': 0.00039810717055349692}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l2)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l2)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(l2)-alpha(2.511886e-01)
+parameters: {'penalty': 'l2', 'alpha': 0.25118864315095718}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(l2)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l2)-alpha(1.584893e+02).pickle", building and running classifier...
+floating-point under-/overflow occured.
+run: penalty(l2)-alpha(1.584893e+02)
+parameters: {'penalty': 'l2', 'alpha': 158.48931924611108}
+Saving result "runs/madelon/1/pr/penalty(l2)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(l2)-alpha(1.000000e+05).pickle", building and running classifier...
+floating-point under-/overflow occured.
+run: penalty(l2)-alpha(1.000000e+05)
+parameters: {'penalty': 'l2', 'alpha': 100000.0}
+Saving result "runs/madelon/1/pr/penalty(l2)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(elasticnet)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.000000e-09)
+parameters: {'penalty': 'elasticnet', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(elasticnet)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(elasticnet)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(6.309573e-07)
+parameters: {'penalty': 'elasticnet', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(elasticnet)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(elasticnet)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(3.981072e-04)
+parameters: {'penalty': 'elasticnet', 'alpha': 0.00039810717055349692}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(elasticnet)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(elasticnet)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(2.511886e-01)
+parameters: {'penalty': 'elasticnet', 'alpha': 0.25118864315095718}
+ml ce: 0.449826989619
+ml rmse: 1.34138285306
+sk acc: 0.550173010381
+sk f1: 0.25
+sk prec: 0.755813953488
+sk recl: 0.149769585253
+label: 1
+ml auc: 0.550635369994
+sk auc: 0.550635369994
+label: -1
+ml auc: 0.550635369994
+sk auc: 0.550635369994
+Saving result "runs/madelon/1/pr/penalty(elasticnet)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(elasticnet)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.584893e+02)
+parameters: {'penalty': 'elasticnet', 'alpha': 158.48931924611108}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(elasticnet)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/pr/penalty(elasticnet)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.000000e+05)
+parameters: {'penalty': 'elasticnet', 'alpha': 100000.0}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/pr/penalty(elasticnet)-alpha(1.000000e+05).pickle"...
+Clearing trial data from memory...
+Running trial 2...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/madelon/2/pr/penalty(none)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(none)-alpha(1.000000e-09)
+parameters: {'penalty': None, 'alpha': 1.0000000000000001e-09}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(none)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(none)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(none)-alpha(6.309573e-07)
+parameters: {'penalty': None, 'alpha': 6.3095734448019296e-07}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(none)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(none)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(none)-alpha(3.981072e-04)
+parameters: {'penalty': None, 'alpha': 0.00039810717055349692}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(none)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(none)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(none)-alpha(2.511886e-01)
+parameters: {'penalty': None, 'alpha': 0.25118864315095718}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(none)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(none)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(none)-alpha(1.584893e+02)
+parameters: {'penalty': None, 'alpha': 158.48931924611108}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(none)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(none)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(none)-alpha(1.000000e+05)
+parameters: {'penalty': None, 'alpha': 100000.0}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(none)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l1)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.000000e-09)
+parameters: {'penalty': 'l1', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(l1)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l1)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(l1)-alpha(6.309573e-07)
+parameters: {'penalty': 'l1', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(l1)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l1)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(l1)-alpha(3.981072e-04)
+parameters: {'penalty': 'l1', 'alpha': 0.00039810717055349692}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(l1)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l1)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(l1)-alpha(2.511886e-01)
+parameters: {'penalty': 'l1', 'alpha': 0.25118864315095718}
+ml ce: 0.369515011547
+ml rmse: 1.21575492851
+sk acc: 0.630484988453
+sk f1: 0.587628865979
+sk prec: 0.66472303207
+sk recl: 0.526558891455
+label: 1
+ml auc: 0.630484988453
+sk auc: 0.630484988453
+label: -1
+ml auc: 0.630484988453
+sk auc: 0.630484988453
+Saving result "runs/madelon/2/pr/penalty(l1)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l1)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.584893e+02)
+parameters: {'penalty': 'l1', 'alpha': 158.48931924611108}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/pr/penalty(l1)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l1)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(l1)-alpha(1.000000e+05)
+parameters: {'penalty': 'l1', 'alpha': 100000.0}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/pr/penalty(l1)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l2)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(l2)-alpha(1.000000e-09)
+parameters: {'penalty': 'l2', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(l2)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l2)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(l2)-alpha(6.309573e-07)
+parameters: {'penalty': 'l2', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.497690531178
+ml rmse: 1.41094370005
+sk acc: 0.502309468822
+sk f1: 0.00919540229885
+sk prec: 1.0
+sk recl: 0.00461893764434
+label: 1
+ml auc: 0.502309468822
+sk auc: 0.502309468822
+label: -1
+ml auc: 0.502309468822
+sk auc: 0.502309468822
+Saving result "runs/madelon/2/pr/penalty(l2)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l2)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(l2)-alpha(3.981072e-04)
+parameters: {'penalty': 'l2', 'alpha': 0.00039810717055349692}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/pr/penalty(l2)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l2)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(l2)-alpha(2.511886e-01)
+parameters: {'penalty': 'l2', 'alpha': 0.25118864315095718}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/pr/penalty(l2)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l2)-alpha(1.584893e+02).pickle", building and running classifier...
+floating-point under-/overflow occured.
+run: penalty(l2)-alpha(1.584893e+02)
+parameters: {'penalty': 'l2', 'alpha': 158.48931924611108}
+Saving result "runs/madelon/2/pr/penalty(l2)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(l2)-alpha(1.000000e+05).pickle", building and running classifier...
+floating-point under-/overflow occured.
+run: penalty(l2)-alpha(1.000000e+05)
+parameters: {'penalty': 'l2', 'alpha': 100000.0}
+Saving result "runs/madelon/2/pr/penalty(l2)-alpha(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(elasticnet)-alpha(1.000000e-09).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.000000e-09)
+parameters: {'penalty': 'elasticnet', 'alpha': 1.0000000000000001e-09}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(elasticnet)-alpha(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(elasticnet)-alpha(6.309573e-07).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(6.309573e-07)
+parameters: {'penalty': 'elasticnet', 'alpha': 6.3095734448019296e-07}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(elasticnet)-alpha(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(elasticnet)-alpha(3.981072e-04).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(3.981072e-04)
+parameters: {'penalty': 'elasticnet', 'alpha': 0.00039810717055349692}
+ml ce: 0.495381062356
+ml rmse: 1.4076662422
+sk acc: 0.504618937644
+sk f1: 0.0183066361556
+sk prec: 1.0
+sk recl: 0.00923787528868
+label: 1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+label: -1
+ml auc: 0.504618937644
+sk auc: 0.504618937644
+Saving result "runs/madelon/2/pr/penalty(elasticnet)-alpha(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(elasticnet)-alpha(2.511886e-01).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(2.511886e-01)
+parameters: {'penalty': 'elasticnet', 'alpha': 0.25118864315095718}
+ml ce: 0.369515011547
+ml rmse: 1.21575492851
+sk acc: 0.630484988453
+sk f1: 0.587628865979
+sk prec: 0.66472303207
+sk recl: 0.526558891455
+label: 1
+ml auc: 0.630484988453
+sk auc: 0.630484988453
+label: -1
+ml auc: 0.630484988453
+sk auc: 0.630484988453
+Saving result "runs/madelon/2/pr/penalty(elasticnet)-alpha(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(elasticnet)-alpha(1.584893e+02).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.584893e+02)
+parameters: {'penalty': 'elasticnet', 'alpha': 158.48931924611108}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/pr/penalty(elasticnet)-alpha(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/pr/penalty(elasticnet)-alpha(1.000000e+05).pickle", building and running classifier...
+run: penalty(elasticnet)-alpha(1.000000e+05)
+parameters: {'penalty': 'elasticnet', 'alpha': 100000.0}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/pr/penalty(elasticnet)-alpha(1.000000e+05).pickle"...
+Clearing trial data from memory...

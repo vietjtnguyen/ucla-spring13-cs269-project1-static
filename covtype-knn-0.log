@@ -1,0 +1,586 @@
+Data set: covtype
+Algorithm: knn
+Loading covtype data set...
+Creating KNN hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for kNN...
+Applying classifier to trial...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(uniform).pickle", building and running classifier...
+run: neighbors(5)-weights(uniform)
+parameters: {'n_neighbors': 5, 'weights': 'uniform'}
+ml ce: 0.378477439649
+ml rmse: 1.77594032429
+sk acc: 0.621522560351
+sk f1: 0.646544454553
+sk prec: 0.711917399321
+sk recl: 0.621522560351
+label: 1
+ml auc: 0.738411895208
+sk auc: 0.738411895208
+label: 2
+ml auc: 0.705475669092
+sk auc: 0.705475669092
+label: 3
+ml auc: 0.82613441399
+sk auc: 0.82613441399
+label: 4
+ml auc: 0.966738386502
+sk auc: 0.966738386502
+label: 5
+ml auc: 0.909713706962
+sk auc: 0.909713706962
+label: 6
+ml auc: 0.857592062996
+sk auc: 0.857592062996
+label: 7
+ml auc: 0.95219352253
+sk auc: 0.95219352253
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(uniform).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(distance).pickle", building and running classifier...
+run: neighbors(5)-weights(distance)
+parameters: {'n_neighbors': 5, 'weights': 'distance'}
+ml ce: 0.363196716707
+ml rmse: 1.77717444694
+sk acc: 0.636803283293
+sk f1: 0.66417378267
+sk prec: 0.731126369238
+sk recl: 0.636803283293
+label: 1
+ml auc: 0.753148782512
+sk auc: 0.753148782512
+label: 2
+ml auc: 0.718435021132
+sk auc: 0.718435021132
+label: 3
+ml auc: 0.83165205565
+sk auc: 0.83165205565
+label: 4
+ml auc: 0.970988083867
+sk auc: 0.970988083867
+label: 5
+ml auc: 0.918277471317
+sk auc: 0.918277471317
+label: 6
+ml auc: 0.879112222512
+sk auc: 0.879112222512
+label: 7
+ml auc: 0.961475502969
+sk auc: 0.961475502969
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(distance).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 5, 'width': 0.10000000000000001}
+ml ce: 0.330265486104
+ml rmse: 1.5892050246
+sk acc: 0.669734513896
+sk f1: 0.688804156365
+sk prec: 0.738266698224
+sk recl: 0.669734513896
+label: 1
+ml auc: 0.767586659757
+sk auc: 0.767586659757
+label: 2
+ml auc: 0.73408097446
+sk auc: 0.73408097446
+label: 3
+ml auc: 0.850352189921
+sk auc: 0.850352189921
+label: 4
+ml auc: 0.964306026803
+sk auc: 0.964306026803
+label: 5
+ml auc: 0.923010232452
+sk auc: 0.923010232452
+label: 6
+ml auc: 0.877653373214
+sk auc: 0.877653373214
+label: 7
+ml auc: 0.963191773174
+sk auc: 0.963191773174
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 5, 'width': 91.199999999999989}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 5, 'width': 182.29999999999998}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 5, 'width': 273.39999999999998}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 5, 'width': 364.5}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 5, 'width': 455.60000000000002}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 5, 'width': 546.69999999999993}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 5, 'width': 637.79999999999995}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 5, 'width': 728.89999999999998}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 5, 'width': 820.0}
+ml ce: 0.379730792456
+ml rmse: 1.82562519626
+sk acc: 0.620269207544
+sk f1: 0.648292211006
+sk prec: 0.717363462192
+sk recl: 0.620269207544
+label: 1
+ml auc: 0.739937327251
+sk auc: 0.739937327251
+label: 2
+ml auc: 0.707546485758
+sk auc: 0.707546485758
+label: 3
+ml auc: 0.821648228468
+sk auc: 0.821648228468
+label: 4
+ml auc: 0.968595676554
+sk auc: 0.968595676554
+label: 5
+ml auc: 0.912328437843
+sk auc: 0.912328437843
+label: 6
+ml auc: 0.870032244275
+sk auc: 0.870032244275
+label: 7
+ml auc: 0.955013735521
+sk auc: 0.955013735521
+Saving result "runs/covtype/0/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(40)-weights(uniform).pickle", building and running classifier...
+run: neighbors(40)-weights(uniform)
+parameters: {'n_neighbors': 40, 'weights': 'uniform'}
+ml ce: 0.462701343931
+ml rmse: 2.10014689644
+sk acc: 0.537298656069
+sk f1: 0.574067455517
+sk prec: 0.671127724707
+sk recl: 0.537298656069
+label: 1
+ml auc: 0.694226949378
+sk auc: 0.694226949378
+label: 2
+ml auc: 0.660804229076
+sk auc: 0.660804229076
+label: 3
+ml auc: 0.773486770271
+sk auc: 0.773486770271
+label: 4
+ml auc: 0.954921834868
+sk auc: 0.954921834868
+label: 5
+ml auc: 0.831151549506
+sk auc: 0.831151549506
+label: 6
+ml auc: 0.814115468527
+sk auc: 0.814115468527
+label: 7
+ml auc: 0.91787095708
+sk auc: 0.91787095708
+Saving result "runs/covtype/0/knn/neighbors(40)-weights(uniform).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(40)-weights(distance).pickle", building and running classifier...
+run: neighbors(40)-weights(distance)
+parameters: {'n_neighbors': 40, 'weights': 'distance'}
+ml ce: 0.430105393981
+ml rmse: 2.01586161674
+sk acc: 0.569894606019
+sk f1: 0.605697864728
+sk prec: 0.696044991408
+sk recl: 0.569894606019
+label: 1
+ml auc: 0.716672890548
+sk auc: 0.716672890548
+label: 2
+ml auc: 0.681191537337
+sk auc: 0.681191537337
+label: 3
+ml auc: 0.781888040433
+sk auc: 0.781888040433
+label: 4
+ml auc: 0.964029340201
+sk auc: 0.964029340201
+label: 5
+ml auc: 0.872956186827
+sk auc: 0.872956186827
+label: 6
+ml auc: 0.846790159543
+sk auc: 0.846790159543
+label: 7
+ml auc: 0.935731084858
+sk auc: 0.935731084858
+Saving result "runs/covtype/0/knn/neighbors(40)-weights(distance).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 40, 'width': 0.10000000000000001}
+ml ce: 0.330265486104
+ml rmse: 1.5892050246
+sk acc: 0.669734513896
+sk f1: 0.688804156365
+sk prec: 0.738266698224
+sk recl: 0.669734513896
+label: 1
+ml auc: 0.767586659757
+sk auc: 0.767586659757
+label: 2
+ml auc: 0.73408097446
+sk auc: 0.73408097446
+label: 3
+ml auc: 0.850352189921
+sk auc: 0.850352189921
+label: 4
+ml auc: 0.964306026803
+sk auc: 0.964306026803
+label: 5
+ml auc: 0.923010232452
+sk auc: 0.923010232452
+label: 6
+ml auc: 0.877653373214
+sk auc: 0.877653373214
+label: 7
+ml auc: 0.963191773174
+sk auc: 0.963191773174
+Saving result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 40, 'width': 91.199999999999989}
+ml ce: 0.462380106447
+ml rmse: 2.11535933507
+sk acc: 0.537619893553
+sk f1: 0.576110561559
+sk prec: 0.673688833346
+sk recl: 0.537619893553
+label: 1
+ml auc: 0.694444632509
+sk auc: 0.694444632509
+label: 2
+ml auc: 0.662971446407
+sk auc: 0.662971446407
+label: 3
+ml auc: 0.768288970663
+sk auc: 0.768288970663
+label: 4
+ml auc: 0.955850479894
+sk auc: 0.955850479894
+label: 5
+ml auc: 0.834626395143
+sk auc: 0.834626395143
+label: 6
+ml auc: 0.821398749032
+sk auc: 0.821398749032
+label: 7
+ml auc: 0.919924209728
+sk auc: 0.919924209728
+Saving result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 40, 'width': 182.29999999999998}
+ml ce: 0.462416969765
+ml rmse: 2.11556180476
+sk acc: 0.537583030235
+sk f1: 0.576080974687
+sk prec: 0.673632422705
+sk recl: 0.537583030235
+label: 1
+ml auc: 0.69444045949
+sk auc: 0.69444045949
+label: 2
+ml auc: 0.662936723099
+sk auc: 0.662936723099
+label: 3
+ml auc: 0.768288970663
+sk auc: 0.768288970663
+label: 4
+ml auc: 0.955850479894
+sk auc: 0.955850479894
+label: 5
+ml auc: 0.834626395143
+sk auc: 0.834626395143
+label: 6
+ml auc: 0.821398749032
+sk auc: 0.821398749032
+label: 7
+ml auc: 0.919370175673
+sk auc: 0.919370175673
+Saving result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 40, 'width': 273.39999999999998}
+ml ce: 0.462416969765
+ml rmse: 2.11556180476
+sk acc: 0.537583030235
+sk f1: 0.576080974687
+sk prec: 0.673632422705
+sk recl: 0.537583030235
+label: 1
+ml auc: 0.69444045949
+sk auc: 0.69444045949
+label: 2
+ml auc: 0.662936723099
+sk auc: 0.662936723099
+label: 3
+ml auc: 0.768288970663
+sk auc: 0.768288970663
+label: 4
+ml auc: 0.955850479894
+sk auc: 0.955850479894
+label: 5
+ml auc: 0.834626395143
+sk auc: 0.834626395143
+label: 6
+ml auc: 0.821398749032
+sk auc: 0.821398749032
+label: 7
+ml auc: 0.919370175673
+sk auc: 0.919370175673
+Saving result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/covtype/0/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...

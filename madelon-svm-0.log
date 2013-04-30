@@ -1,0 +1,2161 @@
+Data set: madelon
+Algorithm: svm
+Loading madelon data set...
+Creating SVM hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.450980392157
+ml rmse: 1.34310147369
+sk acc: 0.549019607843
+sk f1: 0.540540540541
+sk prec: 0.55023923445
+sk recl: 0.531177829099
+label: 1
+ml auc: 0.548999052799
+sk auc: 0.548999052799
+label: -1
+ml auc: 0.548999052799
+sk auc: 0.548999052799
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.450980392157
+ml rmse: 1.34310147369
+sk acc: 0.549019607843
+sk f1: 0.540540540541
+sk prec: 0.55023923445
+sk recl: 0.531177829099
+label: 1
+ml auc: 0.548999052799
+sk auc: 0.548999052799
+label: -1
+ml auc: 0.548999052799
+sk auc: 0.548999052799
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.42675893887
+ml rmse: 1.30653578423
+sk acc: 0.57324106113
+sk f1: 0.55421686747
+sk prec: 0.579345088161
+sk recl: 0.531177829099
+label: 1
+ml auc: 0.573192601186
+sk auc: 0.573192601186
+label: -1
+ml auc: 0.573192601186
+sk auc: 0.573192601186
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 3}
+ml ce: 0.42675893887
+ml rmse: 1.30653578423
+sk acc: 0.57324106113
+sk f1: 0.55421686747
+sk prec: 0.579345088161
+sk recl: 0.531177829099
+label: 1
+ml auc: 0.573192601186
+sk auc: 0.573192601186
+label: -1
+ml auc: 0.573192601186
+sk auc: 0.573192601186
+Saving result "runs/madelon/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.001}
+ml ce: 0.450980392157
+ml rmse: 1.34310147369
+sk acc: 0.549019607843
+sk f1: 0.54587688734
+sk prec: 0.549065420561
+sk recl: 0.54272517321
+label: 1
+ml auc: 0.54901235619
+sk auc: 0.54901235619
+label: -1
+ml auc: 0.54901235619
+sk auc: 0.54901235619
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.001}
+ml ce: 0.442906574394
+ml rmse: 1.33102452929
+sk acc: 0.557093425606
+sk f1: 0.550351288056
+sk prec: 0.558194774347
+sk recl: 0.54272517321
+label: 1
+ml auc: 0.557076872319
+sk auc: 0.557076872319
+label: -1
+ml auc: 0.557076872319
+sk auc: 0.557076872319
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.001}
+ml ce: 0.442906574394
+ml rmse: 1.33102452929
+sk acc: 0.557093425606
+sk f1: 0.550351288056
+sk prec: 0.558194774347
+sk recl: 0.54272517321
+label: 1
+ml auc: 0.557076872319
+sk auc: 0.557076872319
+label: -1
+ml auc: 0.557076872319
+sk auc: 0.557076872319
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.01}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.01}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.01}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.01}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.01}
+ml ce: 0.457900807382
+ml rmse: 1.3533673668
+sk acc: 0.542099192618
+sk f1: 0.567066521265
+sk prec: 0.537190082645
+sk recl: 0.600461893764
+label: 1
+ml auc: 0.542166430753
+sk auc: 0.542166430753
+label: -1
+ml auc: 0.542166430753
+sk auc: 0.542166430753
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.01}
+ml ce: 0.457900807382
+ml rmse: 1.3533673668
+sk acc: 0.542099192618
+sk f1: 0.567066521265
+sk prec: 0.537190082645
+sk recl: 0.600461893764
+label: 1
+ml auc: 0.542166430753
+sk auc: 0.542166430753
+label: -1
+ml auc: 0.542166430753
+sk auc: 0.542166430753
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.666153846154
+sk prec: 0.499423298731
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...
+Running trial 1...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.423298731257
+ml rmse: 1.3012282371
+sk acc: 0.576701268743
+sk f1: 0.564650059312
+sk prec: 0.581907090465
+sk recl: 0.548387096774
+label: 1
+ml auc: 0.576733964091
+sk auc: 0.576733964091
+label: -1
+ml auc: 0.576733964091
+sk auc: 0.576733964091
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.423298731257
+ml rmse: 1.3012282371
+sk acc: 0.576701268743
+sk f1: 0.564650059312
+sk prec: 0.581907090465
+sk recl: 0.548387096774
+label: 1
+ml auc: 0.576733964091
+sk auc: 0.576733964091
+label: -1
+ml auc: 0.576733964091
+sk auc: 0.576733964091
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.393310265283
+ml rmse: 1.25428906602
+sk acc: 0.606689734717
+sk f1: 0.582619339045
+sk prec: 0.621409921671
+sk recl: 0.548387096774
+label: 1
+ml auc: 0.60675705878
+sk auc: 0.60675705878
+label: -1
+ml auc: 0.60675705878
+sk auc: 0.60675705878
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 3}
+ml ce: 0.393310265283
+ml rmse: 1.25428906602
+sk acc: 0.606689734717
+sk f1: 0.582619339045
+sk prec: 0.621409921671
+sk recl: 0.548387096774
+label: 1
+ml auc: 0.60675705878
+sk auc: 0.60675705878
+label: -1
+ml auc: 0.60675705878
+sk auc: 0.60675705878
+Saving result "runs/madelon/1/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.001}
+ml ce: 0.402537485582
+ml rmse: 1.26891683822
+sk acc: 0.597462514418
+sk f1: 0.599311136625
+sk prec: 0.597254004577
+sk recl: 0.601382488479
+label: 1
+ml auc: 0.597457987889
+sk auc: 0.597457987889
+label: -1
+ml auc: 0.597457987889
+sk auc: 0.597457987889
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.001}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.570093457944
+sk prec: 0.578199052133
+sk recl: 0.562211981567
+label: 1
+ml auc: 0.57556326561
+sk auc: 0.57556326561
+label: -1
+ml auc: 0.57556326561
+sk auc: 0.57556326561
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.001}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.570093457944
+sk prec: 0.578199052133
+sk recl: 0.562211981567
+label: 1
+ml auc: 0.57556326561
+sk auc: 0.57556326561
+label: -1
+ml auc: 0.57556326561
+sk auc: 0.57556326561
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.01}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.01}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.01}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.01}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.01}
+ml ce: 0.384083044983
+ml rmse: 1.23948867681
+sk acc: 0.615916955017
+sk f1: 0.581132075472
+sk prec: 0.639889196676
+sk recl: 0.532258064516
+label: 1
+ml auc: 0.616013558817
+sk auc: 0.616013558817
+label: -1
+ml auc: 0.616013558817
+sk auc: 0.616013558817
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.01}
+ml ce: 0.384083044983
+ml rmse: 1.23948867681
+sk acc: 0.615916955017
+sk f1: 0.581132075472
+sk prec: 0.639889196676
+sk recl: 0.532258064516
+label: 1
+ml auc: 0.616013558817
+sk auc: 0.616013558817
+label: -1
+ml auc: 0.616013558817
+sk auc: 0.616013558817
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 1}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 2}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...
+Running trial 2...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.465357967667
+ml rmse: 1.36434301796
+sk acc: 0.534642032333
+sk f1: 0.238185255198
+sk prec: 0.65625
+sk recl: 0.145496535797
+label: 1
+ml auc: 0.534642032333
+sk auc: 0.534642032333
+label: -1
+ml auc: 0.534642032333
+sk auc: 0.534642032333
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.465357967667
+ml rmse: 1.36434301796
+sk acc: 0.534642032333
+sk f1: 0.238185255198
+sk prec: 0.65625
+sk recl: 0.145496535797
+label: 1
+ml auc: 0.534642032333
+sk auc: 0.534642032333
+label: -1
+ml auc: 0.534642032333
+sk auc: 0.534642032333
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.465357967667
+ml rmse: 1.36434301796
+sk acc: 0.534642032333
+sk f1: 0.238185255198
+sk prec: 0.65625
+sk recl: 0.145496535797
+label: 1
+ml auc: 0.534642032333
+sk auc: 0.534642032333
+label: -1
+ml auc: 0.534642032333
+sk auc: 0.534642032333
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.465357967667
+ml rmse: 1.36434301796
+sk acc: 0.534642032333
+sk f1: 0.238185255198
+sk prec: 0.65625
+sk recl: 0.145496535797
+label: 1
+ml auc: 0.534642032333
+sk auc: 0.534642032333
+label: -1
+ml auc: 0.534642032333
+sk auc: 0.534642032333
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.431870669746
+ml rmse: 1.31433735357
+sk acc: 0.568129330254
+sk f1: 0.56511627907
+sk prec: 0.569086651054
+sk recl: 0.561200923788
+label: 1
+ml auc: 0.568129330254
+sk auc: 0.568129330254
+label: -1
+ml auc: 0.568129330254
+sk auc: 0.568129330254
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.431870669746
+ml rmse: 1.31433735357
+sk acc: 0.568129330254
+sk f1: 0.56511627907
+sk prec: 0.569086651054
+sk recl: 0.561200923788
+label: 1
+ml auc: 0.568129330254
+sk auc: 0.568129330254
+label: -1
+ml auc: 0.568129330254
+sk auc: 0.568129330254
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.461893764434
+ml rmse: 1.35925533206
+sk acc: 0.538106235566
+sk f1: 0.19028340081
+sk prec: 0.770491803279
+sk recl: 0.108545034642
+label: 1
+ml auc: 0.538106235566
+sk auc: 0.538106235566
+label: -1
+ml auc: 0.538106235566
+sk auc: 0.538106235566
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.461893764434
+ml rmse: 1.35925533206
+sk acc: 0.538106235566
+sk f1: 0.19028340081
+sk prec: 0.770491803279
+sk recl: 0.108545034642
+label: 1
+ml auc: 0.538106235566
+sk auc: 0.538106235566
+label: -1
+ml auc: 0.538106235566
+sk auc: 0.538106235566
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.461893764434
+ml rmse: 1.35925533206
+sk acc: 0.538106235566
+sk f1: 0.19028340081
+sk prec: 0.770491803279
+sk recl: 0.108545034642
+label: 1
+ml auc: 0.538106235566
+sk auc: 0.538106235566
+label: -1
+ml auc: 0.538106235566
+sk auc: 0.538106235566
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.461893764434
+ml rmse: 1.35925533206
+sk acc: 0.538106235566
+sk f1: 0.19028340081
+sk prec: 0.770491803279
+sk recl: 0.108545034642
+label: 1
+ml auc: 0.538106235566
+sk auc: 0.538106235566
+label: -1
+ml auc: 0.538106235566
+sk auc: 0.538106235566
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.416859122402
+ml rmse: 1.29129256546
+sk acc: 0.583140877598
+sk f1: 0.486486486486
+sk prec: 0.633333333333
+sk recl: 0.394919168591
+label: 1
+ml auc: 0.583140877598
+sk auc: 0.583140877598
+label: -1
+ml auc: 0.583140877598
+sk auc: 0.583140877598
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 3}
+ml ce: 0.416859122402
+ml rmse: 1.29129256546
+sk acc: 0.583140877598
+sk f1: 0.486486486486
+sk prec: 0.633333333333
+sk recl: 0.394919168591
+label: 1
+ml auc: 0.583140877598
+sk auc: 0.583140877598
+label: -1
+ml auc: 0.583140877598
+sk auc: 0.583140877598
+Saving result "runs/madelon/2/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.001}
+ml ce: 0.390300230947
+ml rmse: 1.24948026146
+sk acc: 0.609699769053
+sk f1: 0.622767857143
+sk prec: 0.602591792657
+sk recl: 0.644341801386
+label: 1
+ml auc: 0.609699769053
+sk auc: 0.609699769053
+label: -1
+ml auc: 0.609699769053
+sk auc: 0.609699769053
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.001}
+ml ce: 0.390300230947
+ml rmse: 1.24948026146
+sk acc: 0.609699769053
+sk f1: 0.622767857143
+sk prec: 0.602591792657
+sk recl: 0.644341801386
+label: 1
+ml auc: 0.609699769053
+sk auc: 0.609699769053
+label: -1
+ml auc: 0.609699769053
+sk auc: 0.609699769053
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.001}
+ml ce: 0.390300230947
+ml rmse: 1.24948026146
+sk acc: 0.609699769053
+sk f1: 0.622767857143
+sk prec: 0.602591792657
+sk recl: 0.644341801386
+label: 1
+ml auc: 0.609699769053
+sk auc: 0.609699769053
+label: -1
+ml auc: 0.609699769053
+sk auc: 0.609699769053
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.001}
+ml ce: 0.390300230947
+ml rmse: 1.24948026146
+sk acc: 0.609699769053
+sk f1: 0.591787439614
+sk prec: 0.620253164557
+sk recl: 0.565819861432
+label: 1
+ml auc: 0.609699769053
+sk auc: 0.609699769053
+label: -1
+ml auc: 0.609699769053
+sk auc: 0.609699769053
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.001}
+ml ce: 0.451501154734
+ml rmse: 1.3438767127
+sk acc: 0.548498845266
+sk f1: 0.519065190652
+sk prec: 0.555263157895
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.548498845266
+sk auc: 0.548498845266
+label: -1
+ml auc: 0.548498845266
+sk auc: 0.548498845266
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.001}
+ml ce: 0.451501154734
+ml rmse: 1.3438767127
+sk acc: 0.548498845266
+sk f1: 0.519065190652
+sk prec: 0.555263157895
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.548498845266
+sk auc: 0.548498845266
+label: -1
+ml auc: 0.548498845266
+sk auc: 0.548498845266
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.01}
+ml ce: 0.392609699769
+ml rmse: 1.25317149628
+sk acc: 0.607390300231
+sk f1: 0.63829787234
+sk prec: 0.591715976331
+sk recl: 0.692840646651
+label: 1
+ml auc: 0.607390300231
+sk auc: 0.607390300231
+label: -1
+ml auc: 0.607390300231
+sk auc: 0.607390300231
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.01}
+ml ce: 0.392609699769
+ml rmse: 1.25317149628
+sk acc: 0.607390300231
+sk f1: 0.63829787234
+sk prec: 0.591715976331
+sk recl: 0.692840646651
+label: 1
+ml auc: 0.607390300231
+sk auc: 0.607390300231
+label: -1
+ml auc: 0.607390300231
+sk auc: 0.607390300231
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.01}
+ml ce: 0.392609699769
+ml rmse: 1.25317149628
+sk acc: 0.607390300231
+sk f1: 0.63829787234
+sk prec: 0.591715976331
+sk recl: 0.692840646651
+label: 1
+ml auc: 0.607390300231
+sk auc: 0.607390300231
+label: -1
+ml auc: 0.607390300231
+sk auc: 0.607390300231
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.01}
+ml ce: 0.392609699769
+ml rmse: 1.25317149628
+sk acc: 0.607390300231
+sk f1: 0.63829787234
+sk prec: 0.591715976331
+sk recl: 0.692840646651
+label: 1
+ml auc: 0.607390300231
+sk auc: 0.607390300231
+label: -1
+ml auc: 0.607390300231
+sk auc: 0.607390300231
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.01}
+ml ce: 0.385681293303
+ml rmse: 1.24206488285
+sk acc: 0.614318706697
+sk f1: 0.61252900232
+sk prec: 0.615384615385
+sk recl: 0.609699769053
+label: 1
+ml auc: 0.614318706697
+sk auc: 0.614318706697
+label: -1
+ml auc: 0.614318706697
+sk auc: 0.614318706697
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.01}
+ml ce: 0.385681293303
+ml rmse: 1.24206488285
+sk acc: 0.614318706697
+sk f1: 0.61252900232
+sk prec: 0.615384615385
+sk recl: 0.609699769053
+label: 1
+ml auc: 0.614318706697
+sk auc: 0.614318706697
+label: -1
+ml auc: 0.614318706697
+sk auc: 0.614318706697
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.1}
+ml ce: 0.466512702079
+ml rmse: 1.36603470246
+sk acc: 0.533487297921
+sk f1: 0.525821596244
+sk prec: 0.534606205251
+sk recl: 0.517321016166
+label: 1
+ml auc: 0.533487297921
+sk auc: 0.533487297921
+label: -1
+ml auc: 0.533487297921
+sk auc: 0.533487297921
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.1}
+ml ce: 0.466512702079
+ml rmse: 1.36603470246
+sk acc: 0.533487297921
+sk f1: 0.525821596244
+sk prec: 0.534606205251
+sk recl: 0.517321016166
+label: 1
+ml auc: 0.533487297921
+sk auc: 0.533487297921
+label: -1
+ml auc: 0.533487297921
+sk auc: 0.533487297921
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.1}
+ml ce: 0.466512702079
+ml rmse: 1.36603470246
+sk acc: 0.533487297921
+sk f1: 0.525821596244
+sk prec: 0.534606205251
+sk recl: 0.517321016166
+label: 1
+ml auc: 0.533487297921
+sk auc: 0.533487297921
+label: -1
+ml auc: 0.533487297921
+sk auc: 0.533487297921
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.1}
+ml ce: 0.466512702079
+ml rmse: 1.36603470246
+sk acc: 0.533487297921
+sk f1: 0.525821596244
+sk prec: 0.534606205251
+sk recl: 0.517321016166
+label: 1
+ml auc: 0.533487297921
+sk auc: 0.533487297921
+label: -1
+ml auc: 0.533487297921
+sk auc: 0.533487297921
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.1}
+ml ce: 0.498845265589
+ml rmse: 1.41257957735
+sk acc: 0.501154734411
+sk f1: 0.0357142857143
+sk prec: 0.533333333333
+sk recl: 0.0184757505774
+label: 1
+ml auc: 0.501154734411
+sk auc: 0.501154734411
+label: -1
+ml auc: 0.501154734411
+sk auc: 0.501154734411
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.1}
+ml ce: 0.498845265589
+ml rmse: 1.41257957735
+sk acc: 0.501154734411
+sk f1: 0.0357142857143
+sk prec: 0.533333333333
+sk recl: 0.0184757505774
+label: 1
+ml auc: 0.501154734411
+sk auc: 0.501154734411
+label: -1
+ml auc: 0.501154734411
+sk auc: 0.501154734411
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 1}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.666152659985
+sk prec: 0.5
+sk recl: 0.997690531178
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 1}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.666152659985
+sk prec: 0.5
+sk recl: 0.997690531178
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 1}
+ml ce: 0.501154734411
+ml rmse: 1.41584566166
+sk acc: 0.498845265589
+sk f1: 0.66512345679
+sk prec: 0.499420625724
+sk recl: 0.995381062356
+label: 1
+ml auc: 0.498845265589
+sk auc: 0.498845265589
+label: -1
+ml auc: 0.498845265589
+sk auc: 0.498845265589
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 1}
+ml ce: 0.501154734411
+ml rmse: 1.41584566166
+sk acc: 0.498845265589
+sk f1: 0.664605873261
+sk prec: 0.499419279907
+sk recl: 0.993071593533
+label: 1
+ml auc: 0.498845265589
+sk auc: 0.498845265589
+label: -1
+ml auc: 0.498845265589
+sk auc: 0.498845265589
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 1}
+ml ce: 0.501154734411
+ml rmse: 1.41584566166
+sk acc: 0.498845265589
+sk f1: 0.664605873261
+sk prec: 0.499419279907
+sk recl: 0.993071593533
+label: 1
+ml auc: 0.498845265589
+sk auc: 0.498845265589
+label: -1
+ml auc: 0.498845265589
+sk auc: 0.498845265589
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 1}
+ml ce: 0.501154734411
+ml rmse: 1.41584566166
+sk acc: 0.498845265589
+sk f1: 0.664605873261
+sk prec: 0.499419279907
+sk recl: 0.993071593533
+label: 1
+ml auc: 0.498845265589
+sk auc: 0.498845265589
+label: -1
+ml auc: 0.498845265589
+sk auc: 0.498845265589
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 2}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.666666666667
+sk prec: 0.5
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 2}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.666666666667
+sk prec: 0.5
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 2}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.666666666667
+sk prec: 0.5
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 2}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.666666666667
+sk prec: 0.5
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 2}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.666666666667
+sk prec: 0.5
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 2}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.666666666667
+sk prec: 0.5
+sk recl: 1.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...

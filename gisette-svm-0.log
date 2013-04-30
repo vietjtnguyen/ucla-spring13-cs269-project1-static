@@ -1,0 +1,723 @@
+Data set: gisette
+Algorithm: svm
+Loading gisette data set...
+Creating SVM hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.035
+ml rmse: 0.374165738677
+sk acc: 0.965
+sk f1: 0.9658203125
+sk prec: 0.9592628516
+sk recl: 0.972468043265
+label: 1
+ml auc: 0.964870847675
+sk auc: 0.964870847675
+label: -1
+ml auc: 0.964870847675
+sk auc: 0.964870847675
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.027
+ml rmse: 0.328633534503
+sk acc: 0.973
+sk f1: 0.973320158103
+sk prec: 0.978152929494
+sk recl: 0.968534906588
+label: 1
+ml auc: 0.973077219316
+sk auc: 0.973077219316
+label: -1
+ml auc: 0.973077219316
+sk auc: 0.973077219316
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.027
+ml rmse: 0.328633534503
+sk acc: 0.973
+sk f1: 0.973320158103
+sk prec: 0.978152929494
+sk recl: 0.968534906588
+label: 1
+ml auc: 0.973077219316
+sk auc: 0.973077219316
+label: -1
+ml auc: 0.973077219316
+sk auc: 0.973077219316
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.2405
+ml rmse: 0.980815986819
+sk acc: 0.7595
+sk f1: 0.691864189622
+sk prec: 0.992647058824
+sk recl: 0.530973451327
+label: 1
+ml auc: 0.763452137668
+sk auc: 0.763452137668
+label: -1
+ml auc: 0.763452137668
+sk auc: 0.763452137668
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.0325
+ml rmse: 0.360555127546
+sk acc: 0.9675
+sk f1: 0.967613353264
+sk prec: 0.980808080808
+sk recl: 0.95476892822
+label: 1
+ml auc: 0.967720171129
+sk auc: 0.967720171129
+label: -1
+ml auc: 0.967720171129
+sk auc: 0.967720171129
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 3}
+ml ce: 0.0325
+ml rmse: 0.360555127546
+sk acc: 0.9675
+sk f1: 0.967613353264
+sk prec: 0.980808080808
+sk recl: 0.95476892822
+label: 1
+ml auc: 0.967720171129
+sk auc: 0.967720171129
+label: -1
+ml auc: 0.967720171129
+sk auc: 0.967720171129
+Saving result "runs/gisette/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.001}
+ml ce: 0.1265
+ml rmse: 0.711336769751
+sk acc: 0.8735
+sk f1: 0.886496186631
+sk prec: 0.815181518152
+sk recl: 0.971484759095
+label: 1
+ml auc: 0.871805451776
+sk auc: 0.871805451776
+label: -1
+ml auc: 0.871805451776
+sk auc: 0.871805451776
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.001}
+ml ce: 0.1265
+ml rmse: 0.711336769751
+sk acc: 0.8735
+sk f1: 0.886496186631
+sk prec: 0.815181518152
+sk recl: 0.971484759095
+label: 1
+ml auc: 0.871805451776
+sk auc: 0.871805451776
+label: -1
+ml auc: 0.871805451776
+sk auc: 0.871805451776
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.01}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.01}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.01}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.01}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.01}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.01}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 1}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 2}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...

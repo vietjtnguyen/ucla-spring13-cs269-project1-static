@@ -1,0 +1,691 @@
+Data set: digits
+Algorithm: rf
+Loading digits data set...
+Creating random forest hyper classifier...
+Running trial 0...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/digits/0/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+64
+8.0
+0.5
+4
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.0200333889816
+ml rmse: 0.585010309114
+sk acc: 0.979966611018
+sk f1: 0.979757050889
+sk prec: 0.980158580573
+sk recl: 0.979966611018
+label: 0
+ml auc: 0.991666666667
+sk auc: 0.991666666667
+label: 1
+ml auc: 0.997217068646
+sk auc: 0.997217068646
+label: 2
+ml auc: 1.0
+sk auc: 1.0
+label: 3
+ml auc: 1.0
+sk auc: 1.0
+label: 4
+ml auc: 0.989015174599
+sk auc: 0.989015174599
+label: 5
+ml auc: 0.990739022882
+sk auc: 0.990739022882
+label: 6
+ml auc: 0.991803278689
+sk auc: 0.991803278689
+label: 7
+ml auc: 0.998148148148
+sk auc: 0.998148148148
+label: 8
+ml auc: 0.937806743578
+sk auc: 0.937806743578
+label: 9
+ml auc: 0.990739022882
+sk auc: 0.990739022882
+Saving result "runs/digits/0/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/digits/0/rf/estimators(500)-split(1).pickle", building and running classifier...
+64
+8.0
+1
+8
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.0183639398998
+ml rmse: 0.663878420794
+sk acc: 0.9816360601
+sk f1: 0.981618634202
+sk prec: 0.982171314813
+sk recl: 0.9816360601
+label: 0
+ml auc: 0.991666666667
+sk auc: 0.991666666667
+label: 1
+ml auc: 0.996289424861
+sk auc: 0.996289424861
+label: 2
+ml auc: 1.0
+sk auc: 1.0
+label: 3
+ml auc: 0.991803278689
+sk auc: 0.991803278689
+label: 4
+ml auc: 0.989015174599
+sk auc: 0.989015174599
+label: 5
+ml auc: 0.991666666667
+sk auc: 0.991666666667
+label: 6
+ml auc: 0.991803278689
+sk auc: 0.991803278689
+label: 7
+ml auc: 0.999074074074
+sk auc: 0.999074074074
+label: 8
+ml auc: 0.955972337306
+sk auc: 0.955972337306
+label: 9
+ml auc: 0.989811379097
+sk auc: 0.989811379097
+Saving result "runs/digits/0/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/digits/0/rf/estimators(500)-split(2).pickle", building and running classifier...
+64
+8.0
+2
+16
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.025041736227
+ml rmse: 0.700584063514
+sk acc: 0.974958263773
+sk f1: 0.974862318851
+sk prec: 0.975783932474
+sk recl: 0.974958263773
+label: 0
+ml auc: 0.990739022882
+sk auc: 0.990739022882
+label: 1
+ml auc: 0.995361781076
+sk auc: 0.995361781076
+label: 2
+ml auc: 0.991525423729
+sk auc: 0.991525423729
+label: 3
+ml auc: 0.991803278689
+sk auc: 0.991803278689
+label: 4
+ml auc: 0.979889085258
+sk auc: 0.979889085258
+label: 5
+ml auc: 0.991666666667
+sk auc: 0.991666666667
+label: 6
+ml auc: 0.991803278689
+sk auc: 0.991803278689
+label: 7
+ml auc: 0.998148148148
+sk auc: 0.998148148148
+label: 8
+ml auc: 0.938730957996
+sk auc: 0.938730957996
+label: 9
+ml auc: 0.989811379097
+sk auc: 0.989811379097
+Saving result "runs/digits/0/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/digits/0/rf/estimators(500)-split(4).pickle", building and running classifier...
+64
+8.0
+4
+32
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.0434056761269
+ml rmse: 0.876325611648
+sk acc: 0.956594323873
+sk f1: 0.956255312507
+sk prec: 0.957300317632
+sk recl: 0.956594323873
+label: 0
+ml auc: 0.981478045764
+sk auc: 0.981478045764
+label: 1
+ml auc: 0.995361781076
+sk auc: 0.995361781076
+label: 2
+ml auc: 0.989673571877
+sk auc: 0.989673571877
+label: 3
+ml auc: 0.974480468036
+sk auc: 0.974480468036
+label: 4
+ml auc: 0.978030349199
+sk auc: 0.978030349199
+label: 5
+ml auc: 0.966666666667
+sk auc: 0.966666666667
+label: 6
+ml auc: 0.991803278689
+sk auc: 0.991803278689
+label: 7
+ml auc: 0.998148148148
+sk auc: 0.998148148148
+label: 8
+ml auc: 0.910096245777
+sk auc: 0.910096245777
+label: 9
+ml auc: 0.971289424861
+sk auc: 0.971289424861
+Saving result "runs/digits/0/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/digits/0/rf/estimators(500)-split(8).pickle", building and running classifier...
+64
+8.0
+8
+64
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.0651085141903
+ml rmse: 1.11747389821
+sk acc: 0.93489148581
+sk f1: 0.933756794
+sk prec: 0.935625212245
+sk recl: 0.93489148581
+label: 0
+ml auc: 0.97314471243
+sk auc: 0.97314471243
+label: 1
+ml auc: 0.985173160173
+sk auc: 0.985173160173
+label: 2
+ml auc: 0.981198995606
+sk auc: 0.981198995606
+label: 3
+ml auc: 0.970762995917
+sk auc: 0.970762995917
+label: 4
+ml auc: 0.978030349199
+sk auc: 0.978030349199
+label: 5
+ml auc: 0.957405689549
+sk auc: 0.957405689549
+label: 6
+ml auc: 0.983606557377
+sk auc: 0.983606557377
+label: 7
+ml auc: 0.985969868173
+sk auc: 0.985969868173
+label: 8
+ml auc: 0.857447893429
+sk auc: 0.857447893429
+label: 9
+ml auc: 0.962028447743
+sk auc: 0.962028447743
+Saving result "runs/digits/0/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...
+Running trial 1...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/digits/1/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+64
+8.0
+0.5
+4
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.0317195325543
+ml rmse: 0.838354378195
+sk acc: 0.968280467446
+sk f1: 0.96829697282
+sk prec: 0.968642660695
+sk recl: 0.968280467446
+label: 0
+ml auc: 0.991525423729
+sk auc: 0.991525423729
+label: 1
+ml auc: 0.989015174599
+sk auc: 0.989015174599
+label: 2
+ml auc: 0.999074074074
+sk auc: 0.999074074074
+label: 3
+ml auc: 0.981747821318
+sk auc: 0.981747821318
+label: 4
+ml auc: 0.974072356215
+sk auc: 0.974072356215
+label: 5
+ml auc: 0.972621731976
+sk auc: 0.972621731976
+label: 6
+ml auc: 0.990739022882
+sk auc: 0.990739022882
+label: 7
+ml auc: 0.989811379097
+sk auc: 0.989811379097
+label: 8
+ml auc: 0.964593026962
+sk auc: 0.964593026962
+label: 9
+ml auc: 0.970361781076
+sk auc: 0.970361781076
+Saving result "runs/digits/1/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/digits/1/rf/estimators(500)-split(1).pickle", building and running classifier...
+64
+8.0
+1
+8
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.0317195325543
+ml rmse: 0.801709359116
+sk acc: 0.968280467446
+sk f1: 0.968262748153
+sk prec: 0.969284828751
+sk recl: 0.968280467446
+label: 0
+ml auc: 0.991525423729
+sk auc: 0.991525423729
+label: 1
+ml auc: 0.998141263941
+sk auc: 0.998141263941
+label: 2
+ml auc: 0.999074074074
+sk auc: 0.999074074074
+label: 3
+ml auc: 0.966283746724
+sk auc: 0.966283746724
+label: 4
+ml auc: 0.974072356215
+sk auc: 0.974072356215
+label: 5
+ml auc: 0.965354378695
+sk auc: 0.965354378695
+label: 6
+ml auc: 0.999072356215
+sk auc: 0.999072356215
+label: 7
+ml auc: 0.988883735312
+sk auc: 0.988883735312
+label: 8
+ml auc: 0.955972337306
+sk auc: 0.955972337306
+label: 9
+ml auc: 0.985173160173
+sk auc: 0.985173160173
+Saving result "runs/digits/1/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/digits/1/rf/estimators(500)-split(2).pickle", building and running classifier...
+64
+8.0
+2
+16
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.0300500834725
+ml rmse: 0.739986012592
+sk acc: 0.969949916528
+sk f1: 0.970048963091
+sk prec: 0.971028675517
+sk recl: 0.969949916528
+label: 0
+ml auc: 0.991525423729
+sk auc: 0.991525423729
+label: 1
+ml auc: 0.989944542629
+sk auc: 0.989944542629
+label: 2
+ml auc: 1.0
+sk auc: 1.0
+label: 3
+ml auc: 0.973551100006
+sk auc: 0.973551100006
+label: 4
+ml auc: 0.974072356215
+sk auc: 0.974072356215
+label: 5
+ml auc: 0.965354378695
+sk auc: 0.965354378695
+label: 6
+ml auc: 0.999072356215
+sk auc: 0.999072356215
+label: 7
+ml auc: 0.988883735312
+sk auc: 0.988883735312
+label: 8
+ml auc: 0.965517241379
+sk auc: 0.965517241379
+label: 9
+ml auc: 0.985173160173
+sk auc: 0.985173160173
+Saving result "runs/digits/1/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/digits/1/rf/estimators(500)-split(4).pickle", building and running classifier...
+64
+8.0
+4
+32
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.0434056761269
+ml rmse: 0.863854003617
+sk acc: 0.956594323873
+sk f1: 0.956503686414
+sk prec: 0.957215863269
+sk recl: 0.956594323873
+label: 0
+ml auc: 0.991525423729
+sk auc: 0.991525423729
+label: 1
+ml auc: 0.989944542629
+sk auc: 0.989944542629
+label: 2
+ml auc: 0.999074074074
+sk auc: 0.999074074074
+label: 3
+ml auc: 0.970762995917
+sk auc: 0.970762995917
+label: 4
+ml auc: 0.982405689549
+sk auc: 0.982405689549
+label: 5
+ml auc: 0.964425010665
+sk auc: 0.964425010665
+label: 6
+ml auc: 0.990739022882
+sk auc: 0.990739022882
+label: 7
+ml auc: 0.979622758194
+sk auc: 0.979622758194
+label: 8
+ml auc: 0.929186053923
+sk auc: 0.929186053923
+label: 9
+ml auc: 0.960173160173
+sk auc: 0.960173160173
+Saving result "runs/digits/1/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/digits/1/rf/estimators(500)-split(8).pickle", building and running classifier...
+64
+8.0
+8
+64
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.0450751252087
+ml rmse: 0.928135618436
+sk acc: 0.954924874791
+sk f1: 0.954660921999
+sk prec: 0.955332215464
+sk recl: 0.954924874791
+label: 0
+ml auc: 0.991525423729
+sk auc: 0.991525423729
+label: 1
+ml auc: 0.989015174599
+sk auc: 0.989015174599
+label: 2
+ml auc: 0.997222222222
+sk auc: 0.997222222222
+label: 3
+ml auc: 0.961636906576
+sk auc: 0.961636906576
+label: 4
+ml auc: 0.990739022882
+sk auc: 0.990739022882
+label: 5
+ml auc: 0.966283746724
+sk auc: 0.966283746724
+label: 6
+ml auc: 0.990739022882
+sk auc: 0.990739022882
+label: 7
+ml auc: 0.979622758194
+sk auc: 0.979622758194
+label: 8
+ml auc: 0.91964114985
+sk auc: 0.91964114985
+label: 9
+ml auc: 0.962028447743
+sk auc: 0.962028447743
+Saving result "runs/digits/1/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...
+Running trial 2...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/digits/2/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+64
+8.0
+0.5
+4
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.0183639398998
+ml rmse: 0.589275325306
+sk acc: 0.9816360601
+sk f1: 0.981554266447
+sk prec: 0.982164069853
+sk recl: 0.9816360601
+label: 0
+ml auc: 0.999074074074
+sk auc: 0.999074074074
+label: 1
+ml auc: 0.99907063197
+sk auc: 0.99907063197
+label: 2
+ml auc: 1.0
+sk auc: 1.0
+label: 3
+ml auc: 0.981747821318
+sk auc: 0.981747821318
+label: 4
+ml auc: 0.991666666667
+sk auc: 0.991666666667
+label: 5
+ml auc: 0.997211895911
+sk auc: 0.997211895911
+label: 6
+ml auc: 0.983333333333
+sk auc: 0.983333333333
+label: 7
+ml auc: 0.997217068646
+sk auc: 0.997217068646
+label: 8
+ml auc: 0.990455095927
+sk auc: 0.990455095927
+label: 9
+ml auc: 0.958333333333
+sk auc: 0.958333333333
+Saving result "runs/digits/2/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/digits/2/rf/estimators(500)-split(1).pickle", building and running classifier...
+64
+8.0
+1
+8
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.0233722871452
+ml rmse: 0.705333840374
+sk acc: 0.976627712855
+sk f1: 0.976548028232
+sk prec: 0.977064346034
+sk recl: 0.976627712855
+label: 0
+ml auc: 0.999074074074
+sk auc: 0.999074074074
+label: 1
+ml auc: 0.989944542629
+sk auc: 0.989944542629
+label: 2
+ml auc: 0.991525423729
+sk auc: 0.991525423729
+label: 3
+ml auc: 0.973551100006
+sk auc: 0.973551100006
+label: 4
+ml auc: 0.991666666667
+sk auc: 0.991666666667
+label: 5
+ml auc: 0.997211895911
+sk auc: 0.997211895911
+label: 6
+ml auc: 0.983333333333
+sk auc: 0.983333333333
+label: 7
+ml auc: 0.997217068646
+sk auc: 0.997217068646
+label: 8
+ml auc: 0.989530881509
+sk auc: 0.989530881509
+label: 9
+ml auc: 0.957405689549
+sk auc: 0.957405689549
+Saving result "runs/digits/2/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/digits/2/rf/estimators(500)-split(2).pickle", building and running classifier...
+64
+8.0
+2
+16
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.0233722871452
+ml rmse: 0.662619882372
+sk acc: 0.976627712855
+sk f1: 0.976577517502
+sk prec: 0.977149370147
+sk recl: 0.976627712855
+label: 0
+ml auc: 0.999074074074
+sk auc: 0.999074074074
+label: 1
+ml auc: 0.983606557377
+sk auc: 0.983606557377
+label: 2
+ml auc: 0.983050847458
+sk auc: 0.983050847458
+label: 3
+ml auc: 0.980818453288
+sk auc: 0.980818453288
+label: 4
+ml auc: 0.991666666667
+sk auc: 0.991666666667
+label: 5
+ml auc: 0.997211895911
+sk auc: 0.997211895911
+label: 6
+ml auc: 0.983333333333
+sk auc: 0.983333333333
+label: 7
+ml auc: 0.99814471243
+sk auc: 0.99814471243
+label: 8
+ml auc: 0.997227356747
+sk auc: 0.997227356747
+label: 9
+ml auc: 0.956478045764
+sk auc: 0.956478045764
+Saving result "runs/digits/2/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/digits/2/rf/estimators(500)-split(4).pickle", building and running classifier...
+64
+8.0
+4
+32
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.0317195325543
+ml rmse: 0.867710513877
+sk acc: 0.968280467446
+sk f1: 0.968230057533
+sk prec: 0.968823017075
+sk recl: 0.968280467446
+label: 0
+ml auc: 0.998148148148
+sk auc: 0.998148148148
+label: 1
+ml auc: 0.959016393443
+sk auc: 0.959016393443
+label: 2
+ml auc: 0.981198995606
+sk auc: 0.981198995606
+label: 3
+ml auc: 0.963495642635
+sk auc: 0.963495642635
+label: 4
+ml auc: 0.999072356215
+sk auc: 0.999072356215
+label: 5
+ml auc: 0.980818453288
+sk auc: 0.980818453288
+label: 6
+ml auc: 0.975
+sk auc: 0.975
+label: 7
+ml auc: 0.999072356215
+sk auc: 0.999072356215
+label: 8
+ml auc: 0.999075785582
+sk auc: 0.999075785582
+label: 9
+ml auc: 0.970361781076
+sk auc: 0.970361781076
+Saving result "runs/digits/2/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/digits/2/rf/estimators(500)-split(8).pickle", building and running classifier...
+64
+8.0
+8
+64
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.0634390651085
+ml rmse: 1.11373276318
+sk acc: 0.936560934891
+sk f1: 0.936296978407
+sk prec: 0.937920259607
+sk recl: 0.936560934891
+label: 0
+ml auc: 0.988747645951
+sk auc: 0.988747645951
+label: 1
+ml auc: 0.957157657383
+sk auc: 0.957157657383
+label: 2
+ml auc: 0.971798493409
+sk auc: 0.971798493409
+label: 3
+ml auc: 0.930708757389
+sk auc: 0.930708757389
+label: 4
+ml auc: 0.959245516388
+sk auc: 0.959245516388
+label: 5
+ml auc: 0.979889085258
+sk auc: 0.979889085258
+label: 6
+ml auc: 0.941666666667
+sk auc: 0.941666666667
+label: 7
+ml auc: 0.994434137291
+sk auc: 0.994434137291
+label: 8
+ml auc: 0.988606667092
+sk auc: 0.988606667092
+label: 9
+ml auc: 0.937028447743
+sk auc: 0.937028447743
+Saving result "runs/digits/2/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...

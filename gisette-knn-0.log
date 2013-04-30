@@ -1,0 +1,1029 @@
+Data set: gisette
+Algorithm: knn
+Loading gisette data set...
+Creating KNN hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for kNN...
+Applying classifier to trial...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(uniform).pickle", building and running classifier...
+run: neighbors(5)-weights(uniform)
+parameters: {'n_neighbors': 5, 'weights': 'uniform'}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(uniform).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(distance).pickle", building and running classifier...
+run: neighbors(5)-weights(distance)
+parameters: {'n_neighbors': 5, 'weights': 'distance'}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(distance).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 5, 'width': 0.10000000000000001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 5, 'width': 91.199999999999989}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 5, 'width': 182.29999999999998}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 5, 'width': 273.39999999999998}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 5, 'width': 364.5}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 5, 'width': 455.60000000000002}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 5, 'width': 546.69999999999993}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 5, 'width': 637.79999999999995}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 5, 'width': 728.89999999999998}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 5, 'width': 820.0}
+ml ce: 0.048
+ml rmse: 0.438178046004
+sk acc: 0.952
+sk f1: 0.952709359606
+sk prec: 0.954590325765
+sk recl: 0.950835791544
+label: 1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+label: -1
+ml auc: 0.952020133819
+sk auc: 0.952020133819
+Saving result "runs/gisette/0/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(uniform).pickle", building and running classifier...
+run: neighbors(40)-weights(uniform)
+parameters: {'n_neighbors': 40, 'weights': 'uniform'}
+ml ce: 0.0505
+ml rmse: 0.449444101085
+sk acc: 0.9495
+sk f1: 0.949525237381
+sk prec: 0.965447154472
+sk recl: 0.934119960669
+label: 1
+ml auc: 0.949765982369
+sk auc: 0.949765982369
+label: -1
+ml auc: 0.949765982369
+sk auc: 0.949765982369
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(uniform).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(distance).pickle", building and running classifier...
+run: neighbors(40)-weights(distance)
+parameters: {'n_neighbors': 40, 'weights': 'distance'}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(distance).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 40, 'width': 0.10000000000000001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 40, 'width': 91.199999999999989}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 40, 'width': 182.29999999999998}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 40, 'width': 273.39999999999998}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 40, 'width': 364.5}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 40, 'width': 455.60000000000002}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 40, 'width': 546.69999999999993}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 40, 'width': 637.79999999999995}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 40, 'width': 728.89999999999998}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 40, 'width': 820.0}
+ml ce: 0.0485
+ml rmse: 0.440454310911
+sk acc: 0.9515
+sk f1: 0.951669157947
+sk prec: 0.964646464646
+sk recl: 0.939036381514
+label: 1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+label: -1
+ml auc: 0.951715545793
+sk auc: 0.951715545793
+Saving result "runs/gisette/0/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(uniform).pickle", building and running classifier...
+run: neighbors(200)-weights(uniform)
+parameters: {'n_neighbors': 200, 'weights': 'uniform'}
+ml ce: 0.0705
+ml rmse: 0.531036721894
+sk acc: 0.9295
+sk f1: 0.928024502297
+sk prec: 0.964968152866
+sk recl: 0.893805309735
+label: 1
+ml auc: 0.930117303901
+sk auc: 0.930117303901
+label: -1
+ml auc: 0.930117303901
+sk auc: 0.930117303901
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(uniform).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(distance).pickle", building and running classifier...
+run: neighbors(200)-weights(distance)
+parameters: {'n_neighbors': 200, 'weights': 'distance'}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(distance).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 200, 'width': 0.10000000000000001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 200, 'width': 91.199999999999989}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 200, 'width': 182.29999999999998}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 200, 'width': 273.39999999999998}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 200, 'width': 364.5}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 200, 'width': 455.60000000000002}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 200, 'width': 546.69999999999993}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 200, 'width': 637.79999999999995}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 200, 'width': 728.89999999999998}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 200, 'width': 820.0}
+ml ce: 0.067
+ml rmse: 0.517687164222
+sk acc: 0.933
+sk f1: 0.931841302136
+sk prec: 0.965226554268
+sk recl: 0.900688298918
+label: 1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+label: -1
+ml auc: 0.933558798493
+sk auc: 0.933558798493
+Saving result "runs/gisette/0/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(uniform).pickle", building and running classifier...
+run: neighbors(500)-weights(uniform)
+parameters: {'n_neighbors': 500, 'weights': 'uniform'}
+ml ce: 0.101
+ml rmse: 0.635609943283
+sk acc: 0.899
+sk f1: 0.895661157025
+sk prec: 0.943416757345
+sk recl: 0.852507374631
+label: 1
+ml auc: 0.899804043369
+sk auc: 0.899804043369
+label: -1
+ml auc: 0.899804043369
+sk auc: 0.899804043369
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(uniform).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(distance).pickle", building and running classifier...
+run: neighbors(500)-weights(distance)
+parameters: {'n_neighbors': 500, 'weights': 'distance'}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(distance).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 500, 'width': 0.10000000000000001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 500, 'width': 91.199999999999989}
+ml ce: 0.0975
+ml rmse: 0.62449979984
+sk acc: 0.9025
+sk f1: 0.899639732373
+sk prec: 0.943844492441
+sk recl: 0.859390363815
+label: 1
+ml auc: 0.90324553796
+sk auc: 0.90324553796
+label: -1
+ml auc: 0.90324553796
+sk auc: 0.90324553796
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 500, 'width': 182.29999999999998}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 500, 'width': 273.39999999999998}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 500, 'width': 364.5}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 500, 'width': 455.60000000000002}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 500, 'width': 546.69999999999993}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 500, 'width': 637.79999999999995}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 500, 'width': 728.89999999999998}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 500, 'width': 820.0}
+ml ce: 0.099
+ml rmse: 0.629285308902
+sk acc: 0.901
+sk f1: 0.89793814433
+sk prec: 0.943661971831
+sk recl: 0.856440511308
+label: 1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+label: -1
+ml auc: 0.901770611707
+sk auc: 0.901770611707
+Saving result "runs/gisette/0/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(uniform).pickle", building and running classifier...
+run: neighbors(1000)-weights(uniform)
+parameters: {'n_neighbors': 1000, 'weights': 'uniform'}
+ml ce: 0.1175
+ml rmse: 0.68556546004
+sk acc: 0.8825
+sk f1: 0.874800213106
+sk prec: 0.954651162791
+sk recl: 0.807276302852
+label: 1
+ml auc: 0.883800918465
+sk auc: 0.883800918465
+label: -1
+ml auc: 0.883800918465
+sk auc: 0.883800918465
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(uniform).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(distance).pickle", building and running classifier...
+run: neighbors(1000)-weights(distance)
+parameters: {'n_neighbors': 1000, 'weights': 'distance'}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(distance).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 1000, 'width': 0.10000000000000001}
+ml ce: 0.5085
+ml rmse: 1.42618371888
+sk acc: 0.4915
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 1000, 'width': 91.199999999999989}
+ml ce: 0.1145
+ml rmse: 0.676756972628
+sk acc: 0.8855
+sk f1: 0.878256246677
+sk prec: 0.956018518519
+sk recl: 0.812192723697
+label: 1
+ml auc: 0.886767775887
+sk auc: 0.886767775887
+label: -1
+ml auc: 0.886767775887
+sk auc: 0.886767775887
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 1000, 'width': 182.29999999999998}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 1000, 'width': 273.39999999999998}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 1000, 'width': 364.5}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 1000, 'width': 455.60000000000002}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 1000, 'width': 546.69999999999993}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 1000, 'width': 637.79999999999995}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 1000, 'width': 728.89999999999998}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 1000, 'width': 820.0}
+ml ce: 0.117
+ml rmse: 0.684105255059
+sk acc: 0.883
+sk f1: 0.875531914894
+sk prec: 0.953650057937
+sk recl: 0.80924287119
+label: 1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+label: -1
+ml auc: 0.884275555636
+sk auc: 0.884275555636
+Saving result "runs/gisette/0/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle"...
+Clearing trial data from memory...

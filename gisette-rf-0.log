@@ -1,0 +1,113 @@
+Data set: gisette
+Algorithm: rf
+Loading gisette data set...
+Creating random forest hyper classifier...
+Running trial 0...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/gisette/0/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+5000
+70.7106781187
+0.5
+35
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.0315
+ml rmse: 0.354964786986
+sk acc: 0.9685
+sk f1: 0.968672302337
+sk prec: 0.979879275654
+sk recl: 0.957718780728
+label: 1
+ml auc: 0.968686450384
+sk auc: 0.968686450384
+label: -1
+ml auc: 0.968686450384
+sk auc: 0.968686450384
+Saving result "runs/gisette/0/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/gisette/0/rf/estimators(500)-split(1).pickle", building and running classifier...
+5000
+70.7106781187
+1
+70
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.034
+ml rmse: 0.368781778292
+sk acc: 0.966
+sk f1: 0.9662027833
+sk prec: 0.976884422111
+sk recl: 0.955752212389
+label: 1
+ml auc: 0.966177225218
+sk auc: 0.966177225218
+label: -1
+ml auc: 0.966177225218
+sk auc: 0.966177225218
+Saving result "runs/gisette/0/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/gisette/0/rf/estimators(500)-split(2).pickle", building and running classifier...
+5000
+70.7106781187
+2
+141
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.035
+ml rmse: 0.374165738677
+sk acc: 0.965
+sk f1: 0.965139442231
+sk prec: 0.977800201816
+sk recl: 0.952802359882
+label: 1
+ml auc: 0.965210945963
+sk auc: 0.965210945963
+label: -1
+ml auc: 0.965210945963
+sk auc: 0.965210945963
+Saving result "runs/gisette/0/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/gisette/0/rf/estimators(500)-split(4).pickle", building and running classifier...
+5000
+70.7106781187
+4
+282
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.032
+ml rmse: 0.3577708764
+sk acc: 0.968
+sk f1: 0.96815920398
+sk prec: 0.979859013092
+sk recl: 0.956735496559
+label: 1
+ml auc: 0.9681948083
+sk auc: 0.9681948083
+label: -1
+ml auc: 0.9681948083
+sk auc: 0.9681948083
+Saving result "runs/gisette/0/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/gisette/0/rf/estimators(500)-split(8).pickle", building and running classifier...
+5000
+70.7106781187
+8
+565
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.033
+ml rmse: 0.363318042492
+sk acc: 0.967
+sk f1: 0.967261904762
+sk prec: 0.975975975976
+sk recl: 0.958702064897
+label: 1
+ml auc: 0.967143504473
+sk auc: 0.967143504473
+label: -1
+ml auc: 0.967143504473
+sk auc: 0.967143504473
+Saving result "runs/gisette/0/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...

@@ -1,0 +1,3079 @@
+Data set: madelon
+Algorithm: knn
+Loading madelon data set...
+Creating KNN hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for kNN...
+Applying classifier to trial...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(uniform).pickle", building and running classifier...
+run: neighbors(5)-weights(uniform)
+parameters: {'n_neighbors': 5, 'weights': 'uniform'}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(distance).pickle", building and running classifier...
+run: neighbors(5)-weights(distance)
+parameters: {'n_neighbors': 5, 'weights': 'distance'}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(distance).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 5, 'width': 0.10000000000000001}
+ml ce: 0.499423298731
+ml rmse: 1.41339774831
+sk acc: 0.500576701269
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 5, 'width': 91.199999999999989}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 5, 'width': 182.29999999999998}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 5, 'width': 273.39999999999998}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 5, 'width': 364.5}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 5, 'width': 455.60000000000002}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 5, 'width': 546.69999999999993}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 5, 'width': 637.79999999999995}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 5, 'width': 728.89999999999998}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 5, 'width': 820.0}
+ml ce: 0.475201845444
+ml rmse: 1.37869771225
+sk acc: 0.524798154556
+sk f1: 0.457894736842
+sk prec: 0.532110091743
+sk recl: 0.401847575058
+label: 1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+label: -1
+ml auc: 0.524656506423
+sk auc: 0.524656506423
+Saving result "runs/madelon/0/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(uniform).pickle", building and running classifier...
+run: neighbors(40)-weights(uniform)
+parameters: {'n_neighbors': 40, 'weights': 'uniform'}
+ml ce: 0.433679354095
+ml rmse: 1.31708671559
+sk acc: 0.566320645905
+sk f1: 0.47191011236
+sk prec: 0.602150537634
+sk recl: 0.387990762125
+label: 1
+ml auc: 0.566115196731
+sk auc: 0.566115196731
+label: -1
+ml auc: 0.566115196731
+sk auc: 0.566115196731
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(distance).pickle", building and running classifier...
+run: neighbors(40)-weights(distance)
+parameters: {'n_neighbors': 40, 'weights': 'distance'}
+ml ce: 0.430219146482
+ml rmse: 1.31182185754
+sk acc: 0.569780853518
+sk f1: 0.496626180837
+sk prec: 0.597402597403
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.569613988783
+sk auc: 0.569613988783
+label: -1
+ml auc: 0.569613988783
+sk auc: 0.569613988783
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(distance).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 40, 'width': 0.10000000000000001}
+ml ce: 0.499423298731
+ml rmse: 1.41339774831
+sk acc: 0.500576701269
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 40, 'width': 91.199999999999989}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 40, 'width': 182.29999999999998}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 40, 'width': 273.39999999999998}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 40, 'width': 364.5}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 40, 'width': 455.60000000000002}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 40, 'width': 546.69999999999993}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 40, 'width': 637.79999999999995}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 40, 'width': 728.89999999999998}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 40, 'width': 820.0}
+ml ce: 0.432525951557
+ml rmse: 1.31533410441
+sk acc: 0.567474048443
+sk f1: 0.495289367429
+sk prec: 0.593548387097
+sk recl: 0.424942263279
+label: 1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+label: -1
+ml auc: 0.567309841317
+sk auc: 0.567309841317
+Saving result "runs/madelon/0/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(uniform).pickle", building and running classifier...
+run: neighbors(200)-weights(uniform)
+parameters: {'n_neighbors': 200, 'weights': 'uniform'}
+ml ce: 0.405997693195
+ml rmse: 1.27435896543
+sk acc: 0.594002306805
+sk f1: 0.542857142857
+sk prec: 0.620178041543
+sk recl: 0.482678983834
+label: 1
+ml auc: 0.593874054129
+sk auc: 0.593874054129
+label: -1
+ml auc: 0.593874054129
+sk auc: 0.593874054129
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(distance).pickle", building and running classifier...
+run: neighbors(200)-weights(distance)
+parameters: {'n_neighbors': 200, 'weights': 'distance'}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(distance).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 200, 'width': 0.10000000000000001}
+ml ce: 0.499423298731
+ml rmse: 1.41339774831
+sk acc: 0.500576701269
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 200, 'width': 91.199999999999989}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 200, 'width': 182.29999999999998}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 200, 'width': 273.39999999999998}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 200, 'width': 364.5}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 200, 'width': 455.60000000000002}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 200, 'width': 546.69999999999993}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 200, 'width': 637.79999999999995}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 200, 'width': 728.89999999999998}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 200, 'width': 820.0}
+ml ce: 0.411764705882
+ml rmse: 1.28337789584
+sk acc: 0.588235294118
+sk f1: 0.541720154044
+sk prec: 0.609826589595
+sk recl: 0.487297921478
+label: 1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+label: -1
+ml auc: 0.588119006822
+sk auc: 0.588119006822
+Saving result "runs/madelon/0/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(uniform).pickle", building and running classifier...
+run: neighbors(500)-weights(uniform)
+parameters: {'n_neighbors': 500, 'weights': 'uniform'}
+ml ce: 0.430219146482
+ml rmse: 1.31182185754
+sk acc: 0.569780853518
+sk f1: 0.544566544567
+sk prec: 0.577720207254
+sk recl: 0.515011547344
+label: 1
+ml auc: 0.569717755239
+sk auc: 0.569717755239
+label: -1
+ml auc: 0.569717755239
+sk auc: 0.569717755239
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(distance).pickle", building and running classifier...
+run: neighbors(500)-weights(distance)
+parameters: {'n_neighbors': 500, 'weights': 'distance'}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(distance).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 500, 'width': 0.10000000000000001}
+ml ce: 0.499423298731
+ml rmse: 1.41339774831
+sk acc: 0.500576701269
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 500, 'width': 91.199999999999989}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 500, 'width': 182.29999999999998}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 500, 'width': 273.39999999999998}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 500, 'width': 364.5}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 500, 'width': 455.60000000000002}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 500, 'width': 546.69999999999993}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 500, 'width': 637.79999999999995}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 500, 'width': 728.89999999999998}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 500, 'width': 820.0}
+ml ce: 0.424452133795
+ml rmse: 1.30299982163
+sk acc: 0.575547866205
+sk f1: 0.554479418886
+sk prec: 0.582697201018
+sk recl: 0.528868360277
+label: 1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+label: -1
+ml auc: 0.575494087973
+sk auc: 0.575494087973
+Saving result "runs/madelon/0/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(uniform).pickle", building and running classifier...
+run: neighbors(1000)-weights(uniform)
+parameters: {'n_neighbors': 1000, 'weights': 'uniform'}
+ml ce: 0.447520184544
+ml rmse: 1.33793898896
+sk acc: 0.552479815456
+sk f1: 0.542452830189
+sk prec: 0.55421686747
+sk recl: 0.531177829099
+label: 1
+ml auc: 0.552455273997
+sk auc: 0.552455273997
+label: -1
+ml auc: 0.552455273997
+sk auc: 0.552455273997
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(distance).pickle", building and running classifier...
+run: neighbors(1000)-weights(distance)
+parameters: {'n_neighbors': 1000, 'weights': 'distance'}
+ml ce: 0.452133794694
+ml rmse: 1.344817898
+sk acc: 0.547866205306
+sk f1: 0.542056074766
+sk prec: 0.548463356974
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.547852300423
+sk auc: 0.547852300423
+label: -1
+ml auc: 0.547852300423
+sk auc: 0.547852300423
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(distance).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 1000, 'width': 0.10000000000000001}
+ml ce: 0.499423298731
+ml rmse: 1.41339774831
+sk acc: 0.500576701269
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 1000, 'width': 91.199999999999989}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 1000, 'width': 182.29999999999998}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 1000, 'width': 273.39999999999998}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 1000, 'width': 364.5}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 1000, 'width': 455.60000000000002}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 1000, 'width': 546.69999999999993}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 1000, 'width': 637.79999999999995}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 1000, 'width': 728.89999999999998}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 1000, 'width': 820.0}
+ml ce: 0.453287197232
+ml rmse: 1.34653213438
+sk acc: 0.546712802768
+sk f1: 0.541423570595
+sk prec: 0.547169811321
+sk recl: 0.535796766744
+label: 1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+label: -1
+ml auc: 0.54670022669
+sk auc: 0.54670022669
+Saving result "runs/madelon/0/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle"...
+Clearing trial data from memory...
+Running trial 1...
+Creating trial data...
+Scaling data for kNN...
+Applying classifier to trial...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(uniform).pickle", building and running classifier...
+run: neighbors(5)-weights(uniform)
+parameters: {'n_neighbors': 5, 'weights': 'uniform'}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(distance).pickle", building and running classifier...
+run: neighbors(5)-weights(distance)
+parameters: {'n_neighbors': 5, 'weights': 'distance'}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(distance).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 5, 'width': 0.10000000000000001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 5, 'width': 91.199999999999989}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 5, 'width': 182.29999999999998}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 5, 'width': 273.39999999999998}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 5, 'width': 364.5}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 5, 'width': 455.60000000000002}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 5, 'width': 546.69999999999993}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 5, 'width': 637.79999999999995}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 5, 'width': 728.89999999999998}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 5, 'width': 820.0}
+ml ce: 0.456747404844
+ml rmse: 1.35166179919
+sk acc: 0.543252595156
+sk f1: 0.478947368421
+sk prec: 0.558282208589
+sk recl: 0.41935483871
+label: 1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+label: -1
+ml auc: 0.543395664159
+sk auc: 0.543395664159
+Saving result "runs/madelon/1/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(uniform).pickle", building and running classifier...
+run: neighbors(40)-weights(uniform)
+parameters: {'n_neighbors': 40, 'weights': 'uniform'}
+ml ce: 0.405997693195
+ml rmse: 1.27435896543
+sk acc: 0.594002306805
+sk f1: 0.485380116959
+sk prec: 0.664
+sk recl: 0.382488479263
+label: 1
+ml auc: 0.5942465491
+sk auc: 0.5942465491
+label: -1
+ml auc: 0.5942465491
+sk auc: 0.5942465491
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(distance).pickle", building and running classifier...
+run: neighbors(40)-weights(distance)
+parameters: {'n_neighbors': 40, 'weights': 'distance'}
+ml ce: 0.40830449827
+ml rmse: 1.27797417544
+sk acc: 0.59169550173
+sk f1: 0.515068493151
+sk prec: 0.635135135135
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.591878545354
+sk auc: 0.591878545354
+label: -1
+ml auc: 0.591878545354
+sk auc: 0.591878545354
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(distance).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 40, 'width': 0.10000000000000001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 40, 'width': 91.199999999999989}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 40, 'width': 182.29999999999998}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 40, 'width': 273.39999999999998}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 40, 'width': 364.5}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 40, 'width': 455.60000000000002}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 40, 'width': 546.69999999999993}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 40, 'width': 637.79999999999995}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 40, 'width': 728.89999999999998}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 40, 'width': 820.0}
+ml ce: 0.407151095732
+ml rmse: 1.27616785061
+sk acc: 0.592848904268
+sk f1: 0.515775034294
+sk prec: 0.637288135593
+sk recl: 0.433179723502
+label: 1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+label: -1
+ml auc: 0.593033279765
+sk auc: 0.593033279765
+Saving result "runs/madelon/1/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(uniform).pickle", building and running classifier...
+run: neighbors(200)-weights(uniform)
+parameters: {'n_neighbors': 200, 'weights': 'uniform'}
+ml ce: 0.374855824683
+ml rmse: 1.22450941145
+sk acc: 0.625144175317
+sk f1: 0.574049803408
+sk prec: 0.665653495441
+sk recl: 0.504608294931
+label: 1
+ml auc: 0.625283362246
+sk auc: 0.625283362246
+label: -1
+ml auc: 0.625283362246
+sk auc: 0.625283362246
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(distance).pickle", building and running classifier...
+run: neighbors(200)-weights(distance)
+parameters: {'n_neighbors': 200, 'weights': 'distance'}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(distance).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 200, 'width': 0.10000000000000001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 200, 'width': 91.199999999999989}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 200, 'width': 182.29999999999998}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 200, 'width': 273.39999999999998}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 200, 'width': 364.5}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 200, 'width': 455.60000000000002}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 200, 'width': 546.69999999999993}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 200, 'width': 637.79999999999995}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 200, 'width': 728.89999999999998}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 200, 'width': 820.0}
+ml ce: 0.37139561707
+ml rmse: 1.2188447269
+sk acc: 0.62860438293
+sk f1: 0.587179487179
+sk prec: 0.661849710983
+sk recl: 0.527649769585
+label: 1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+label: -1
+ml auc: 0.628720958696
+sk auc: 0.628720958696
+Saving result "runs/madelon/1/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(uniform).pickle", building and running classifier...
+run: neighbors(500)-weights(uniform)
+parameters: {'n_neighbors': 500, 'weights': 'uniform'}
+ml ce: 0.39446366782
+ml rmse: 1.25612685318
+sk acc: 0.60553633218
+sk f1: 0.570351758794
+sk prec: 0.627071823204
+sk recl: 0.523041474654
+label: 1
+ml auc: 0.605631591831
+sk auc: 0.605631591831
+label: -1
+ml auc: 0.605631591831
+sk auc: 0.605631591831
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(distance).pickle", building and running classifier...
+run: neighbors(500)-weights(distance)
+parameters: {'n_neighbors': 500, 'weights': 'distance'}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(distance).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 500, 'width': 0.10000000000000001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 500, 'width': 91.199999999999989}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 500, 'width': 182.29999999999998}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 500, 'width': 273.39999999999998}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 500, 'width': 364.5}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 500, 'width': 455.60000000000002}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 500, 'width': 546.69999999999993}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 500, 'width': 637.79999999999995}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 500, 'width': 728.89999999999998}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 500, 'width': 820.0}
+ml ce: 0.391003460208
+ml rmse: 1.25060538973
+sk acc: 0.608996539792
+sk f1: 0.577833125778
+sk prec: 0.628726287263
+sk recl: 0.534562211982
+label: 1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+label: -1
+ml auc: 0.609082491672
+sk auc: 0.609082491672
+Saving result "runs/madelon/1/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(uniform).pickle", building and running classifier...
+run: neighbors(1000)-weights(uniform)
+parameters: {'n_neighbors': 1000, 'weights': 'uniform'}
+ml ce: 0.415224913495
+ml rmse: 1.28875895884
+sk acc: 0.584775086505
+sk f1: 0.56204379562
+sk prec: 0.595360824742
+sk recl: 0.532258064516
+label: 1
+ml auc: 0.584835729718
+sk auc: 0.584835729718
+label: -1
+ml auc: 0.584835729718
+sk auc: 0.584835729718
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(distance).pickle", building and running classifier...
+run: neighbors(1000)-weights(distance)
+parameters: {'n_neighbors': 1000, 'weights': 'distance'}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.564903846154
+sk prec: 0.590452261307
+sk recl: 0.541474654378
+label: 1
+ml auc: 0.582515618182
+sk auc: 0.582515618182
+label: -1
+ml auc: 0.582515618182
+sk auc: 0.582515618182
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(distance).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 1000, 'width': 0.10000000000000001}
+ml ce: 0.500576701269
+ml rmse: 1.41502890609
+sk acc: 0.499423298731
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 1000, 'width': 91.199999999999989}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 1000, 'width': 182.29999999999998}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 1000, 'width': 273.39999999999998}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 1000, 'width': 364.5}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 1000, 'width': 455.60000000000002}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 1000, 'width': 546.69999999999993}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 1000, 'width': 637.79999999999995}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 1000, 'width': 728.89999999999998}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 1000, 'width': 820.0}
+ml ce: 0.41753171857
+ml rmse: 1.29233388653
+sk acc: 0.58246828143
+sk f1: 0.563855421687
+sk prec: 0.590909090909
+sk recl: 0.539170506912
+label: 1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+label: -1
+ml auc: 0.58251827886
+sk auc: 0.58251827886
+Saving result "runs/madelon/1/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle"...
+Clearing trial data from memory...
+Running trial 2...
+Creating trial data...
+Scaling data for kNN...
+Applying classifier to trial...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(uniform).pickle", building and running classifier...
+run: neighbors(5)-weights(uniform)
+parameters: {'n_neighbors': 5, 'weights': 'uniform'}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(distance).pickle", building and running classifier...
+run: neighbors(5)-weights(distance)
+parameters: {'n_neighbors': 5, 'weights': 'distance'}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(distance).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 5, 'width': 0.10000000000000001}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 5, 'width': 91.199999999999989}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 5, 'width': 182.29999999999998}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 5, 'width': 273.39999999999998}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 5, 'width': 364.5}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 5, 'width': 455.60000000000002}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 5, 'width': 546.69999999999993}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 5, 'width': 637.79999999999995}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 5, 'width': 728.89999999999998}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 5, 'width': 820.0}
+ml ce: 0.476905311778
+ml rmse: 1.3811666254
+sk acc: 0.523094688222
+sk f1: 0.510083036773
+sk prec: 0.524390243902
+sk recl: 0.496535796767
+label: 1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+label: -1
+ml auc: 0.523094688222
+sk auc: 0.523094688222
+Saving result "runs/madelon/2/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(uniform).pickle", building and running classifier...
+run: neighbors(40)-weights(uniform)
+parameters: {'n_neighbors': 40, 'weights': 'uniform'}
+ml ce: 0.427251732102
+ml rmse: 1.3072899175
+sk acc: 0.572748267898
+sk f1: 0.491758241758
+sk prec: 0.606779661017
+sk recl: 0.413394919169
+label: 1
+ml auc: 0.572748267898
+sk auc: 0.572748267898
+label: -1
+ml auc: 0.572748267898
+sk auc: 0.572748267898
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(distance).pickle", building and running classifier...
+run: neighbors(40)-weights(distance)
+parameters: {'n_neighbors': 40, 'weights': 'distance'}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(distance).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 40, 'width': 0.10000000000000001}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 40, 'width': 91.199999999999989}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 40, 'width': 182.29999999999998}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 40, 'width': 273.39999999999998}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 40, 'width': 364.5}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 40, 'width': 455.60000000000002}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 40, 'width': 546.69999999999993}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 40, 'width': 637.79999999999995}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 40, 'width': 728.89999999999998}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 40, 'width': 820.0}
+ml ce: 0.430715935335
+ml rmse: 1.31257904194
+sk acc: 0.569284064665
+sk f1: 0.518709677419
+sk prec: 0.587719298246
+sk recl: 0.464203233256
+label: 1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+label: -1
+ml auc: 0.569284064665
+sk auc: 0.569284064665
+Saving result "runs/madelon/2/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(uniform).pickle", building and running classifier...
+run: neighbors(200)-weights(uniform)
+parameters: {'n_neighbors': 200, 'weights': 'uniform'}
+ml ce: 0.412240184758
+ml rmse: 1.28411866236
+sk acc: 0.587759815242
+sk f1: 0.477306002928
+sk prec: 0.652
+sk recl: 0.376443418014
+label: 1
+ml auc: 0.587759815242
+sk auc: 0.587759815242
+label: -1
+ml auc: 0.587759815242
+sk auc: 0.587759815242
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(distance).pickle", building and running classifier...
+run: neighbors(200)-weights(distance)
+parameters: {'n_neighbors': 200, 'weights': 'distance'}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(distance).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 200, 'width': 0.10000000000000001}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 200, 'width': 91.199999999999989}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 200, 'width': 182.29999999999998}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 200, 'width': 273.39999999999998}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 200, 'width': 364.5}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 200, 'width': 455.60000000000002}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 200, 'width': 546.69999999999993}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 200, 'width': 637.79999999999995}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 200, 'width': 728.89999999999998}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 200, 'width': 820.0}
+ml ce: 0.403002309469
+ml rmse: 1.26964925782
+sk acc: 0.596997690531
+sk f1: 0.500715307582
+sk prec: 0.657894736842
+sk recl: 0.40415704388
+label: 1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+label: -1
+ml auc: 0.596997690531
+sk auc: 0.596997690531
+Saving result "runs/madelon/2/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(uniform).pickle", building and running classifier...
+run: neighbors(500)-weights(uniform)
+parameters: {'n_neighbors': 500, 'weights': 'uniform'}
+ml ce: 0.422632794457
+ml rmse: 1.30020428311
+sk acc: 0.577367205543
+sk f1: 0.436923076923
+sk prec: 0.654377880184
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.577367205543
+sk auc: 0.577367205543
+label: -1
+ml auc: 0.577367205543
+sk auc: 0.577367205543
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(distance).pickle", building and running classifier...
+run: neighbors(500)-weights(distance)
+parameters: {'n_neighbors': 500, 'weights': 'distance'}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(distance).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 500, 'width': 0.10000000000000001}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 500, 'width': 91.199999999999989}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 500, 'width': 182.29999999999998}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 500, 'width': 273.39999999999998}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 500, 'width': 364.5}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 500, 'width': 455.60000000000002}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 500, 'width': 546.69999999999993}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 500, 'width': 637.79999999999995}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 500, 'width': 728.89999999999998}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 500, 'width': 820.0}
+ml ce: 0.418013856813
+ml rmse: 1.29307982246
+sk acc: 0.581986143187
+sk f1: 0.451515151515
+sk prec: 0.656387665198
+sk recl: 0.344110854503
+label: 1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+label: -1
+ml auc: 0.581986143187
+sk auc: 0.581986143187
+Saving result "runs/madelon/2/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(uniform).pickle", building and running classifier...
+run: neighbors(1000)-weights(uniform)
+parameters: {'n_neighbors': 1000, 'weights': 'uniform'}
+ml ce: 0.409930715935
+ml rmse: 1.28051663938
+sk acc: 0.590069284065
+sk f1: 0.433811802233
+sk prec: 0.701030927835
+sk recl: 0.314087759815
+label: 1
+ml auc: 0.590069284065
+sk auc: 0.590069284065
+label: -1
+ml auc: 0.590069284065
+sk auc: 0.590069284065
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(uniform).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(distance).pickle", building and running classifier...
+run: neighbors(1000)-weights(distance)
+parameters: {'n_neighbors': 1000, 'weights': 'distance'}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(distance).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 1000, 'width': 0.10000000000000001}
+ml ce: 0.5
+ml rmse: 1.41421356237
+sk acc: 0.5
+sk f1: 0.0
+sk prec: 0.0
+sk recl: 0.0
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: -1
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 1000, 'width': 91.199999999999989}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 1000, 'width': 182.29999999999998}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 1000, 'width': 273.39999999999998}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 1000, 'width': 364.5}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 1000, 'width': 455.60000000000002}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 1000, 'width': 546.69999999999993}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 1000, 'width': 637.79999999999995}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 1000, 'width': 728.89999999999998}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 1000, 'width': 820.0}
+ml ce: 0.407621247113
+ml rmse: 1.27690445549
+sk acc: 0.592378752887
+sk f1: 0.445839874411
+sk prec: 0.696078431373
+sk recl: 0.327944572748
+label: 1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+label: -1
+ml auc: 0.592378752887
+sk auc: 0.592378752887
+Saving result "runs/madelon/2/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle"...
+Clearing trial data from memory...

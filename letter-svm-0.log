@@ -1,0 +1,3747 @@
+Data set: letter
+Algorithm: svm
+Loading letter data set...
+Creating SVM hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.20225
+ml rmse: 3.50820466906
+sk acc: 0.79775
+sk f1: 0.806736062754
+sk prec: 0.839646190722
+sk recl: 0.79775
+label: 0
+ml auc: 0.938452199899
+sk auc: 0.938452199899
+label: 1
+ml auc: 0.944647424187
+sk auc: 0.944647424187
+label: 2
+ml auc: 0.883154812754
+sk auc: 0.883154812754
+label: 3
+ml auc: 0.964574894042
+sk auc: 0.964574894042
+label: 4
+ml auc: 0.879800853485
+sk auc: 0.879800853485
+label: 5
+ml auc: 0.899491327594
+sk auc: 0.899491327594
+label: 6
+ml auc: 0.901679213612
+sk auc: 0.901679213612
+label: 7
+ml auc: 0.686403452174
+sk auc: 0.686403452174
+label: 8
+ml auc: 0.91410849038
+sk auc: 0.91410849038
+label: 9
+ml auc: 0.908783783784
+sk auc: 0.908783783784
+label: 10
+ml auc: 0.826302151829
+sk auc: 0.826302151829
+label: 11
+ml auc: 0.913882632166
+sk auc: 0.913882632166
+label: 12
+ml auc: 0.974397763947
+sk auc: 0.974397763947
+label: 13
+ml auc: 0.887250095845
+sk auc: 0.887250095845
+label: 14
+ml auc: 0.941927110992
+sk auc: 0.941927110992
+label: 15
+ml auc: 0.886382841237
+sk auc: 0.886382841237
+label: 16
+ml auc: 0.883773237896
+sk auc: 0.883773237896
+label: 17
+ml auc: 0.868092104731
+sk auc: 0.868092104731
+label: 18
+ml auc: 0.799919589567
+sk auc: 0.799919589567
+label: 19
+ml auc: 0.926762606267
+sk auc: 0.926762606267
+label: 20
+ml auc: 0.896199920469
+sk auc: 0.896199920469
+label: 21
+ml auc: 0.951558884423
+sk auc: 0.951558884423
+label: 22
+ml auc: 0.962992775942
+sk auc: 0.962992775942
+label: 23
+ml auc: 0.792123709922
+sk auc: 0.792123709922
+label: 24
+ml auc: 0.939563486739
+sk auc: 0.939563486739
+label: 25
+ml auc: 0.920365513742
+sk auc: 0.920365513742
+Saving result "runs/letter/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.0545
+ml rmse: 1.82619823677
+sk acc: 0.9455
+sk f1: 0.945679487659
+sk prec: 0.946579842721
+sk recl: 0.9455
+label: 0
+ml auc: 0.990124469703
+sk auc: 0.990124469703
+label: 1
+ml auc: 0.975870783096
+sk auc: 0.975870783096
+label: 2
+ml auc: 0.981227958732
+sk auc: 0.981227958732
+label: 3
+ml auc: 0.979296559503
+sk auc: 0.979296559503
+label: 4
+ml auc: 0.969355235803
+sk auc: 0.969355235803
+label: 5
+ml auc: 0.968508692793
+sk auc: 0.968508692793
+label: 6
+ml auc: 0.960416719652
+sk auc: 0.960416719652
+label: 7
+ml auc: 0.918321435515
+sk auc: 0.918321435515
+label: 8
+ml auc: 0.969175457311
+sk auc: 0.969175457311
+label: 9
+ml auc: 0.978301900031
+sk auc: 0.978301900031
+label: 10
+ml auc: 0.956828344151
+sk auc: 0.956828344151
+label: 11
+ml auc: 0.967372226117
+sk auc: 0.967372226117
+label: 12
+ml auc: 0.992536883356
+sk auc: 0.992536883356
+label: 13
+ml auc: 0.951415992609
+sk auc: 0.951415992609
+label: 14
+ml auc: 0.98175538823
+sk auc: 0.98175538823
+label: 15
+ml auc: 0.96647902376
+sk auc: 0.96647902376
+label: 16
+ml auc: 0.978775226166
+sk auc: 0.978775226166
+label: 17
+ml auc: 0.96686022337
+sk auc: 0.96686022337
+label: 18
+ml auc: 0.961951465751
+sk auc: 0.961951465751
+label: 19
+ml auc: 0.979742738718
+sk auc: 0.979742738718
+label: 20
+ml auc: 0.975799035689
+sk auc: 0.975799035689
+label: 21
+ml auc: 0.977552977713
+sk auc: 0.977552977713
+label: 22
+ml auc: 0.992417255007
+sk auc: 0.992417255007
+label: 23
+ml auc: 0.974061720693
+sk auc: 0.974061720693
+label: 24
+ml auc: 0.974954157163
+sk auc: 0.974954157163
+label: 25
+ml auc: 0.980492096021
+sk auc: 0.980492096021
+Saving result "runs/letter/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.05575
+ml rmse: 1.91454955538
+sk acc: 0.94425
+sk f1: 0.944478361536
+sk prec: 0.945643708427
+sk recl: 0.94425
+label: 0
+ml auc: 0.990124469703
+sk auc: 0.990124469703
+label: 1
+ml auc: 0.979288454512
+sk auc: 0.979288454512
+label: 2
+ml auc: 0.981487160391
+sk auc: 0.981487160391
+label: 3
+ml auc: 0.982029679228
+sk auc: 0.982029679228
+label: 4
+ml auc: 0.966065762118
+sk auc: 0.966065762118
+label: 5
+ml auc: 0.97805267155
+sk auc: 0.97805267155
+label: 6
+ml auc: 0.966644624736
+sk auc: 0.966644624736
+label: 7
+ml auc: 0.92124298218
+sk auc: 0.92124298218
+label: 8
+ml auc: 0.974844929082
+sk auc: 0.974844929082
+label: 9
+ml auc: 0.975053324352
+sk auc: 0.975053324352
+label: 10
+ml auc: 0.946424636208
+sk auc: 0.946424636208
+label: 11
+ml auc: 0.96724211943
+sk auc: 0.96724211943
+label: 12
+ml auc: 0.992407215307
+sk auc: 0.992407215307
+label: 13
+ml auc: 0.948534356518
+sk auc: 0.948534356518
+label: 14
+ml auc: 0.974302143367
+sk auc: 0.974302143367
+label: 15
+ml auc: 0.966609503927
+sk auc: 0.966609503927
+label: 16
+ml auc: 0.978905706333
+sk auc: 0.978905706333
+label: 17
+ml auc: 0.957673695434
+sk auc: 0.957673695434
+label: 18
+ml auc: 0.95897611794
+sk auc: 0.95897611794
+label: 19
+ml auc: 0.979872642589
+sk auc: 0.979872642589
+label: 20
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 21
+ml auc: 0.981358847887
+sk auc: 0.981358847887
+label: 22
+ml auc: 0.992417255007
+sk auc: 0.992417255007
+label: 23
+ml auc: 0.968293110252
+sk auc: 0.968293110252
+label: 24
+ml auc: 0.971505881301
+sk auc: 0.971505881301
+label: 25
+ml auc: 0.980231814917
+sk auc: 0.980231814917
+Saving result "runs/letter/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.912
+ml rmse: 7.82638166716
+sk acc: 0.088
+sk f1: 0.0412392311214
+sk prec: 0.0690236185789
+sk recl: 0.088
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.605095541401
+sk auc: 0.605095541401
+label: 12
+ml auc: 0.600924965422
+sk auc: 0.600924965422
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.851229957381
+sk auc: 0.851229957381
+label: 20
+ml auc: 0.577971219803
+sk auc: 0.577971219803
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.20675
+ml rmse: 3.54904916844
+sk acc: 0.79325
+sk f1: 0.818230715957
+sk prec: 0.876745195561
+sk recl: 0.79325
+label: 0
+ml auc: 0.948327730196
+sk auc: 0.948327730196
+label: 1
+ml auc: 0.907753318719
+sk auc: 0.907753318719
+label: 2
+ml auc: 0.897757723114
+sk auc: 0.897757723114
+label: 3
+ml auc: 0.899489307323
+sk auc: 0.899489307323
+label: 4
+ml auc: 0.816870007659
+sk auc: 0.816870007659
+label: 5
+ml auc: 0.925895061256
+sk auc: 0.925895061256
+label: 6
+ml auc: 0.857200081386
+sk auc: 0.857200081386
+label: 7
+ml auc: 0.703869070663
+sk auc: 0.703869070663
+label: 8
+ml auc: 0.917921061989
+sk auc: 0.917921061989
+label: 9
+ml auc: 0.911902556762
+sk auc: 0.911902556762
+label: 10
+ml auc: 0.855126500842
+sk auc: 0.855126500842
+label: 11
+ml auc: 0.920382165605
+sk auc: 0.920382165605
+label: 12
+ml auc: 0.971703550023
+sk auc: 0.971703550023
+label: 13
+ml auc: 0.874941078869
+sk auc: 0.874941078869
+label: 14
+ml auc: 0.930933574818
+sk auc: 0.930933574818
+label: 15
+ml auc: 0.898418083308
+sk auc: 0.898418083308
+label: 16
+ml auc: 0.820254249925
+sk auc: 0.820254249925
+label: 17
+ml auc: 0.860879434506
+sk auc: 0.860879434506
+label: 18
+ml auc: 0.870196204692
+sk auc: 0.870196204692
+label: 19
+ml auc: 0.933385122824
+sk auc: 0.933385122824
+label: 20
+ml auc: 0.892465702356
+sk auc: 0.892465702356
+label: 21
+ml auc: 0.95497655584
+sk auc: 0.95497655584
+label: 22
+ml auc: 0.978028765799
+sk auc: 0.978028765799
+label: 23
+ml auc: 0.837210730303
+sk auc: 0.837210730303
+label: 24
+ml auc: 0.944179077776
+sk auc: 0.944179077776
+label: 25
+ml auc: 0.913906259266
+sk auc: 0.913906259266
+Saving result "runs/letter/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.04775
+ml rmse: 1.74212513902
+sk acc: 0.95225
+sk f1: 0.952458642143
+sk prec: 0.953204851752
+sk recl: 0.95225
+label: 0
+ml auc: 0.993069452227
+sk auc: 0.993069452227
+label: 1
+ml auc: 0.972064912922
+sk auc: 0.972064912922
+label: 2
+ml auc: 0.978484436948
+sk auc: 0.978484436948
+label: 3
+ml auc: 0.977346116533
+sk auc: 0.977346116533
+label: 4
+ml auc: 0.979353594485
+sk auc: 0.979353594485
+label: 5
+ml auc: 0.978442585768
+sk auc: 0.978442585768
+label: 6
+ml auc: 0.979882499555
+sk auc: 0.979882499555
+label: 7
+ml auc: 0.933708592066
+sk auc: 0.933708592066
+label: 8
+ml auc: 0.978266366402
+sk auc: 0.978266366402
+label: 9
+ml auc: 0.978301900031
+sk auc: 0.978301900031
+label: 10
+ml auc: 0.95747702085
+sk auc: 0.95747702085
+label: 11
+ml auc: 0.976536046182
+sk auc: 0.976536046182
+label: 12
+ml auc: 0.996398109728
+sk auc: 0.996398109728
+label: 13
+ml auc: 0.978915662651
+sk auc: 0.978915662651
+label: 14
+ml auc: 0.974172643237
+sk auc: 0.974172643237
+label: 15
+ml auc: 0.960657122974
+sk auc: 0.960657122974
+label: 16
+ml auc: 0.96647902376
+sk auc: 0.96647902376
+label: 17
+ml auc: 0.971137993687
+sk auc: 0.971137993687
+label: 18
+ml auc: 0.962472434753
+sk auc: 0.962472434753
+label: 19
+ml auc: 0.983183900867
+sk auc: 0.983183900867
+label: 20
+ml auc: 0.987834277761
+sk auc: 0.987834277761
+label: 21
+ml auc: 0.977164778955
+sk auc: 0.977164778955
+label: 22
+ml auc: 0.988431632317
+sk auc: 0.988431632317
+label: 23
+ml auc: 0.96501828173
+sk auc: 0.96501828173
+label: 24
+ml auc: 0.978532134711
+sk auc: 0.978532134711
+label: 25
+ml auc: 0.983396371879
+sk auc: 0.983396371879
+Saving result "runs/letter/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 3}
+ml ce: 0.05225
+ml rmse: 1.81452473116
+sk acc: 0.94775
+sk f1: 0.947886217989
+sk prec: 0.948732182264
+sk recl: 0.94775
+label: 0
+ml auc: 0.993069452227
+sk auc: 0.993069452227
+label: 1
+ml auc: 0.97574138351
+sk auc: 0.97574138351
+label: 2
+ml auc: 0.97809563446
+sk auc: 0.97809563446
+label: 3
+ml auc: 0.973569427802
+sk auc: 0.973569427802
+label: 4
+ml auc: 0.979223656855
+sk auc: 0.979223656855
+label: 5
+ml auc: 0.981840531031
+sk auc: 0.981840531031
+label: 6
+ml auc: 0.977355095501
+sk auc: 0.977355095501
+label: 7
+ml auc: 0.930527237659
+sk auc: 0.930527237659
+label: 8
+ml auc: 0.969045079215
+sk auc: 0.969045079215
+label: 9
+ml auc: 0.981550475709
+sk auc: 0.981550475709
+label: 10
+ml auc: 0.946943577568
+sk auc: 0.946943577568
+label: 11
+ml auc: 0.976275832807
+sk auc: 0.976275832807
+label: 12
+ml auc: 0.996398109728
+sk auc: 0.996398109728
+label: 13
+ml auc: 0.975773202356
+sk auc: 0.975773202356
+label: 14
+ml auc: 0.963122276072
+sk auc: 0.963122276072
+label: 15
+ml auc: 0.96647902376
+sk auc: 0.96647902376
+label: 16
+ml auc: 0.957811412665
+sk auc: 0.957811412665
+label: 17
+ml auc: 0.973983099248
+sk auc: 0.973983099248
+label: 18
+ml auc: 0.946814242192
+sk auc: 0.946814242192
+label: 19
+ml auc: 0.973250126033
+sk auc: 0.973250126033
+label: 20
+ml auc: 0.984727607118
+sk auc: 0.984727607118
+label: 21
+ml auc: 0.977164778955
+sk auc: 0.977164778955
+label: 22
+ml auc: 0.988431632317
+sk auc: 0.988431632317
+label: 23
+ml auc: 0.964888107296
+sk auc: 0.964888107296
+label: 24
+ml auc: 0.981850708887
+sk auc: 0.981850708887
+label: 25
+ml auc: 0.983396371879
+sk auc: 0.983396371879
+Saving result "runs/letter/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.001}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.001}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.001}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.001}
+ml ce: 0.4665
+ml rmse: 5.51874079841
+sk acc: 0.5335
+sk f1: 0.517634023789
+sk prec: 0.60672317814
+sk recl: 0.5335
+label: 0
+ml auc: 0.91865444649
+sk auc: 0.91865444649
+label: 1
+ml auc: 0.808610400682
+sk auc: 0.808610400682
+label: 2
+ml auc: 0.819407632941
+sk auc: 0.819407632941
+label: 3
+ml auc: 0.915695090383
+sk auc: 0.915695090383
+label: 4
+ml auc: 0.65018738374
+sk auc: 0.65018738374
+label: 5
+ml auc: 0.804516209048
+sk auc: 0.804516209048
+label: 6
+ml auc: 0.656864365828
+sk auc: 0.656864365828
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.864221089645
+sk auc: 0.864221089645
+label: 9
+ml auc: 0.87669094328
+sk auc: 0.87669094328
+label: 10
+ml auc: 0.542626056543
+sk auc: 0.542626056543
+label: 11
+ml auc: 0.862927218153
+sk auc: 0.862927218153
+label: 12
+ml auc: 0.930886929461
+sk auc: 0.930886929461
+label: 13
+ml auc: 0.802534079982
+sk auc: 0.802534079982
+label: 14
+ml auc: 0.736531520704
+sk auc: 0.736531520704
+label: 15
+ml auc: 0.869128392484
+sk auc: 0.869128392484
+label: 16
+ml auc: 0.650717019584
+sk auc: 0.650717019584
+label: 17
+ml auc: 0.576858298049
+sk auc: 0.576858298049
+label: 18
+ml auc: 0.533640521681
+sk auc: 0.533640521681
+label: 19
+ml auc: 0.737824738171
+sk auc: 0.737824738171
+label: 20
+ml auc: 0.862287503728
+sk auc: 0.862287503728
+label: 21
+ml auc: 0.891289124345
+sk auc: 0.891289124345
+label: 22
+ml auc: 0.90551055659
+sk auc: 0.90551055659
+label: 23
+ml auc: 0.728421745516
+sk auc: 0.728421745516
+label: 24
+ml auc: 0.567409097008
+sk auc: 0.567409097008
+label: 25
+ml auc: 0.698976666952
+sk auc: 0.698976666952
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.001}
+ml ce: 0.13275
+ml rmse: 3.02295385344
+sk acc: 0.86725
+sk f1: 0.867548078941
+sk prec: 0.870862779612
+sk recl: 0.86725
+label: 0
+ml auc: 0.963182715654
+sk auc: 0.963182715654
+label: 1
+ml auc: 0.951612166606
+sk auc: 0.951612166606
+label: 2
+ml auc: 0.927633452347
+sk auc: 0.927633452347
+label: 3
+ml auc: 0.957288657748
+sk auc: 0.957288657748
+label: 4
+ml auc: 0.923473574789
+sk auc: 0.923473574789
+label: 5
+ml auc: 0.943813276112
+sk auc: 0.943813276112
+label: 6
+ml auc: 0.900665072866
+sk auc: 0.900665072866
+label: 7
+ml auc: 0.870145165425
+sk auc: 0.870145165425
+label: 8
+ml auc: 0.928347358856
+sk auc: 0.928347358856
+label: 9
+ml auc: 0.93984171087
+sk auc: 0.93984171087
+label: 10
+ml auc: 0.907326314592
+sk auc: 0.907326314592
+label: 11
+ml auc: 0.929155665608
+sk auc: 0.929155665608
+label: 12
+ml auc: 0.97709197787
+sk auc: 0.97709197787
+label: 13
+ml auc: 0.945000659917
+sk auc: 0.945000659917
+label: 14
+ml auc: 0.93292079623
+sk auc: 0.93292079623
+label: 15
+ml auc: 0.898026642807
+sk auc: 0.898026642807
+label: 16
+ml auc: 0.905258972065
+sk auc: 0.905258972065
+label: 17
+ml auc: 0.939540900111
+sk auc: 0.939540900111
+label: 18
+ml auc: 0.856471421938
+sk auc: 0.856471421938
+label: 19
+ml auc: 0.948642375503
+sk auc: 0.948642375503
+label: 20
+ml auc: 0.945515210259
+sk auc: 0.945515210259
+label: 21
+ml auc: 0.962070697844
+sk auc: 0.962070697844
+label: 22
+ml auc: 0.965942397597
+sk auc: 0.965942397597
+label: 23
+ml auc: 0.93790843252
+sk auc: 0.93790843252
+label: 24
+ml auc: 0.933056040073
+sk auc: 0.933056040073
+label: 25
+ml auc: 0.931071633313
+sk auc: 0.931071633313
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.001}
+ml ce: 0.05425
+ml rmse: 1.86091375405
+sk acc: 0.94575
+sk f1: 0.945848147092
+sk prec: 0.946797207446
+sk recl: 0.94575
+label: 0
+ml auc: 0.97292817311
+sk auc: 0.97292817311
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.991532137355
+sk auc: 0.991532137355
+label: 3
+ml auc: 0.975650316898
+sk auc: 0.975650316898
+label: 4
+ml auc: 0.966325637378
+sk auc: 0.966325637378
+label: 5
+ml auc: 0.982360416656
+sk auc: 0.982360416656
+label: 6
+ml auc: 0.971127190417
+sk auc: 0.971127190417
+label: 7
+ml auc: 0.917931723902
+sk auc: 0.917931723902
+label: 8
+ml auc: 0.966145154281
+sk auc: 0.966145154281
+label: 9
+ml auc: 0.981810081109
+sk auc: 0.981810081109
+label: 10
+ml auc: 0.963807394559
+sk auc: 0.963807394559
+label: 11
+ml auc: 0.973871759556
+sk auc: 0.973871759556
+label: 12
+ml auc: 0.991888543107
+sk auc: 0.991888543107
+label: 13
+ml auc: 0.951285580507
+sk auc: 0.951285580507
+label: 14
+ml auc: 0.962992775942
+sk auc: 0.962992775942
+label: 15
+ml auc: 0.960265682473
+sk auc: 0.960265682473
+label: 16
+ml auc: 0.969977134904
+sk auc: 0.969977134904
+label: 17
+ml auc: 0.958845875689
+sk auc: 0.958845875689
+label: 18
+ml auc: 0.987056670749
+sk auc: 0.987056670749
+label: 19
+ml auc: 0.982664285382
+sk auc: 0.982664285382
+label: 20
+ml auc: 0.97295332538
+sk auc: 0.97295332538
+label: 21
+ml auc: 0.970329436122
+sk auc: 0.970329436122
+label: 22
+ml auc: 0.985223010403
+sk auc: 0.985223010403
+label: 23
+ml auc: 0.976946025914
+sk auc: 0.976946025914
+label: 24
+ml auc: 0.974824455477
+sk auc: 0.974824455477
+label: 25
+ml auc: 0.980622236572
+sk auc: 0.980622236572
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.01}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.01}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.01}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.01}
+ml ce: 0.2305
+ml rmse: 4.0261333808
+sk acc: 0.7695
+sk f1: 0.771489919215
+sk prec: 0.787134573257
+sk recl: 0.7695
+label: 0
+ml auc: 0.924591104352
+sk auc: 0.924591104352
+label: 1
+ml auc: 0.919460175374
+sk auc: 0.919460175374
+label: 2
+ml auc: 0.867903898247
+sk auc: 0.867903898247
+label: 3
+ml auc: 0.931243175012
+sk auc: 0.931243175012
+label: 4
+ml auc: 0.880970292155
+sk auc: 0.880970292155
+label: 5
+ml auc: 0.891395723006
+sk auc: 0.891395723006
+label: 6
+ml auc: 0.819702306773
+sk auc: 0.819702306773
+label: 7
+ml auc: 0.760743738375
+sk auc: 0.760743738375
+label: 8
+ml auc: 0.887487653589
+sk auc: 0.887487653589
+label: 9
+ml auc: 0.897999635149
+sk auc: 0.897999635149
+label: 10
+ml auc: 0.837665545848
+sk auc: 0.837665545848
+label: 11
+ml auc: 0.903417745226
+sk auc: 0.903417745226
+label: 12
+ml auc: 0.961258068234
+sk auc: 0.961258068234
+label: 13
+ml auc: 0.927984237419
+sk auc: 0.927984237419
+label: 14
+ml auc: 0.89151056777
+sk auc: 0.89151056777
+label: 15
+ml auc: 0.870849488021
+sk auc: 0.870849488021
+label: 16
+ml auc: 0.829157967989
+sk auc: 0.829157967989
+label: 17
+ml auc: 0.898496794099
+sk auc: 0.898496794099
+label: 18
+ml auc: 0.769213967794
+sk auc: 0.769213967794
+label: 19
+ml auc: 0.911569015088
+sk auc: 0.911569015088
+label: 20
+ml auc: 0.904215130729
+sk auc: 0.904215130729
+label: 21
+ml auc: 0.936388685909
+sk auc: 0.936388685909
+label: 22
+ml auc: 0.949870406705
+sk auc: 0.949870406705
+label: 23
+ml auc: 0.899672353406
+sk auc: 0.899672353406
+label: 24
+ml auc: 0.812831521982
+sk auc: 0.812831521982
+label: 25
+ml auc: 0.817928425991
+sk auc: 0.817928425991
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.01}
+ml ce: 0.04275
+ml rmse: 1.67212439729
+sk acc: 0.95725
+sk f1: 0.957365210014
+sk prec: 0.958102922702
+sk recl: 0.95725
+label: 0
+ml auc: 0.98960417834
+sk auc: 0.98960417834
+label: 1
+ml auc: 0.97967665327
+sk auc: 0.97967665327
+label: 2
+ml auc: 0.988529413912
+sk auc: 0.988529413912
+label: 3
+ml auc: 0.982029679228
+sk auc: 0.982029679228
+label: 4
+ml auc: 0.973294397637
+sk auc: 0.973294397637
+label: 5
+ml auc: 0.985888333325
+sk auc: 0.985888333325
+label: 6
+ml auc: 0.971518222742
+sk auc: 0.971518222742
+label: 7
+ml auc: 0.935267438519
+sk auc: 0.935267438519
+label: 8
+ml auc: 0.978005610209
+sk auc: 0.978005610209
+label: 9
+ml auc: 0.97882111083
+sk auc: 0.97882111083
+label: 10
+ml auc: 0.967750993453
+sk auc: 0.967750993453
+label: 11
+ml auc: 0.970817152868
+sk auc: 0.970817152868
+label: 12
+ml auc: 0.992407215307
+sk auc: 0.992407215307
+label: 13
+ml auc: 0.96686746988
+sk auc: 0.96686746988
+label: 14
+ml auc: 0.970446020806
+sk auc: 0.970446020806
+label: 15
+ml auc: 0.969585694403
+sk auc: 0.969585694403
+label: 16
+ml auc: 0.978775226166
+sk auc: 0.978775226166
+label: 17
+ml auc: 0.97708868931
+sk auc: 0.97708868931
+label: 18
+ml auc: 0.980845490625
+sk auc: 0.980845490625
+label: 19
+ml auc: 0.983183900867
+sk auc: 0.983183900867
+label: 20
+ml auc: 0.982142857143
+sk auc: 0.982142857143
+label: 21
+ml auc: 0.981488247473
+sk auc: 0.981488247473
+label: 22
+ml auc: 0.995625876921
+sk auc: 0.995625876921
+label: 23
+ml auc: 0.98611963931
+sk auc: 0.98611963931
+label: 24
+ml auc: 0.975213560535
+sk auc: 0.975213560535
+label: 25
+ml auc: 0.983786793534
+sk auc: 0.983786793534
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.01}
+ml ce: 0.0415
+ml rmse: 1.60242004481
+sk acc: 0.9585
+sk f1: 0.958561881616
+sk prec: 0.959246342142
+sk recl: 0.9585
+label: 0
+ml auc: 0.992549160863
+sk auc: 0.992549160863
+label: 1
+ml auc: 0.98754719279
+sk auc: 0.98754719279
+label: 2
+ml auc: 0.995701268263
+sk auc: 0.995701268263
+label: 3
+ml auc: 0.979557451754
+sk auc: 0.979557451754
+label: 4
+ml auc: 0.973034522377
+sk auc: 0.973034522377
+label: 5
+ml auc: 0.982360416656
+sk auc: 0.982360416656
+label: 6
+ml auc: 0.983452656477
+sk auc: 0.983452656477
+label: 7
+ml auc: 0.941630147333
+sk auc: 0.941630147333
+label: 8
+ml auc: 0.98064477895
+sk auc: 0.98064477895
+label: 9
+ml auc: 0.968685975695
+sk auc: 0.968685975695
+label: 10
+ml auc: 0.98119015291
+sk auc: 0.98119015291
+label: 11
+ml auc: 0.973611546181
+sk auc: 0.973611546181
+label: 12
+ml auc: 0.992277547257
+sk auc: 0.992277547257
+label: 13
+ml auc: 0.954688865006
+sk auc: 0.954688865006
+label: 14
+ml auc: 0.966978398633
+sk auc: 0.966978398633
+label: 15
+ml auc: 0.963894273785
+sk auc: 0.963894273785
+label: 16
+ml auc: 0.981881896809
+sk auc: 0.981881896809
+label: 17
+ml auc: 0.974634310501
+sk auc: 0.974634310501
+label: 18
+ml auc: 0.980975732876
+sk auc: 0.980975732876
+label: 19
+ml auc: 0.983053996996
+sk auc: 0.983053996996
+label: 20
+ml auc: 0.985119047619
+sk auc: 0.985119047619
+label: 21
+ml auc: 0.984905918889
+sk auc: 0.984905918889
+label: 22
+ml auc: 0.992287754878
+sk auc: 0.992287754878
+label: 23
+ml auc: 0.977466723649
+sk auc: 0.977466723649
+label: 24
+ml auc: 0.978661836397
+sk auc: 0.978661836397
+label: 25
+ml auc: 0.987081491048
+sk auc: 0.987081491048
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.1}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.1}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.1}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.1}
+ml ce: 0.08525
+ml rmse: 2.36521669198
+sk acc: 0.91475
+sk f1: 0.91525220621
+sk prec: 0.919120945846
+sk recl: 0.91475
+label: 0
+ml auc: 0.976653592679
+sk auc: 0.976653592679
+label: 1
+ml auc: 0.966188649373
+sk auc: 0.966188649373
+label: 2
+ml auc: 0.946535094444
+sk auc: 0.946535094444
+label: 3
+ml auc: 0.971221397539
+sk auc: 0.971221397539
+label: 4
+ml auc: 0.94083050662
+sk auc: 0.94083050662
+label: 5
+ml auc: 0.967858835762
+sk auc: 0.967858835762
+label: 6
+ml auc: 0.963335156031
+sk auc: 0.963335156031
+label: 7
+ml auc: 0.885338756605
+sk auc: 0.885338756605
+label: 8
+ml auc: 0.948093714195
+sk auc: 0.948093714195
+label: 9
+ml auc: 0.955821475681
+sk auc: 0.955821475681
+label: 10
+ml auc: 0.940353733179
+sk auc: 0.940353733179
+label: 11
+ml auc: 0.942414945861
+sk auc: 0.942414945861
+label: 12
+ml auc: 0.973749423698
+sk auc: 0.973749423698
+label: 13
+ml auc: 0.944870247814
+sk auc: 0.944870247814
+label: 14
+ml auc: 0.961179774129
+sk auc: 0.961179774129
+label: 15
+ml auc: 0.910583805547
+sk auc: 0.910583805547
+label: 16
+ml auc: 0.95715901183
+sk auc: 0.95715901183
+label: 17
+ml auc: 0.955459577174
+sk auc: 0.955459577174
+label: 18
+ml auc: 0.96169098125
+sk auc: 0.96169098125
+label: 19
+ml auc: 0.956563930771
+sk auc: 0.956563930771
+label: 20
+ml auc: 0.969585694403
+sk auc: 0.969585694403
+label: 21
+ml auc: 0.966264766776
+sk auc: 0.966264766776
+label: 22
+ml auc: 0.976863264633
+sk auc: 0.976863264633
+label: 23
+ml auc: 0.969875671135
+sk auc: 0.969875671135
+label: 24
+ml auc: 0.96701999195
+sk auc: 0.96701999195
+label: 25
+ml auc: 0.977067257955
+sk auc: 0.977067257955
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.1}
+ml ce: 0.0245
+ml rmse: 1.17866449849
+sk acc: 0.9755
+sk f1: 0.975588357472
+sk prec: 0.976022429562
+sk recl: 0.9755
+label: 0
+ml auc: 0.996794871795
+sk auc: 0.996794871795
+label: 1
+ml auc: 0.990835464621
+sk auc: 0.990835464621
+label: 2
+ml auc: 0.999222395023
+sk auc: 0.999222395023
+label: 3
+ml auc: 0.986849936964
+sk auc: 0.986849936964
+label: 4
+ml auc: 0.970134861582
+sk auc: 0.970134861582
+label: 5
+ml auc: 0.989676192806
+sk auc: 0.989676192806
+label: 6
+ml auc: 0.981576972965
+sk auc: 0.981576972965
+label: 7
+ml auc: 0.962017312487
+sk auc: 0.962017312487
+label: 8
+ml auc: 0.981427047529
+sk auc: 0.981427047529
+label: 9
+ml auc: 0.985448064887
+sk auc: 0.985448064887
+label: 10
+ml auc: 0.974730043861
+sk auc: 0.974730043861
+label: 11
+ml auc: 0.98063150637
+sk auc: 0.98063150637
+label: 12
+ml auc: 0.996138773628
+sk auc: 0.996138773628
+label: 13
+ml auc: 0.981927710843
+sk auc: 0.981927710843
+label: 14
+ml auc: 0.989079132964
+sk auc: 0.989079132964
+label: 15
+ml auc: 0.984988567452
+sk auc: 0.984988567452
+label: 16
+ml auc: 0.988095238095
+sk auc: 0.988095238095
+label: 17
+ml auc: 0.986796186248
+sk auc: 0.986796186248
+label: 18
+ml auc: 0.996373440936
+sk auc: 0.996373440936
+label: 19
+ml auc: 0.990066225166
+sk auc: 0.990066225166
+label: 20
+ml auc: 0.993917138881
+sk auc: 0.993917138881
+label: 21
+ml auc: 0.992388259652
+sk auc: 0.992388259652
+label: 22
+ml auc: 0.996143877439
+sk auc: 0.996143877439
+label: 23
+ml auc: 0.987030860347
+sk auc: 0.987030860347
+label: 24
+ml auc: 0.99297374659
+sk auc: 0.99297374659
+label: 25
+ml auc: 0.996445021383
+sk auc: 0.996445021383
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.1}
+ml ce: 0.0245
+ml rmse: 1.17866449849
+sk acc: 0.9755
+sk f1: 0.975588357472
+sk prec: 0.976022429562
+sk recl: 0.9755
+label: 0
+ml auc: 0.996794871795
+sk auc: 0.996794871795
+label: 1
+ml auc: 0.990835464621
+sk auc: 0.990835464621
+label: 2
+ml auc: 0.999222395023
+sk auc: 0.999222395023
+label: 3
+ml auc: 0.986849936964
+sk auc: 0.986849936964
+label: 4
+ml auc: 0.970134861582
+sk auc: 0.970134861582
+label: 5
+ml auc: 0.989676192806
+sk auc: 0.989676192806
+label: 6
+ml auc: 0.981576972965
+sk auc: 0.981576972965
+label: 7
+ml auc: 0.962017312487
+sk auc: 0.962017312487
+label: 8
+ml auc: 0.981427047529
+sk auc: 0.981427047529
+label: 9
+ml auc: 0.985448064887
+sk auc: 0.985448064887
+label: 10
+ml auc: 0.974730043861
+sk auc: 0.974730043861
+label: 11
+ml auc: 0.98063150637
+sk auc: 0.98063150637
+label: 12
+ml auc: 0.996138773628
+sk auc: 0.996138773628
+label: 13
+ml auc: 0.981927710843
+sk auc: 0.981927710843
+label: 14
+ml auc: 0.989079132964
+sk auc: 0.989079132964
+label: 15
+ml auc: 0.984988567452
+sk auc: 0.984988567452
+label: 16
+ml auc: 0.988095238095
+sk auc: 0.988095238095
+label: 17
+ml auc: 0.986796186248
+sk auc: 0.986796186248
+label: 18
+ml auc: 0.996373440936
+sk auc: 0.996373440936
+label: 19
+ml auc: 0.990066225166
+sk auc: 0.990066225166
+label: 20
+ml auc: 0.993917138881
+sk auc: 0.993917138881
+label: 21
+ml auc: 0.992388259652
+sk auc: 0.992388259652
+label: 22
+ml auc: 0.996143877439
+sk auc: 0.996143877439
+label: 23
+ml auc: 0.987030860347
+sk auc: 0.987030860347
+label: 24
+ml auc: 0.99297374659
+sk auc: 0.99297374659
+label: 25
+ml auc: 0.996445021383
+sk auc: 0.996445021383
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 1}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 1}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 1}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 1}
+ml ce: 0.196
+ml rmse: 3.46334376001
+sk acc: 0.804
+sk f1: 0.851867364382
+sk prec: 0.942011248355
+sk recl: 0.804
+label: 0
+ml auc: 0.86858974359
+sk auc: 0.86858974359
+label: 1
+ml auc: 0.937111801242
+sk auc: 0.937111801242
+label: 2
+ml auc: 0.904799976635
+sk auc: 0.904799976635
+label: 3
+ml auc: 0.941678865072
+sk auc: 0.941678865072
+label: 4
+ml auc: 0.914083871321
+sk auc: 0.914083871321
+label: 5
+ml auc: 0.914772736926
+sk auc: 0.914772736926
+label: 6
+ml auc: 0.896211119306
+sk auc: 0.896211119306
+label: 7
+ml auc: 0.823853791903
+sk auc: 0.823853791903
+label: 8
+ml auc: 0.875757575758
+sk auc: 0.875757575758
+label: 9
+ml auc: 0.931264208133
+sk auc: 0.931264208133
+label: 10
+ml auc: 0.89188958634
+sk auc: 0.89188958634
+label: 11
+ml auc: 0.885350318471
+sk auc: 0.885350318471
+label: 12
+ml auc: 0.911047717842
+sk auc: 0.911047717842
+label: 13
+ml auc: 0.852409638554
+sk auc: 0.852409638554
+label: 14
+ml auc: 0.863179852388
+sk auc: 0.863179852388
+label: 15
+ml auc: 0.954182821354
+sk auc: 0.954182821354
+label: 16
+ml auc: 0.921575206283
+sk auc: 0.921575206283
+label: 17
+ml auc: 0.921709037194
+sk auc: 0.921709037194
+label: 18
+ml auc: 0.912131782507
+sk auc: 0.912131782507
+label: 19
+ml auc: 0.923841059603
+sk auc: 0.923841059603
+label: 20
+ml auc: 0.889750472214
+sk auc: 0.889750472214
+label: 21
+ml auc: 0.849264705882
+sk auc: 0.849264705882
+label: 22
+ml auc: 0.952719409554
+sk auc: 0.952719409554
+label: 23
+ml auc: 0.854825214215
+sk auc: 0.854825214215
+label: 24
+ml auc: 0.940730801914
+sk auc: 0.940730801914
+label: 25
+ml auc: 0.825428804881
+sk auc: 0.825428804881
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 1}
+ml ce: 0.052
+ml rmse: 1.7952715672
+sk acc: 0.948
+sk f1: 0.950841596246
+sk prec: 0.958155246142
+sk recl: 0.948
+label: 0
+ml auc: 0.958073187652
+sk auc: 0.958073187652
+label: 1
+ml auc: 0.980841249543
+sk auc: 0.980841249543
+label: 2
+ml auc: 0.974963310188
+sk auc: 0.974963310188
+label: 3
+ml auc: 0.987110829216
+sk auc: 0.987110829216
+label: 4
+ml auc: 0.970004923952
+sk auc: 0.970004923952
+label: 5
+ml auc: 0.970198321075
+sk auc: 0.970198321075
+label: 6
+ml auc: 0.981576972965
+sk auc: 0.981576972965
+label: 7
+ml auc: 0.942149762818
+sk auc: 0.942149762818
+label: 8
+ml auc: 0.96311485125
+sk auc: 0.96311485125
+label: 9
+ml auc: 0.962448429738
+sk auc: 0.962448429738
+label: 10
+ml auc: 0.953792892636
+sk auc: 0.953792892636
+label: 11
+ml auc: 0.974392186306
+sk auc: 0.974392186306
+label: 12
+ml auc: 0.983171968649
+sk auc: 0.983171968649
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.981366887842
+sk auc: 0.981366887842
+label: 15
+ml auc: 0.981751416642
+sk auc: 0.981751416642
+label: 16
+ml auc: 0.972822845213
+sk auc: 0.972822845213
+label: 17
+ml auc: 0.971137993687
+sk auc: 0.971137993687
+label: 18
+ml auc: 0.987186913
+sk auc: 0.987186913
+label: 19
+ml auc: 0.973509933775
+sk auc: 0.973509933775
+label: 20
+ml auc: 0.993917138881
+sk auc: 0.993917138881
+label: 21
+ml auc: 0.981100048715
+sk auc: 0.981100048715
+label: 22
+ml auc: 0.981496387971
+sk auc: 0.981496387971
+label: 23
+ml auc: 0.967902586951
+sk auc: 0.967902586951
+label: 24
+ml auc: 0.978661836397
+sk auc: 0.978661836397
+label: 25
+ml auc: 0.967833868173
+sk auc: 0.967833868173
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 1}
+ml ce: 0.052
+ml rmse: 1.7952715672
+sk acc: 0.948
+sk f1: 0.950841596246
+sk prec: 0.958155246142
+sk recl: 0.948
+label: 0
+ml auc: 0.958073187652
+sk auc: 0.958073187652
+label: 1
+ml auc: 0.980841249543
+sk auc: 0.980841249543
+label: 2
+ml auc: 0.974963310188
+sk auc: 0.974963310188
+label: 3
+ml auc: 0.987110829216
+sk auc: 0.987110829216
+label: 4
+ml auc: 0.970004923952
+sk auc: 0.970004923952
+label: 5
+ml auc: 0.970198321075
+sk auc: 0.970198321075
+label: 6
+ml auc: 0.981576972965
+sk auc: 0.981576972965
+label: 7
+ml auc: 0.942149762818
+sk auc: 0.942149762818
+label: 8
+ml auc: 0.96311485125
+sk auc: 0.96311485125
+label: 9
+ml auc: 0.962448429738
+sk auc: 0.962448429738
+label: 10
+ml auc: 0.953792892636
+sk auc: 0.953792892636
+label: 11
+ml auc: 0.974392186306
+sk auc: 0.974392186306
+label: 12
+ml auc: 0.983171968649
+sk auc: 0.983171968649
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.981366887842
+sk auc: 0.981366887842
+label: 15
+ml auc: 0.981751416642
+sk auc: 0.981751416642
+label: 16
+ml auc: 0.972822845213
+sk auc: 0.972822845213
+label: 17
+ml auc: 0.971137993687
+sk auc: 0.971137993687
+label: 18
+ml auc: 0.987186913
+sk auc: 0.987186913
+label: 19
+ml auc: 0.973509933775
+sk auc: 0.973509933775
+label: 20
+ml auc: 0.993917138881
+sk auc: 0.993917138881
+label: 21
+ml auc: 0.981100048715
+sk auc: 0.981100048715
+label: 22
+ml auc: 0.981496387971
+sk auc: 0.981496387971
+label: 23
+ml auc: 0.967902586951
+sk auc: 0.967902586951
+label: 24
+ml auc: 0.978661836397
+sk auc: 0.978661836397
+label: 25
+ml auc: 0.967833868173
+sk auc: 0.967833868173
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 2}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 2}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 2}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 2}
+ml ce: 0.481
+ml rmse: 6.56126893215
+sk acc: 0.519
+sk f1: 0.633038792092
+sk prec: 0.961307822425
+sk recl: 0.519
+label: 0
+ml auc: 0.833333333333
+sk auc: 0.833333333333
+label: 1
+ml auc: 0.830882352941
+sk auc: 0.830882352941
+label: 2
+ml auc: 0.640845070423
+sk auc: 0.640845070423
+label: 3
+ml auc: 0.790158269425
+sk auc: 0.790158269425
+label: 4
+ml auc: 0.736842105263
+sk auc: 0.736842105263
+label: 5
+ml auc: 0.81045751634
+sk auc: 0.81045751634
+label: 6
+ml auc: 0.664634146341
+sk auc: 0.664634146341
+label: 7
+ml auc: 0.649006622517
+sk auc: 0.649006622517
+label: 8
+ml auc: 0.836363636364
+sk auc: 0.836363636364
+label: 9
+ml auc: 0.699324324324
+sk auc: 0.699324324324
+label: 10
+ml auc: 0.684931506849
+sk auc: 0.684931506849
+label: 11
+ml auc: 0.691082802548
+sk auc: 0.691082802548
+label: 12
+ml auc: 0.78112033195
+sk auc: 0.78112033195
+label: 13
+ml auc: 0.680722891566
+sk auc: 0.680722891566
+label: 14
+ml auc: 0.697841726619
+sk auc: 0.697841726619
+label: 15
+ml auc: 0.945123769758
+sk auc: 0.945123769758
+label: 16
+ml auc: 0.693321900785
+sk auc: 0.693321900785
+label: 17
+ml auc: 0.770056093153
+sk auc: 0.770056093153
+label: 18
+ml auc: 0.66149068323
+sk auc: 0.66149068323
+label: 19
+ml auc: 0.844370860927
+sk auc: 0.844370860927
+label: 20
+ml auc: 0.818452380952
+sk auc: 0.818452380952
+label: 21
+ml auc: 0.742647058824
+sk auc: 0.742647058824
+label: 22
+ml auc: 0.827338129496
+sk auc: 0.827338129496
+label: 23
+ml auc: 0.707547169811
+sk auc: 0.707547169811
+label: 24
+ml auc: 0.752399481193
+sk auc: 0.752399481193
+label: 25
+ml auc: 0.708860759494
+sk auc: 0.708860759494
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 2}
+ml ce: 0.14875
+ml rmse: 3.01570887189
+sk acc: 0.85125
+sk f1: 0.886473984783
+sk prec: 0.951129494823
+sk recl: 0.85125
+label: 0
+ml auc: 0.900641025641
+sk auc: 0.900641025641
+label: 1
+ml auc: 0.926211789063
+sk auc: 0.926211789063
+label: 2
+ml auc: 0.92201680795
+sk auc: 0.92201680795
+label: 3
+ml auc: 0.966413637635
+sk auc: 0.966413637635
+label: 4
+ml auc: 0.930791115002
+sk auc: 0.930791115002
+label: 5
+ml auc: 0.934250608657
+sk auc: 0.934250608657
+label: 6
+ml auc: 0.932926829268
+sk auc: 0.932926829268
+label: 7
+ml auc: 0.886897603059
+sk auc: 0.886897603059
+label: 8
+ml auc: 0.899869621904
+sk auc: 0.899869621904
+label: 9
+ml auc: 0.941658948668
+sk auc: 0.941658948668
+label: 10
+ml auc: 0.906366628516
+sk auc: 0.906366628516
+label: 11
+ml auc: 0.913882632166
+sk auc: 0.913882632166
+label: 12
+ml auc: 0.932442946058
+sk auc: 0.932442946058
+label: 13
+ml auc: 0.876375611994
+sk auc: 0.876375611994
+label: 14
+ml auc: 0.924330931525
+sk auc: 0.924330931525
+label: 15
+ml auc: 0.962980912616
+sk auc: 0.962980912616
+label: 16
+ml auc: 0.939693309474
+sk auc: 0.939693309474
+label: 17
+ml auc: 0.943317925378
+sk auc: 0.943317925378
+label: 18
+ml auc: 0.915628099321
+sk auc: 0.915628099321
+label: 19
+ml auc: 0.930463576159
+sk auc: 0.930463576159
+label: 20
+ml auc: 0.925595238095
+sk auc: 0.925595238095
+label: 21
+ml auc: 0.908088235294
+sk auc: 0.908088235294
+label: 22
+ml auc: 0.953237410072
+sk auc: 0.953237410072
+label: 23
+ml auc: 0.902385548837
+sk auc: 0.902385548837
+label: 24
+ml auc: 0.944179077776
+sk auc: 0.944179077776
+label: 25
+ml auc: 0.873027299864
+sk auc: 0.873027299864
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 2}
+ml ce: 0.14875
+ml rmse: 3.01570887189
+sk acc: 0.85125
+sk f1: 0.886473984783
+sk prec: 0.951129494823
+sk recl: 0.85125
+label: 0
+ml auc: 0.900641025641
+sk auc: 0.900641025641
+label: 1
+ml auc: 0.926211789063
+sk auc: 0.926211789063
+label: 2
+ml auc: 0.92201680795
+sk auc: 0.92201680795
+label: 3
+ml auc: 0.966413637635
+sk auc: 0.966413637635
+label: 4
+ml auc: 0.930791115002
+sk auc: 0.930791115002
+label: 5
+ml auc: 0.934250608657
+sk auc: 0.934250608657
+label: 6
+ml auc: 0.932926829268
+sk auc: 0.932926829268
+label: 7
+ml auc: 0.886897603059
+sk auc: 0.886897603059
+label: 8
+ml auc: 0.899869621904
+sk auc: 0.899869621904
+label: 9
+ml auc: 0.941658948668
+sk auc: 0.941658948668
+label: 10
+ml auc: 0.906366628516
+sk auc: 0.906366628516
+label: 11
+ml auc: 0.913882632166
+sk auc: 0.913882632166
+label: 12
+ml auc: 0.932442946058
+sk auc: 0.932442946058
+label: 13
+ml auc: 0.876375611994
+sk auc: 0.876375611994
+label: 14
+ml auc: 0.924330931525
+sk auc: 0.924330931525
+label: 15
+ml auc: 0.962980912616
+sk auc: 0.962980912616
+label: 16
+ml auc: 0.939693309474
+sk auc: 0.939693309474
+label: 17
+ml auc: 0.943317925378
+sk auc: 0.943317925378
+label: 18
+ml auc: 0.915628099321
+sk auc: 0.915628099321
+label: 19
+ml auc: 0.930463576159
+sk auc: 0.930463576159
+label: 20
+ml auc: 0.925595238095
+sk auc: 0.925595238095
+label: 21
+ml auc: 0.908088235294
+sk auc: 0.908088235294
+label: 22
+ml auc: 0.953237410072
+sk auc: 0.953237410072
+label: 23
+ml auc: 0.902385548837
+sk auc: 0.902385548837
+label: 24
+ml auc: 0.944179077776
+sk auc: 0.944179077776
+label: 25
+ml auc: 0.873027299864
+sk auc: 0.873027299864
+Saving result "runs/letter/0/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...

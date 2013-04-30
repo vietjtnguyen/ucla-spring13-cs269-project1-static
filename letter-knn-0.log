@@ -1,0 +1,5349 @@
+Data set: letter
+Algorithm: knn
+Loading letter data set...
+Creating KNN hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for kNN...
+Applying classifier to trial...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(uniform).pickle", building and running classifier...
+run: neighbors(5)-weights(uniform)
+parameters: {'n_neighbors': 5, 'weights': 'uniform'}
+ml ce: 0.053
+ml rmse: 1.78409640995
+sk acc: 0.947
+sk f1: 0.947142546294
+sk prec: 0.948249571983
+sk recl: 0.947
+label: 0
+ml auc: 0.993199525067
+sk auc: 0.993199525067
+label: 1
+ml auc: 0.982447326757
+sk auc: 0.982447326757
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.985284583455
+sk auc: 0.985284583455
+label: 4
+ml auc: 0.971605208447
+sk auc: 0.971605208447
+label: 5
+ml auc: 0.969418492638
+sk auc: 0.969418492638
+label: 6
+ml auc: 0.956274320303
+sk auc: 0.956274320303
+label: 7
+ml auc: 0.920463558953
+sk auc: 0.920463558953
+label: 8
+ml auc: 0.989605309944
+sk auc: 0.989605309944
+label: 9
+ml auc: 0.962448429738
+sk auc: 0.962448429738
+label: 10
+ml auc: 0.930079760576
+sk auc: 0.930079760576
+label: 11
+ml auc: 0.987000933122
+sk auc: 0.987000933122
+label: 12
+ml auc: 0.988675656985
+sk auc: 0.988675656985
+label: 13
+ml auc: 0.951546404711
+sk auc: 0.951546404711
+label: 14
+ml auc: 0.97352514259
+sk auc: 0.97352514259
+label: 15
+ml auc: 0.966739984094
+sk auc: 0.966739984094
+label: 16
+ml auc: 0.972431404712
+sk auc: 0.972431404712
+label: 17
+ml auc: 0.967250950121
+sk auc: 0.967250950121
+label: 18
+ml auc: 0.97178920494
+sk auc: 0.97178920494
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.987573317427
+sk auc: 0.987573317427
+label: 21
+ml auc: 0.980711849957
+sk auc: 0.980711849957
+label: 22
+ml auc: 0.981625888101
+sk auc: 0.981625888101
+label: 23
+ml auc: 0.970656717738
+sk auc: 0.970656717738
+label: 24
+ml auc: 0.989266067355
+sk auc: 0.989266067355
+label: 25
+ml auc: 0.986560928841
+sk auc: 0.986560928841
+Saving result "runs/letter/0/knn/neighbors(5)-weights(uniform).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(distance).pickle", building and running classifier...
+run: neighbors(5)-weights(distance)
+parameters: {'n_neighbors': 5, 'weights': 'distance'}
+ml ce: 0.04525
+ml rmse: 1.64202618737
+sk acc: 0.95475
+sk f1: 0.954755168805
+sk prec: 0.955252013853
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.972384834227
+sk auc: 0.972384834227
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.968990818688
+sk auc: 0.968990818688
+label: 7
+ml auc: 0.927995402607
+sk auc: 0.927995402607
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987000933122
+sk auc: 0.987000933122
+label: 12
+ml auc: 0.985592438912
+sk auc: 0.985592438912
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.970096055682
+sk auc: 0.970096055682
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.984129521374
+sk auc: 0.984129521374
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(distance).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 5, 'width': 0.10000000000000001}
+ml ce: 0.04775
+ml rmse: 1.68663866907
+sk acc: 0.95225
+sk f1: 0.952212487005
+sk prec: 0.952530795806
+sk recl: 0.95225
+label: 0
+ml auc: 0.993199525067
+sk auc: 0.993199525067
+label: 1
+ml auc: 0.972970710023
+sk auc: 0.972970710023
+label: 2
+ml auc: 0.97809563446
+sk auc: 0.97809563446
+label: 3
+ml auc: 0.980861913012
+sk auc: 0.980861913012
+label: 4
+ml auc: 0.966065762118
+sk auc: 0.966065762118
+label: 5
+ml auc: 0.953338566169
+sk auc: 0.953338566169
+label: 6
+ml auc: 0.975088379664
+sk auc: 0.975088379664
+label: 7
+ml auc: 0.918321435515
+sk auc: 0.918321435515
+label: 8
+ml auc: 0.983805460077
+sk auc: 0.983805460077
+label: 9
+ml auc: 0.968685975695
+sk auc: 0.968685975695
+label: 10
+ml auc: 0.960642207705
+sk auc: 0.960642207705
+label: 11
+ml auc: 0.983556006371
+sk auc: 0.983556006371
+label: 12
+ml auc: 0.98224988474
+sk auc: 0.98224988474
+label: 13
+ml auc: 0.969357869663
+sk auc: 0.969357869663
+label: 14
+ml auc: 0.980330886806
+sk auc: 0.980330886806
+label: 15
+ml auc: 0.971909484044
+sk auc: 0.971909484044
+label: 16
+ml auc: 0.972300924545
+sk auc: 0.972300924545
+label: 17
+ml auc: 0.963754633307
+sk auc: 0.963754633307
+label: 18
+ml auc: 0.980715248374
+sk auc: 0.980715248374
+label: 19
+ml auc: 0.980132450331
+sk auc: 0.980132450331
+label: 20
+ml auc: 0.993656178547
+sk auc: 0.993656178547
+label: 21
+ml auc: 0.991094263792
+sk auc: 0.991094263792
+label: 22
+ml auc: 0.992158254748
+sk auc: 0.992158254748
+label: 23
+ml auc: 0.970917066605
+sk auc: 0.970917066605
+label: 24
+ml auc: 0.985688089807
+sk auc: 0.985688089807
+label: 25
+ml auc: 0.986430788289
+sk auc: 0.986430788289
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 5, 'width': 91.199999999999989}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 5, 'width': 182.29999999999998}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 5, 'width': 273.39999999999998}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 5, 'width': 364.5}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 5, 'width': 455.60000000000002}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 5, 'width': 546.69999999999993}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 5, 'width': 637.79999999999995}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 5, 'width': 728.89999999999998}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(5)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 5, 'width': 820.0}
+ml ce: 0.04525
+ml rmse: 1.64065535686
+sk acc: 0.95475
+sk f1: 0.954749141224
+sk prec: 0.955268692229
+sk recl: 0.95475
+label: 0
+ml auc: 0.993329597908
+sk auc: 0.993329597908
+label: 1
+ml auc: 0.983353123858
+sk auc: 0.983353123858
+label: 2
+ml auc: 0.971312582598
+sk auc: 0.971312582598
+label: 3
+ml auc: 0.986197706335
+sk auc: 0.986197706335
+label: 4
+ml auc: 0.975544370281
+sk auc: 0.975544370281
+label: 5
+ml auc: 0.969808406856
+sk auc: 0.969808406856
+label: 6
+ml auc: 0.9659420382
+sk auc: 0.9659420382
+label: 7
+ml auc: 0.924684144329
+sk auc: 0.924684144329
+label: 8
+ml auc: 0.992765991071
+sk auc: 0.992765991071
+label: 9
+ml auc: 0.965697005417
+sk auc: 0.965697005417
+label: 10
+ml auc: 0.943648655373
+sk auc: 0.943648655373
+label: 11
+ml auc: 0.987131039809
+sk auc: 0.987131039809
+label: 12
+ml auc: 0.989064661134
+sk auc: 0.989064661134
+label: 13
+ml auc: 0.957440088994
+sk auc: 0.957440088994
+label: 14
+ml auc: 0.977381265151
+sk auc: 0.977381265151
+label: 15
+ml auc: 0.972692365046
+sk auc: 0.972692365046
+label: 16
+ml auc: 0.978122825331
+sk auc: 0.978122825331
+label: 17
+ml auc: 0.969965813432
+sk auc: 0.969965813432
+label: 18
+ml auc: 0.98731715525
+sk auc: 0.98731715525
+label: 19
+ml auc: 0.976561384311
+sk auc: 0.976561384311
+label: 20
+ml auc: 0.990549507903
+sk auc: 0.990549507903
+label: 21
+ml auc: 0.98425892096
+sk auc: 0.98425892096
+label: 22
+ml auc: 0.988690632576
+sk auc: 0.988690632576
+label: 23
+ml auc: 0.973801371826
+sk auc: 0.973801371826
+label: 24
+ml auc: 0.992714343217
+sk auc: 0.992714343217
+label: 25
+ml auc: 0.989725485803
+sk auc: 0.989725485803
+Saving result "runs/letter/0/knn/neighbors(5)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(uniform).pickle", building and running classifier...
+run: neighbors(40)-weights(uniform)
+parameters: {'n_neighbors': 40, 'weights': 'uniform'}
+ml ce: 0.104
+ml rmse: 2.59412798451
+sk acc: 0.896
+sk f1: 0.896576428412
+sk prec: 0.901122517464
+sk recl: 0.896
+label: 0
+ml auc: 0.976133301315
+sk auc: 0.976133301315
+label: 1
+ml auc: 0.975794665692
+sk auc: 0.975794665692
+label: 2
+ml auc: 0.946146291956
+sk auc: 0.946146291956
+label: 3
+ml auc: 0.967314262683
+sk auc: 0.967314262683
+label: 4
+ml auc: 0.944119980304
+sk auc: 0.944119980304
+label: 5
+ml auc: 0.953747169087
+sk auc: 0.953747169087
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.871184396394
+sk auc: 0.871184396394
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.944777721647
+sk auc: 0.944777721647
+label: 10
+ml auc: 0.912437531545
+sk auc: 0.912437531545
+label: 11
+ml auc: 0.961263012741
+sk auc: 0.961263012741
+label: 12
+ml auc: 0.964370101429
+sk auc: 0.964370101429
+label: 13
+ml auc: 0.93832450302
+sk auc: 0.93832450302
+label: 14
+ml auc: 0.973755261525
+sk auc: 0.973755261525
+label: 15
+ml auc: 0.915883785665
+sk auc: 0.915883785665
+label: 16
+ml auc: 0.924159956258
+sk auc: 0.924159956258
+label: 17
+ml auc: 0.933720446739
+sk auc: 0.933720446739
+label: 18
+ml auc: 0.912001540256
+sk auc: 0.912001540256
+label: 19
+ml auc: 0.959485477435
+sk auc: 0.959485477435
+label: 20
+ml auc: 0.962589472115
+sk auc: 0.962589472115
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.981107887583
+sk auc: 0.981107887583
+label: 23
+ml auc: 0.935024127299
+sk auc: 0.935024127299
+label: 24
+ml auc: 0.956934567736
+sk auc: 0.956934567736
+label: 25
+ml auc: 0.94806568309
+sk auc: 0.94806568309
+Saving result "runs/letter/0/knn/neighbors(40)-weights(uniform).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(distance).pickle", building and running classifier...
+run: neighbors(40)-weights(distance)
+parameters: {'n_neighbors': 40, 'weights': 'distance'}
+ml ce: 0.085
+ml rmse: 2.27249862486
+sk acc: 0.915
+sk f1: 0.915289897232
+sk prec: 0.918359472182
+sk recl: 0.915
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.98076513214
+sk auc: 0.98076513214
+label: 2
+ml auc: 0.956968873897
+sk auc: 0.956968873897
+label: 3
+ml auc: 0.974345855641
+sk auc: 0.974345855641
+label: 4
+ml auc: 0.965156198709
+sk auc: 0.965156198709
+label: 5
+ml auc: 0.961582830862
+sk auc: 0.961582830862
+label: 6
+ml auc: 0.943948854243
+sk auc: 0.943948854243
+label: 7
+ml auc: 0.881767690584
+sk auc: 0.881767690584
+label: 8
+ml auc: 0.947572201809
+sk auc: 0.947572201809
+label: 9
+ml auc: 0.951664281104
+sk auc: 0.951664281104
+label: 10
+ml auc: 0.923100710168
+sk auc: 0.923100710168
+label: 11
+ml auc: 0.96776254618
+sk auc: 0.96776254618
+label: 12
+ml auc: 0.971703550023
+sk auc: 0.971703550023
+label: 13
+ml auc: 0.944479011508
+sk auc: 0.944479011508
+label: 14
+ml auc: 0.977999884475
+sk auc: 0.977999884475
+label: 15
+ml auc: 0.930764738046
+sk auc: 0.930764738046
+label: 16
+ml auc: 0.939171388806
+sk auc: 0.939171388806
+label: 17
+ml auc: 0.952744713863
+sk auc: 0.952744713863
+label: 18
+ml auc: 0.940082093066
+sk auc: 0.940082093066
+label: 19
+ml auc: 0.976041768826
+sk auc: 0.976041768826
+label: 20
+ml auc: 0.9684113729
+sk auc: 0.9684113729
+label: 21
+ml auc: 0.965876568019
+sk auc: 0.965876568019
+label: 22
+ml auc: 0.985093510273
+sk auc: 0.985093510273
+label: 23
+ml auc: 0.941313435475
+sk auc: 0.941313435475
+label: 24
+ml auc: 0.971116776242
+sk auc: 0.971116776242
+label: 25
+ml auc: 0.967443446517
+sk auc: 0.967443446517
+Saving result "runs/letter/0/knn/neighbors(40)-weights(distance).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 40, 'width': 0.10000000000000001}
+ml ce: 0.04775
+ml rmse: 1.68663866907
+sk acc: 0.95225
+sk f1: 0.952212487005
+sk prec: 0.952530795806
+sk recl: 0.95225
+label: 0
+ml auc: 0.993199525067
+sk auc: 0.993199525067
+label: 1
+ml auc: 0.972970710023
+sk auc: 0.972970710023
+label: 2
+ml auc: 0.97809563446
+sk auc: 0.97809563446
+label: 3
+ml auc: 0.980861913012
+sk auc: 0.980861913012
+label: 4
+ml auc: 0.966065762118
+sk auc: 0.966065762118
+label: 5
+ml auc: 0.953338566169
+sk auc: 0.953338566169
+label: 6
+ml auc: 0.975088379664
+sk auc: 0.975088379664
+label: 7
+ml auc: 0.918321435515
+sk auc: 0.918321435515
+label: 8
+ml auc: 0.983805460077
+sk auc: 0.983805460077
+label: 9
+ml auc: 0.968685975695
+sk auc: 0.968685975695
+label: 10
+ml auc: 0.960642207705
+sk auc: 0.960642207705
+label: 11
+ml auc: 0.983556006371
+sk auc: 0.983556006371
+label: 12
+ml auc: 0.98224988474
+sk auc: 0.98224988474
+label: 13
+ml auc: 0.969357869663
+sk auc: 0.969357869663
+label: 14
+ml auc: 0.980330886806
+sk auc: 0.980330886806
+label: 15
+ml auc: 0.971909484044
+sk auc: 0.971909484044
+label: 16
+ml auc: 0.972300924545
+sk auc: 0.972300924545
+label: 17
+ml auc: 0.963754633307
+sk auc: 0.963754633307
+label: 18
+ml auc: 0.980715248374
+sk auc: 0.980715248374
+label: 19
+ml auc: 0.980132450331
+sk auc: 0.980132450331
+label: 20
+ml auc: 0.993656178547
+sk auc: 0.993656178547
+label: 21
+ml auc: 0.991094263792
+sk auc: 0.991094263792
+label: 22
+ml auc: 0.992158254748
+sk auc: 0.992158254748
+label: 23
+ml auc: 0.970917066605
+sk auc: 0.970917066605
+label: 24
+ml auc: 0.985688089807
+sk auc: 0.985688089807
+label: 25
+ml auc: 0.986430788289
+sk auc: 0.986430788289
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 40, 'width': 91.199999999999989}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 40, 'width': 182.29999999999998}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 40, 'width': 273.39999999999998}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 40, 'width': 364.5}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 40, 'width': 455.60000000000002}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 40, 'width': 546.69999999999993}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 40, 'width': 637.79999999999995}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 40, 'width': 728.89999999999998}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(40)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 40, 'width': 820.0}
+ml ce: 0.0965
+ml rmse: 2.45331408507
+sk acc: 0.9035
+sk f1: 0.903906986159
+sk prec: 0.907653355822
+sk recl: 0.9035
+label: 0
+ml auc: 0.976263374156
+sk auc: 0.976263374156
+label: 1
+ml auc: 0.976571063208
+sk auc: 0.976571063208
+label: 2
+ml auc: 0.946405493615
+sk auc: 0.946405493615
+label: 3
+ml auc: 0.968096939437
+sk auc: 0.968096939437
+label: 4
+ml auc: 0.954508151877
+sk auc: 0.954508151877
+label: 5
+ml auc: 0.954397026118
+sk auc: 0.954397026118
+label: 6
+ml auc: 0.940639385539
+sk auc: 0.940639385539
+label: 7
+ml auc: 0.878196624564
+sk auc: 0.878196624564
+label: 8
+ml auc: 0.944541898779
+sk auc: 0.944541898779
+label: 9
+ml auc: 0.948156100025
+sk auc: 0.948156100025
+label: 10
+ml auc: 0.919546317294
+sk auc: 0.919546317294
+label: 11
+ml auc: 0.964447726116
+sk auc: 0.964447726116
+label: 12
+ml auc: 0.968231327801
+sk auc: 0.968231327801
+label: 13
+ml auc: 0.941336551213
+sk auc: 0.941336551213
+label: 14
+ml auc: 0.973884761655
+sk auc: 0.973884761655
+label: 15
+ml auc: 0.924812357093
+sk auc: 0.924812357093
+label: 16
+ml auc: 0.93011233721
+sk auc: 0.93011233721
+label: 17
+ml auc: 0.942906974675
+sk auc: 0.942906974675
+label: 18
+ml auc: 0.915107130318
+sk auc: 0.915107130318
+label: 19
+ml auc: 0.96941925227
+sk auc: 0.96941925227
+label: 20
+ml auc: 0.962458991948
+sk auc: 0.962458991948
+label: 21
+ml auc: 0.965747168433
+sk auc: 0.965747168433
+label: 22
+ml auc: 0.984705009885
+sk auc: 0.984705009885
+label: 23
+ml auc: 0.938038606953
+sk auc: 0.938038606953
+label: 24
+ml auc: 0.967279395322
+sk auc: 0.967279395322
+label: 25
+ml auc: 0.954394797014
+sk auc: 0.954394797014
+Saving result "runs/letter/0/knn/neighbors(40)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(uniform).pickle", building and running classifier...
+run: neighbors(200)-weights(uniform)
+parameters: {'n_neighbors': 200, 'weights': 'uniform'}
+ml ce: 0.25575
+ml rmse: 4.14357937054
+sk acc: 0.74425
+sk f1: 0.746981193483
+sk prec: 0.77282077184
+sk recl: 0.74425
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.927772195835
+sk auc: 0.927772195835
+label: 2
+ml auc: 0.88537993122
+sk auc: 0.88537993122
+label: 3
+ml auc: 0.900911716874
+sk auc: 0.900911716874
+label: 4
+ml auc: 0.81994063902
+sk auc: 0.81994063902
+label: 5
+ml auc: 0.87349619685
+sk auc: 0.87349619685
+label: 6
+ml auc: 0.858945420789
+sk auc: 0.858945420789
+label: 7
+ml auc: 0.74483696634
+sk auc: 0.74483696634
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.774413347456
+sk auc: 0.774413347456
+label: 11
+ml auc: 0.904458598726
+sk auc: 0.904458598726
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.871668206472
+sk auc: 0.871668206472
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.848841833184
+sk auc: 0.848841833184
+label: 16
+ml auc: 0.846362710011
+sk auc: 0.846362710011
+label: 17
+ml auc: 0.878039862218
+sk auc: 0.878039862218
+label: 18
+ml auc: 0.749599161272
+sk auc: 0.749599161272
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898132269609
+sk auc: 0.898132269609
+label: 21
+ml auc: 0.917488734624
+sk auc: 0.917488734624
+label: 22
+ml auc: 0.93033079364
+sk auc: 0.93033079364
+label: 23
+ml auc: 0.853173881933
+sk auc: 0.853173881933
+label: 24
+ml auc: 0.808864439376
+sk auc: 0.808864439376
+label: 25
+ml auc: 0.82993595108
+sk auc: 0.82993595108
+Saving result "runs/letter/0/knn/neighbors(200)-weights(uniform).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(distance).pickle", building and running classifier...
+run: neighbors(200)-weights(distance)
+parameters: {'n_neighbors': 200, 'weights': 'distance'}
+ml ce: 0.1835
+ml rmse: 3.52416656814
+sk acc: 0.8165
+sk f1: 0.818994807525
+sk prec: 0.83539014051
+sk recl: 0.8165
+label: 0
+ml auc: 0.94572627338
+sk auc: 0.94572627338
+label: 1
+ml auc: 0.957777676288
+sk auc: 0.957777676288
+label: 2
+ml auc: 0.900760446557
+sk auc: 0.900760446557
+label: 3
+ml auc: 0.948561265156
+sk auc: 0.948561265156
+label: 4
+ml auc: 0.888068990043
+sk auc: 0.888068990043
+label: 5
+ml auc: 0.910743623331
+sk auc: 0.910743623331
+label: 6
+ml auc: 0.898528701137
+sk auc: 0.898528701137
+label: 7
+ml auc: 0.795285263739
+sk auc: 0.795285263739
+label: 8
+ml auc: 0.899217731421
+sk auc: 0.899217731421
+label: 9
+ml auc: 0.901507816227
+sk auc: 0.901507816227
+label: 10
+ml auc: 0.843295704161
+sk auc: 0.843295704161
+label: 11
+ml auc: 0.926751592357
+sk auc: 0.926751592357
+label: 12
+ml auc: 0.938119525127
+sk auc: 0.938119525127
+label: 13
+ml auc: 0.899037464412
+sk auc: 0.899037464412
+label: 14
+ml auc: 0.950978145223
+sk auc: 0.950978145223
+label: 15
+ml auc: 0.876149468138
+sk auc: 0.876149468138
+label: 16
+ml auc: 0.886749428373
+sk auc: 0.886749428373
+label: 17
+ml auc: 0.907032110782
+sk auc: 0.907032110782
+label: 18
+ml auc: 0.84897804326
+sk auc: 0.84897804326
+label: 19
+ml auc: 0.929294441319
+sk auc: 0.929294441319
+label: 20
+ml auc: 0.910558952182
+sk auc: 0.910558952182
+label: 21
+ml auc: 0.942264949458
+sk auc: 0.942264949458
+label: 22
+ml auc: 0.949611406446
+sk auc: 0.949611406446
+label: 23
+ml auc: 0.902817007494
+sk auc: 0.902817007494
+label: 24
+ml auc: 0.897146562905
+sk auc: 0.897146562905
+label: 25
+ml auc: 0.88412384109
+sk auc: 0.88412384109
+Saving result "runs/letter/0/knn/neighbors(200)-weights(distance).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 200, 'width': 0.10000000000000001}
+ml ce: 0.04775
+ml rmse: 1.68663866907
+sk acc: 0.95225
+sk f1: 0.952212487005
+sk prec: 0.952530795806
+sk recl: 0.95225
+label: 0
+ml auc: 0.993199525067
+sk auc: 0.993199525067
+label: 1
+ml auc: 0.972970710023
+sk auc: 0.972970710023
+label: 2
+ml auc: 0.97809563446
+sk auc: 0.97809563446
+label: 3
+ml auc: 0.980861913012
+sk auc: 0.980861913012
+label: 4
+ml auc: 0.966065762118
+sk auc: 0.966065762118
+label: 5
+ml auc: 0.953338566169
+sk auc: 0.953338566169
+label: 6
+ml auc: 0.975088379664
+sk auc: 0.975088379664
+label: 7
+ml auc: 0.918321435515
+sk auc: 0.918321435515
+label: 8
+ml auc: 0.983805460077
+sk auc: 0.983805460077
+label: 9
+ml auc: 0.968685975695
+sk auc: 0.968685975695
+label: 10
+ml auc: 0.960642207705
+sk auc: 0.960642207705
+label: 11
+ml auc: 0.983556006371
+sk auc: 0.983556006371
+label: 12
+ml auc: 0.98224988474
+sk auc: 0.98224988474
+label: 13
+ml auc: 0.969357869663
+sk auc: 0.969357869663
+label: 14
+ml auc: 0.980330886806
+sk auc: 0.980330886806
+label: 15
+ml auc: 0.971909484044
+sk auc: 0.971909484044
+label: 16
+ml auc: 0.972300924545
+sk auc: 0.972300924545
+label: 17
+ml auc: 0.963754633307
+sk auc: 0.963754633307
+label: 18
+ml auc: 0.980715248374
+sk auc: 0.980715248374
+label: 19
+ml auc: 0.980132450331
+sk auc: 0.980132450331
+label: 20
+ml auc: 0.993656178547
+sk auc: 0.993656178547
+label: 21
+ml auc: 0.991094263792
+sk auc: 0.991094263792
+label: 22
+ml auc: 0.992158254748
+sk auc: 0.992158254748
+label: 23
+ml auc: 0.970917066605
+sk auc: 0.970917066605
+label: 24
+ml auc: 0.985688089807
+sk auc: 0.985688089807
+label: 25
+ml auc: 0.986430788289
+sk auc: 0.986430788289
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 200, 'width': 91.199999999999989}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 200, 'width': 182.29999999999998}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 200, 'width': 273.39999999999998}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 200, 'width': 364.5}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 200, 'width': 455.60000000000002}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 200, 'width': 546.69999999999993}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 200, 'width': 637.79999999999995}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 200, 'width': 728.89999999999998}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(200)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 200, 'width': 820.0}
+ml ce: 0.25175
+ml rmse: 4.09518009372
+sk acc: 0.74825
+sk f1: 0.751055613527
+sk prec: 0.77634774138
+sk recl: 0.74825
+label: 0
+ml auc: 0.93546052456
+sk auc: 0.93546052456
+label: 1
+ml auc: 0.928419193764
+sk auc: 0.928419193764
+label: 2
+ml auc: 0.885639132879
+sk auc: 0.885639132879
+label: 3
+ml auc: 0.901303055251
+sk auc: 0.901303055251
+label: 4
+ml auc: 0.823489987964
+sk auc: 0.823489987964
+label: 5
+ml auc: 0.873366225443
+sk auc: 0.873366225443
+label: 6
+ml auc: 0.859206109006
+sk auc: 0.859206109006
+label: 7
+ml auc: 0.745096774083
+sk auc: 0.745096774083
+label: 8
+ml auc: 0.892505234878
+sk auc: 0.892505234878
+label: 9
+ml auc: 0.884615924336
+sk auc: 0.884615924336
+label: 10
+ml auc: 0.781262662525
+sk auc: 0.781262662525
+label: 11
+ml auc: 0.907643312102
+sk auc: 0.907643312102
+label: 12
+ml auc: 0.930656408483
+sk auc: 0.930656408483
+label: 13
+ml auc: 0.874810666767
+sk auc: 0.874810666767
+label: 14
+ml auc: 0.941683017223
+sk auc: 0.941683017223
+label: 15
+ml auc: 0.854794214137
+sk auc: 0.854794214137
+label: 16
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 17
+ml auc: 0.877909619968
+sk auc: 0.877909619968
+label: 18
+ml auc: 0.755810341396
+sk auc: 0.755810341396
+label: 19
+ml auc: 0.85884869038
+sk auc: 0.85884869038
+label: 20
+ml auc: 0.898262749776
+sk auc: 0.898262749776
+label: 21
+ml auc: 0.917229935452
+sk auc: 0.917229935452
+label: 22
+ml auc: 0.933798415813
+sk auc: 0.933798415813
+label: 23
+ml auc: 0.8534342308
+sk auc: 0.8534342308
+label: 24
+ml auc: 0.8157609911
+sk auc: 0.8157609911
+label: 25
+ml auc: 0.836265065004
+sk auc: 0.836265065004
+Saving result "runs/letter/0/knn/neighbors(200)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(uniform).pickle", building and running classifier...
+run: neighbors(500)-weights(uniform)
+parameters: {'n_neighbors': 500, 'weights': 'uniform'}
+ml ce: 0.3795
+ml rmse: 4.8553063755
+sk acc: 0.6205
+sk f1: 0.618957260409
+sk prec: 0.664033663946
+sk recl: 0.6205
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.873431981488
+sk auc: 0.873431981488
+label: 2
+ml auc: 0.846799042049
+sk auc: 0.846799042049
+label: 3
+ml auc: 0.869008656311
+sk auc: 0.869008656311
+label: 4
+ml auc: 0.62755088084
+sk auc: 0.62755088084
+label: 5
+ml auc: 0.846442606156
+sk auc: 0.846442606156
+label: 6
+ml auc: 0.777772832473
+sk auc: 0.777772832473
+label: 7
+ml auc: 0.593298508772
+sk auc: 0.593298508772
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.677874259798
+sk auc: 0.677874259798
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.786691366405
+sk auc: 0.786691366405
+label: 14
+ml auc: 0.925366000906
+sk auc: 0.925366000906
+label: 15
+ml auc: 0.854272293469
+sk auc: 0.854272293469
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.761439880663
+sk auc: 0.761439880663
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.87368316892
+sk auc: 0.87368316892
+label: 22
+ml auc: 0.913481801971
+sk auc: 0.913481801971
+label: 23
+ml auc: 0.727278011655
+sk auc: 0.727278011655
+label: 24
+ml auc: 0.680759425735
+sk auc: 0.680759425735
+label: 25
+ml auc: 0.795125824498
+sk auc: 0.795125824498
+Saving result "runs/letter/0/knn/neighbors(500)-weights(uniform).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(distance).pickle", building and running classifier...
+run: neighbors(500)-weights(distance)
+parameters: {'n_neighbors': 500, 'weights': 'distance'}
+ml ce: 0.2675
+ml rmse: 4.18216451135
+sk acc: 0.7325
+sk f1: 0.736868929872
+sk prec: 0.770886510631
+sk recl: 0.7325
+label: 0
+ml auc: 0.928660049628
+sk auc: 0.928660049628
+label: 1
+ml auc: 0.927307879674
+sk auc: 0.927307879674
+label: 2
+ml auc: 0.858377324601
+sk auc: 0.858377324601
+label: 3
+ml auc: 0.910670180641
+sk auc: 0.910670180641
+label: 4
+ml auc: 0.805312397418
+sk auc: 0.805312397418
+label: 5
+ml auc: 0.875315796538
+sk auc: 0.875315796538
+label: 6
+ml auc: 0.839609984995
+sk auc: 0.839609984995
+label: 7
+ml auc: 0.739643392366
+sk auc: 0.739643392366
+label: 8
+ml auc: 0.877744854016
+sk auc: 0.877744854016
+label: 9
+ml auc: 0.884875529735
+sk auc: 0.884875529735
+label: 10
+ml auc: 0.785076526079
+sk auc: 0.785076526079
+label: 11
+ml auc: 0.898089171975
+sk auc: 0.898089171975
+label: 12
+ml auc: 0.929878400184
+sk auc: 0.929878400184
+label: 13
+ml auc: 0.865513697984
+sk auc: 0.865513697984
+label: 14
+ml auc: 0.943208137453
+sk auc: 0.943208137453
+label: 15
+ml auc: 0.869414206184
+sk auc: 0.869414206184
+label: 16
+ml auc: 0.830829356795
+sk auc: 0.830829356795
+label: 17
+ml auc: 0.859666806347
+sk auc: 0.859666806347
+label: 18
+ml auc: 0.723712502771
+sk auc: 0.723712502771
+label: 19
+ml auc: 0.845733561138
+sk auc: 0.845733561138
+label: 20
+ml auc: 0.871216075157
+sk auc: 0.871216075157
+label: 21
+ml auc: 0.891494641335
+sk auc: 0.891494641335
+label: 22
+ml auc: 0.943294781424
+sk auc: 0.943294781424
+label: 23
+ml auc: 0.869548024542
+sk auc: 0.869548024542
+label: 24
+ml auc: 0.784856210027
+sk auc: 0.784856210027
+label: 25
+ml auc: 0.848923292852
+sk auc: 0.848923292852
+Saving result "runs/letter/0/knn/neighbors(500)-weights(distance).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 500, 'width': 0.10000000000000001}
+ml ce: 0.04775
+ml rmse: 1.68663866907
+sk acc: 0.95225
+sk f1: 0.952212487005
+sk prec: 0.952530795806
+sk recl: 0.95225
+label: 0
+ml auc: 0.993199525067
+sk auc: 0.993199525067
+label: 1
+ml auc: 0.972970710023
+sk auc: 0.972970710023
+label: 2
+ml auc: 0.97809563446
+sk auc: 0.97809563446
+label: 3
+ml auc: 0.980861913012
+sk auc: 0.980861913012
+label: 4
+ml auc: 0.966065762118
+sk auc: 0.966065762118
+label: 5
+ml auc: 0.953338566169
+sk auc: 0.953338566169
+label: 6
+ml auc: 0.975088379664
+sk auc: 0.975088379664
+label: 7
+ml auc: 0.918321435515
+sk auc: 0.918321435515
+label: 8
+ml auc: 0.983805460077
+sk auc: 0.983805460077
+label: 9
+ml auc: 0.968685975695
+sk auc: 0.968685975695
+label: 10
+ml auc: 0.960642207705
+sk auc: 0.960642207705
+label: 11
+ml auc: 0.983556006371
+sk auc: 0.983556006371
+label: 12
+ml auc: 0.98224988474
+sk auc: 0.98224988474
+label: 13
+ml auc: 0.969357869663
+sk auc: 0.969357869663
+label: 14
+ml auc: 0.980330886806
+sk auc: 0.980330886806
+label: 15
+ml auc: 0.971909484044
+sk auc: 0.971909484044
+label: 16
+ml auc: 0.972300924545
+sk auc: 0.972300924545
+label: 17
+ml auc: 0.963754633307
+sk auc: 0.963754633307
+label: 18
+ml auc: 0.980715248374
+sk auc: 0.980715248374
+label: 19
+ml auc: 0.980132450331
+sk auc: 0.980132450331
+label: 20
+ml auc: 0.993656178547
+sk auc: 0.993656178547
+label: 21
+ml auc: 0.991094263792
+sk auc: 0.991094263792
+label: 22
+ml auc: 0.992158254748
+sk auc: 0.992158254748
+label: 23
+ml auc: 0.970917066605
+sk auc: 0.970917066605
+label: 24
+ml auc: 0.985688089807
+sk auc: 0.985688089807
+label: 25
+ml auc: 0.986430788289
+sk auc: 0.986430788289
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 500, 'width': 91.199999999999989}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 500, 'width': 182.29999999999998}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 500, 'width': 273.39999999999998}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 500, 'width': 364.5}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 500, 'width': 455.60000000000002}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 500, 'width': 546.69999999999993}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 500, 'width': 637.79999999999995}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 500, 'width': 728.89999999999998}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(500)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 500, 'width': 820.0}
+ml ce: 0.37675
+ml rmse: 4.83647598981
+sk acc: 0.62325
+sk f1: 0.621463006704
+sk prec: 0.66700593381
+sk recl: 0.62325
+label: 0
+ml auc: 0.922119720377
+sk auc: 0.922119720377
+label: 1
+ml auc: 0.874078979418
+sk auc: 0.874078979418
+label: 2
+ml auc: 0.846928642879
+sk auc: 0.846928642879
+label: 3
+ml auc: 0.869399994688
+sk auc: 0.869399994688
+label: 4
+ml auc: 0.62794069373
+sk auc: 0.62794069373
+label: 5
+ml auc: 0.84631263475
+sk auc: 0.84631263475
+label: 6
+ml auc: 0.783870393448
+sk auc: 0.783870393448
+label: 7
+ml auc: 0.593558316515
+sk auc: 0.593558316515
+label: 8
+ml auc: 0.85483781755
+sk auc: 0.85483781755
+label: 9
+ml auc: 0.877729364879
+sk auc: 0.877729364879
+label: 10
+ml auc: 0.681298917332
+sk auc: 0.681298917332
+label: 11
+ml auc: 0.87898089172
+sk auc: 0.87898089172
+label: 12
+ml auc: 0.908785730751
+sk auc: 0.908785730751
+label: 13
+ml auc: 0.7898338267
+sk auc: 0.7898338267
+label: 14
+ml auc: 0.925495501035
+sk auc: 0.925495501035
+label: 15
+ml auc: 0.854011333135
+sk auc: 0.854011333135
+label: 16
+ml auc: 0.772715975743
+sk auc: 0.772715975743
+label: 17
+ml auc: 0.770496166348
+sk auc: 0.770496166348
+label: 18
+ml auc: 0.648136403275
+sk auc: 0.648136403275
+label: 19
+ml auc: 0.747888416876
+sk auc: 0.747888416876
+label: 20
+ml auc: 0.85852843225
+sk auc: 0.85852843225
+label: 21
+ml auc: 0.873812568506
+sk auc: 0.873812568506
+label: 22
+ml auc: 0.917078924273
+sk auc: 0.917078924273
+label: 23
+ml auc: 0.727147837221
+sk auc: 0.727147837221
+label: 24
+ml auc: 0.684207701597
+sk auc: 0.684207701597
+label: 25
+ml auc: 0.801454938422
+sk auc: 0.801454938422
+Saving result "runs/letter/0/knn/neighbors(500)-weights(gaussian)-width(8.200000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(uniform).pickle", building and running classifier...
+run: neighbors(1000)-weights(uniform)
+parameters: {'n_neighbors': 1000, 'weights': 'uniform'}
+ml ce: 0.457
+ml rmse: 5.17559175361
+sk acc: 0.543
+sk f1: 0.534682610862
+sk prec: 0.615889949942
+sk recl: 0.543
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.87806753136
+sk auc: 0.87806753136
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.80821529391
+sk auc: 0.80821529391
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820707418224
+sk auc: 0.820707418224
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866176761092
+sk auc: 0.866176761092
+label: 9
+ml auc: 0.861097078387
+sk auc: 0.861097078387
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.642361307515
+sk auc: 0.642361307515
+label: 14
+ml auc: 0.911063224013
+sk auc: 0.911063224013
+label: 15
+ml auc: 0.840932249727
+sk auc: 0.840932249727
+label: 16
+ml auc: 0.728203598767
+sk auc: 0.728203598767
+label: 17
+ml auc: 0.731425918046
+sk auc: 0.731425918046
+label: 18
+ml auc: 0.573341757283
+sk auc: 0.573341757283
+label: 19
+ml auc: 0.67887160852
+sk auc: 0.67887160852
+label: 20
+ml auc: 0.800154090864
+sk auc: 0.800154090864
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.704114330813
+sk auc: 0.704114330813
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.786152715819
+sk auc: 0.786152715819
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(uniform).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(distance).pickle", building and running classifier...
+run: neighbors(1000)-weights(distance)
+parameters: {'n_neighbors': 1000, 'weights': 'distance'}
+ml ce: 0.3195
+ml rmse: 4.46799731423
+sk acc: 0.6805
+sk f1: 0.684448514495
+sk prec: 0.738207852696
+sk recl: 0.6805
+label: 0
+ml auc: 0.924804557219
+sk auc: 0.924804557219
+label: 1
+ml auc: 0.918326026063
+sk auc: 0.918326026063
+label: 2
+ml auc: 0.849391058638
+sk auc: 0.849391058638
+label: 3
+ml auc: 0.900253237329
+sk auc: 0.900253237329
+label: 4
+ml auc: 0.715416073969
+sk auc: 0.715416073969
+label: 5
+ml auc: 0.864602075125
+sk auc: 0.864602075125
+label: 6
+ml auc: 0.78173402172
+sk auc: 0.78173402172
+label: 7
+ml auc: 0.689714710452
+sk auc: 0.689714710452
+label: 8
+ml auc: 0.881035913239
+sk auc: 0.881035913239
+label: 9
+ml auc: 0.878378378378
+sk auc: 0.878378378378
+label: 10
+ml auc: 0.726597877317
+sk auc: 0.726597877317
+label: 11
+ml auc: 0.875796178344
+sk auc: 0.875796178344
+label: 12
+ml auc: 0.92280428769
+sk auc: 0.92280428769
+label: 13
+ml auc: 0.832511579966
+sk auc: 0.832511579966
+label: 14
+ml auc: 0.93761075056
+sk auc: 0.93761075056
+label: 15
+ml auc: 0.862939904563
+sk auc: 0.862939904563
+label: 16
+ml auc: 0.785012178149
+sk auc: 0.785012178149
+label: 17
+ml auc: 0.816449029978
+sk auc: 0.816449029978
+label: 18
+ml auc: 0.658625353717
+sk auc: 0.658625353717
+label: 19
+ml auc: 0.822554753191
+sk auc: 0.822554753191
+label: 20
+ml auc: 0.85244557113
+sk auc: 0.85244557113
+label: 21
+ml auc: 0.885359578614
+sk auc: 0.885359578614
+label: 22
+ml auc: 0.934676035395
+sk auc: 0.934676035395
+label: 23
+ml auc: 0.837340904737
+sk auc: 0.837340904737
+label: 24
+ml auc: 0.704432219688
+sk auc: 0.704432219688
+label: 25
+ml auc: 0.852998833677
+sk auc: 0.852998833677
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(distance).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.000000e-01)
+parameters: {'n_neighbors': 1000, 'width': 0.10000000000000001}
+ml ce: 0.04775
+ml rmse: 1.68663866907
+sk acc: 0.95225
+sk f1: 0.952212487005
+sk prec: 0.952530795806
+sk recl: 0.95225
+label: 0
+ml auc: 0.993199525067
+sk auc: 0.993199525067
+label: 1
+ml auc: 0.972970710023
+sk auc: 0.972970710023
+label: 2
+ml auc: 0.97809563446
+sk auc: 0.97809563446
+label: 3
+ml auc: 0.980861913012
+sk auc: 0.980861913012
+label: 4
+ml auc: 0.966065762118
+sk auc: 0.966065762118
+label: 5
+ml auc: 0.953338566169
+sk auc: 0.953338566169
+label: 6
+ml auc: 0.975088379664
+sk auc: 0.975088379664
+label: 7
+ml auc: 0.918321435515
+sk auc: 0.918321435515
+label: 8
+ml auc: 0.983805460077
+sk auc: 0.983805460077
+label: 9
+ml auc: 0.968685975695
+sk auc: 0.968685975695
+label: 10
+ml auc: 0.960642207705
+sk auc: 0.960642207705
+label: 11
+ml auc: 0.983556006371
+sk auc: 0.983556006371
+label: 12
+ml auc: 0.98224988474
+sk auc: 0.98224988474
+label: 13
+ml auc: 0.969357869663
+sk auc: 0.969357869663
+label: 14
+ml auc: 0.980330886806
+sk auc: 0.980330886806
+label: 15
+ml auc: 0.971909484044
+sk auc: 0.971909484044
+label: 16
+ml auc: 0.972300924545
+sk auc: 0.972300924545
+label: 17
+ml auc: 0.963754633307
+sk auc: 0.963754633307
+label: 18
+ml auc: 0.980715248374
+sk auc: 0.980715248374
+label: 19
+ml auc: 0.980132450331
+sk auc: 0.980132450331
+label: 20
+ml auc: 0.993656178547
+sk auc: 0.993656178547
+label: 21
+ml auc: 0.991094263792
+sk auc: 0.991094263792
+label: 22
+ml auc: 0.992158254748
+sk auc: 0.992158254748
+label: 23
+ml auc: 0.970917066605
+sk auc: 0.970917066605
+label: 24
+ml auc: 0.985688089807
+sk auc: 0.985688089807
+label: 25
+ml auc: 0.986430788289
+sk auc: 0.986430788289
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(1.000000e-01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(9.120000e+01)
+parameters: {'n_neighbors': 1000, 'width': 91.199999999999989}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(9.120000e+01).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(1.823000e+02)
+parameters: {'n_neighbors': 1000, 'width': 182.29999999999998}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(1.823000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(2.734000e+02)
+parameters: {'n_neighbors': 1000, 'width': 273.39999999999998}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(2.734000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(3.645000e+02)
+parameters: {'n_neighbors': 1000, 'width': 364.5}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(3.645000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(4.556000e+02)
+parameters: {'n_neighbors': 1000, 'width': 455.60000000000002}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(4.556000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(5.467000e+02)
+parameters: {'n_neighbors': 1000, 'width': 546.69999999999993}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(5.467000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(6.378000e+02)
+parameters: {'n_neighbors': 1000, 'width': 637.79999999999995}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(6.378000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(7.289000e+02)
+parameters: {'n_neighbors': 1000, 'width': 728.89999999999998}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(7.289000e+02).pickle"...
+
+No cached result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle", building and running classifier...
+run: neighbors(1000)-weights(gaussian)-width(8.200000e+02)
+parameters: {'n_neighbors': 1000, 'width': 820.0}
+ml ce: 0.453
+ml rmse: 5.15135904398
+sk acc: 0.547
+sk f1: 0.538508565315
+sk prec: 0.618823265075
+sk recl: 0.547
+label: 0
+ml auc: 0.910813388831
+sk auc: 0.910813388831
+label: 1
+ml auc: 0.878196930946
+sk auc: 0.878196930946
+label: 2
+ml auc: 0.817593221329
+sk auc: 0.817593221329
+label: 3
+ml auc: 0.808737078413
+sk auc: 0.808737078413
+label: 4
+ml auc: 0.571069044753
+sk auc: 0.571069044753
+label: 5
+ml auc: 0.820967361037
+sk auc: 0.820967361037
+label: 6
+ml auc: 0.716247234162
+sk auc: 0.716247234162
+label: 7
+ml auc: 0.567587865774
+sk auc: 0.567587865774
+label: 8
+ml auc: 0.866437517285
+sk auc: 0.866437517285
+label: 9
+ml auc: 0.864475456765
+sk auc: 0.864475456765
+label: 10
+ml auc: 0.57591294581
+sk auc: 0.57591294581
+label: 11
+ml auc: 0.834394904459
+sk auc: 0.834394904459
+label: 12
+ml auc: 0.901581950207
+sk auc: 0.901581950207
+label: 13
+ml auc: 0.645242943605
+sk auc: 0.645242943605
+label: 14
+ml auc: 0.91171072466
+sk auc: 0.91171072466
+label: 15
+ml auc: 0.846884630679
+sk auc: 0.846884630679
+label: 16
+ml auc: 0.734025499553
+sk auc: 0.734025499553
+label: 17
+ml auc: 0.73763709817
+sk auc: 0.73763709817
+label: 18
+ml auc: 0.573862726286
+sk auc: 0.573862726286
+label: 19
+ml auc: 0.682052962927
+sk auc: 0.682052962927
+label: 20
+ml auc: 0.80313028134
+sk auc: 0.80313028134
+label: 21
+ml auc: 0.865089514066
+sk auc: 0.865089514066
+label: 22
+ml auc: 0.900877433252
+sk auc: 0.900877433252
+label: 23
+ml auc: 0.707389159335
+sk auc: 0.707389159335
+label: 24
+ml auc: 0.580034885281
+sk auc: 0.580034885281
+label: 25
+ml auc: 0.801975500629
+sk auc: 0.801975500629
+Saving result "runs/letter/0/knn/neighbors(1000)-weights(gaussian)-width(8.200000e+02).pickle"...
+Clearing trial data from memory...

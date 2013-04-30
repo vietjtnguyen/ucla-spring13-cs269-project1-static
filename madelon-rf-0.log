@@ -1,0 +1,331 @@
+Data set: madelon
+Algorithm: rf
+Loading madelon data set...
+Creating random forest hyper classifier...
+Running trial 0...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/madelon/0/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+500
+22.360679775
+0.5
+11
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.348327566321
+ml rmse: 1.18038564261
+sk acc: 0.651672433679
+sk f1: 0.645539906103
+sk prec: 0.656324582339
+sk recl: 0.635103926097
+label: 1
+ml auc: 0.651653345537
+sk auc: 0.651653345537
+label: -1
+ml auc: 0.651653345537
+sk auc: 0.651653345537
+Saving result "runs/madelon/0/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/madelon/0/rf/estimators(500)-split(1).pickle", building and running classifier...
+500
+22.360679775
+1
+22
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.305651672434
+ml rmse: 1.10571546509
+sk acc: 0.694348327566
+sk f1: 0.674046740467
+sk prec: 0.721052631579
+sk recl: 0.632794457275
+label: 1
+ml auc: 0.694277412969
+sk auc: 0.694277412969
+label: -1
+ml auc: 0.694277412969
+sk auc: 0.694277412969
+Saving result "runs/madelon/0/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/madelon/0/rf/estimators(500)-split(2).pickle", building and running classifier...
+500
+22.360679775
+2
+44
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.256055363322
+ml rmse: 1.01203826671
+sk acc: 0.743944636678
+sk f1: 0.725925925926
+sk prec: 0.779840848806
+sk recl: 0.678983833718
+label: 1
+ml auc: 0.743869797043
+sk auc: 0.743869797043
+label: -1
+ml auc: 0.743869797043
+sk auc: 0.743869797043
+Saving result "runs/madelon/0/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/madelon/0/rf/estimators(500)-split(4).pickle", building and running classifier...
+500
+22.360679775
+4
+89
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.214532871972
+ml rmse: 0.926353867531
+sk acc: 0.785467128028
+sk f1: 0.770935960591
+sk prec: 0.825857519789
+sk recl: 0.722863741339
+label: 1
+ml auc: 0.78539500431
+sk auc: 0.78539500431
+label: -1
+ml auc: 0.78539500431
+sk auc: 0.78539500431
+Saving result "runs/madelon/0/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/madelon/0/rf/estimators(500)-split(8).pickle", building and running classifier...
+500
+22.360679775
+8
+178
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.163783160323
+ml rmse: 0.809402644727
+sk acc: 0.836216839677
+sk f1: 0.832151300236
+sk prec: 0.852300242131
+sk recl: 0.812933025404
+label: 1
+ml auc: 0.836190015006
+sk auc: 0.836190015006
+label: -1
+ml auc: 0.836190015006
+sk auc: 0.836190015006
+Saving result "runs/madelon/0/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...
+Running trial 1...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/madelon/1/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+500
+22.360679775
+0.5
+11
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.340253748558
+ml rmse: 1.16662547299
+sk acc: 0.659746251442
+sk f1: 0.654970760234
+sk prec: 0.665083135392
+sk recl: 0.645161290323
+label: 1
+ml auc: 0.659763093198
+sk auc: 0.659763093198
+label: -1
+ml auc: 0.659763093198
+sk auc: 0.659763093198
+Saving result "runs/madelon/1/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/madelon/1/rf/estimators(500)-split(1).pickle", building and running classifier...
+500
+22.360679775
+1
+22
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.303344867359
+ml rmse: 1.10153505139
+sk acc: 0.696655132641
+sk f1: 0.684273709484
+sk prec: 0.714285714286
+sk recl: 0.65668202765
+label: 1
+ml auc: 0.696701290961
+sk auc: 0.696701290961
+label: -1
+ml auc: 0.696701290961
+sk auc: 0.696701290961
+Saving result "runs/madelon/1/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/madelon/1/rf/estimators(500)-split(2).pickle", building and running classifier...
+500
+22.360679775
+2
+44
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.267589388697
+ml rmse: 1.03458085947
+sk acc: 0.732410611303
+sk f1: 0.719806763285
+sk prec: 0.756345177665
+sk recl: 0.6866359447
+label: 1
+ml auc: 0.732463468886
+sk auc: 0.732463468886
+label: -1
+ml auc: 0.732463468886
+sk auc: 0.732463468886
+Saving result "runs/madelon/1/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/madelon/1/rf/estimators(500)-split(4).pickle", building and running classifier...
+500
+22.360679775
+4
+89
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.228373702422
+ml rmse: 0.955769224075
+sk acc: 0.771626297578
+sk f1: 0.764845605701
+sk prec: 0.789215686275
+sk recl: 0.741935483871
+label: 1
+ml auc: 0.771660582582
+sk auc: 0.771660582582
+label: -1
+ml auc: 0.771660582582
+sk auc: 0.771660582582
+Saving result "runs/madelon/1/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/madelon/1/rf/estimators(500)-split(8).pickle", building and running classifier...
+500
+22.360679775
+8
+178
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.200692041522
+ml rmse: 0.895973306572
+sk acc: 0.799307958478
+sk f1: 0.798143851508
+sk prec: 0.803738317757
+sk recl: 0.792626728111
+label: 1
+ml auc: 0.799315673524
+sk auc: 0.799315673524
+label: -1
+ml auc: 0.799315673524
+sk auc: 0.799315673524
+Saving result "runs/madelon/1/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...
+Running trial 2...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/madelon/2/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+500
+22.360679775
+0.5
+11
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.315242494226
+ml rmse: 1.12292919497
+sk acc: 0.684757505774
+sk f1: 0.661710037175
+sk prec: 0.713903743316
+sk recl: 0.61662817552
+label: 1
+ml auc: 0.684757505774
+sk auc: 0.684757505774
+label: -1
+ml auc: 0.684757505774
+sk auc: 0.684757505774
+Saving result "runs/madelon/2/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/madelon/2/rf/estimators(500)-split(1).pickle", building and running classifier...
+500
+22.360679775
+1
+22
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.277136258661
+ml rmse: 1.05287465286
+sk acc: 0.722863741339
+sk f1: 0.69465648855
+sk prec: 0.773371104816
+sk recl: 0.630484988453
+label: 1
+ml auc: 0.722863741339
+sk auc: 0.722863741339
+label: -1
+ml auc: 0.722863741339
+sk auc: 0.722863741339
+Saving result "runs/madelon/2/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/madelon/2/rf/estimators(500)-split(2).pickle", building and running classifier...
+500
+22.360679775
+2
+44
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.232101616628
+ml rmse: 0.963538513248
+sk acc: 0.767898383372
+sk f1: 0.743949044586
+sk prec: 0.829545454545
+sk recl: 0.674364896074
+label: 1
+ml auc: 0.767898383372
+sk auc: 0.767898383372
+label: -1
+ml auc: 0.767898383372
+sk auc: 0.767898383372
+Saving result "runs/madelon/2/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/madelon/2/rf/estimators(500)-split(4).pickle", building and running classifier...
+500
+22.360679775
+4
+89
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.196304849885
+ml rmse: 0.886126063006
+sk acc: 0.803695150115
+sk f1: 0.792682926829
+sk prec: 0.839793281654
+sk recl: 0.750577367206
+label: 1
+ml auc: 0.803695150115
+sk auc: 0.803695150115
+label: -1
+ml auc: 0.803695150115
+sk auc: 0.803695150115
+Saving result "runs/madelon/2/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/madelon/2/rf/estimators(500)-split(8).pickle", building and running classifier...
+500
+22.360679775
+8
+178
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.175519630485
+ml rmse: 0.837901260257
+sk acc: 0.824480369515
+sk f1: 0.818181818182
+sk prec: 0.848635235732
+sk recl: 0.789838337182
+label: 1
+ml auc: 0.824480369515
+sk auc: 0.824480369515
+label: -1
+ml auc: 0.824480369515
+sk auc: 0.824480369515
+Saving result "runs/madelon/2/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...

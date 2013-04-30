@@ -1,0 +1,1077 @@
+Data set: letter
+Algorithm: lr
+Loading letter data set...
+Creating logistic regression hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for logistic regression...
+Applying classifier to trial...
+
+No cached result "runs/letter/0/lr/penalty(l1)-C(1.000000e-09).pickle", building and running classifier...
+run: penalty(l1)-C(1.000000e-09)
+parameters: {'penalty': 'l1', 'C': 1.0000000000000001e-09}
+ml ce: 0.961
+ml rmse: 9.14799158286
+sk acc: 0.039
+sk f1: 0.00292781520693
+sk prec: 0.001521
+sk recl: 0.039
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/lr/penalty(l1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l1)-C(6.309573e-07).pickle", building and running classifier...
+run: penalty(l1)-C(6.309573e-07)
+parameters: {'penalty': 'l1', 'C': 6.3095734448019296e-07}
+ml ce: 0.961
+ml rmse: 9.14799158286
+sk acc: 0.039
+sk f1: 0.00292781520693
+sk prec: 0.001521
+sk recl: 0.039
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/lr/penalty(l1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l1)-C(3.981072e-04).pickle", building and running classifier...
+run: penalty(l1)-C(3.981072e-04)
+parameters: {'penalty': 'l1', 'C': 0.00039810717055349692}
+ml ce: 0.964
+ml rmse: 7.46483422455
+sk acc: 0.036
+sk f1: 0.00250193050193
+sk prec: 0.001296
+sk recl: 0.036
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.5
+sk auc: 0.5
+label: 9
+ml auc: 0.5
+sk auc: 0.5
+label: 10
+ml auc: 0.5
+sk auc: 0.5
+label: 11
+ml auc: 0.5
+sk auc: 0.5
+label: 12
+ml auc: 0.5
+sk auc: 0.5
+label: 13
+ml auc: 0.5
+sk auc: 0.5
+label: 14
+ml auc: 0.5
+sk auc: 0.5
+label: 15
+ml auc: 0.5
+sk auc: 0.5
+label: 16
+ml auc: 0.5
+sk auc: 0.5
+label: 17
+ml auc: 0.5
+sk auc: 0.5
+label: 18
+ml auc: 0.5
+sk auc: 0.5
+label: 19
+ml auc: 0.5
+sk auc: 0.5
+label: 20
+ml auc: 0.5
+sk auc: 0.5
+label: 21
+ml auc: 0.5
+sk auc: 0.5
+label: 22
+ml auc: 0.5
+sk auc: 0.5
+label: 23
+ml auc: 0.5
+sk auc: 0.5
+label: 24
+ml auc: 0.5
+sk auc: 0.5
+label: 25
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/letter/0/lr/penalty(l1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l1)-C(2.511886e-01).pickle", building and running classifier...
+run: penalty(l1)-C(2.511886e-01)
+parameters: {'penalty': 'l1', 'C': 0.25118864315095718}
+ml ce: 0.286
+ml rmse: 4.32377150183
+sk acc: 0.714
+sk f1: 0.710922205473
+sk prec: 0.716258904675
+sk recl: 0.714
+label: 0
+ml auc: 0.916880119534
+sk auc: 0.916880119534
+label: 1
+ml auc: 0.884453781513
+sk auc: 0.884453781513
+label: 2
+ml auc: 0.853322892252
+sk auc: 0.853322892252
+label: 3
+ml auc: 0.911204462976
+sk auc: 0.911204462976
+label: 4
+ml auc: 0.812281157676
+sk auc: 0.812281157676
+label: 5
+ml auc: 0.86722019195
+sk auc: 0.86722019195
+label: 6
+ml auc: 0.642090973829
+sk auc: 0.642090973829
+label: 7
+ml auc: 0.696008596023
+sk auc: 0.696008596023
+label: 8
+ml auc: 0.913065465608
+sk auc: 0.913065465608
+label: 9
+ml auc: 0.899301170329
+sk auc: 0.899301170329
+label: 10
+ml auc: 0.797529341513
+sk auc: 0.797529341513
+label: 11
+ml auc: 0.881186904472
+sk auc: 0.881186904472
+label: 12
+ml auc: 0.940684071
+sk auc: 0.940684071
+label: 13
+ml auc: 0.81614721798
+sk auc: 0.81614721798
+label: 14
+ml auc: 0.737740809683
+sk auc: 0.737740809683
+label: 15
+ml auc: 0.874714186301
+sk auc: 0.874714186301
+label: 16
+ml auc: 0.84785391192
+sk auc: 0.84785391192
+label: 17
+ml auc: 0.890983191469
+sk auc: 0.890983191469
+label: 18
+ml auc: 0.720847173258
+sk auc: 0.720847173258
+label: 19
+ml auc: 0.920203751211
+sk auc: 0.920203751211
+label: 20
+ml auc: 0.900977979918
+sk auc: 0.900977979918
+label: 21
+ml auc: 0.900529777128
+sk auc: 0.900529777128
+label: 22
+ml auc: 0.946661784791
+sk auc: 0.946661784791
+label: 23
+ml auc: 0.873884716212
+sk auc: 0.873884716212
+label: 24
+ml auc: 0.822527841138
+sk auc: 0.822527841138
+label: 25
+ml auc: 0.875582337786
+sk auc: 0.875582337786
+Saving result "runs/letter/0/lr/penalty(l1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l1)-C(1.584893e+02).pickle", building and running classifier...
+run: penalty(l1)-C(1.584893e+02)
+parameters: {'penalty': 'l1', 'C': 158.48931924611108}
+ml ce: 0.28475
+ml rmse: 4.31480011125
+sk acc: 0.71525
+sk f1: 0.713072866889
+sk prec: 0.718641837583
+sk recl: 0.71525
+label: 0
+ml auc: 0.920605539102
+sk auc: 0.920605539102
+label: 1
+ml auc: 0.887871452929
+sk auc: 0.887871452929
+label: 2
+ml auc: 0.849931366321
+sk auc: 0.849931366321
+label: 3
+ml auc: 0.908340897126
+sk auc: 0.908340897126
+label: 4
+ml auc: 0.812021282416
+sk auc: 0.812021282416
+label: 5
+ml auc: 0.860684244238
+sk auc: 0.860684244238
+label: 6
+ml auc: 0.647927846588
+sk auc: 0.647927846588
+label: 7
+ml auc: 0.702241400966
+sk auc: 0.702241400966
+label: 8
+ml auc: 0.913326221801
+sk auc: 0.913326221801
+label: 9
+ml auc: 0.899430973029
+sk auc: 0.899430973029
+label: 10
+ml auc: 0.794104683979
+sk auc: 0.794104683979
+label: 11
+ml auc: 0.883981297785
+sk auc: 0.883981297785
+label: 12
+ml auc: 0.94107307515
+sk auc: 0.94107307515
+label: 13
+ml auc: 0.81902885407
+sk auc: 0.81902885407
+label: 14
+ml auc: 0.740819931467
+sk auc: 0.740819931467
+label: 15
+ml auc: 0.877429416443
+sk auc: 0.877429416443
+label: 16
+ml auc: 0.847984392087
+sk auc: 0.847984392087
+label: 17
+ml auc: 0.881666421283
+sk auc: 0.881666421283
+label: 18
+ml auc: 0.730163943444
+sk auc: 0.730163943444
+label: 19
+ml auc: 0.923904721102
+sk auc: 0.923904721102
+label: 20
+ml auc: 0.895025598966
+sk auc: 0.895025598966
+label: 21
+ml auc: 0.900659176714
+sk auc: 0.900659176714
+label: 22
+ml auc: 0.94692078505
+sk auc: 0.94692078505
+label: 23
+ml auc: 0.880304198821
+sk auc: 0.880304198821
+label: 24
+ml auc: 0.82278724451
+sk auc: 0.82278724451
+label: 25
+ml auc: 0.872678061927
+sk auc: 0.872678061927
+Saving result "runs/letter/0/lr/penalty(l1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l1)-C(1.000000e+05).pickle", building and running classifier...
+run: penalty(l1)-C(1.000000e+05)
+parameters: {'penalty': 'l1', 'C': 100000.0}
+ml ce: 0.28475
+ml rmse: 4.31480011125
+sk acc: 0.71525
+sk f1: 0.713072866889
+sk prec: 0.718641837583
+sk recl: 0.71525
+label: 0
+ml auc: 0.920605539102
+sk auc: 0.920605539102
+label: 1
+ml auc: 0.887871452929
+sk auc: 0.887871452929
+label: 2
+ml auc: 0.849931366321
+sk auc: 0.849931366321
+label: 3
+ml auc: 0.908340897126
+sk auc: 0.908340897126
+label: 4
+ml auc: 0.812021282416
+sk auc: 0.812021282416
+label: 5
+ml auc: 0.860684244238
+sk auc: 0.860684244238
+label: 6
+ml auc: 0.647927846588
+sk auc: 0.647927846588
+label: 7
+ml auc: 0.702241400966
+sk auc: 0.702241400966
+label: 8
+ml auc: 0.913326221801
+sk auc: 0.913326221801
+label: 9
+ml auc: 0.899430973029
+sk auc: 0.899430973029
+label: 10
+ml auc: 0.794104683979
+sk auc: 0.794104683979
+label: 11
+ml auc: 0.883981297785
+sk auc: 0.883981297785
+label: 12
+ml auc: 0.94107307515
+sk auc: 0.94107307515
+label: 13
+ml auc: 0.81902885407
+sk auc: 0.81902885407
+label: 14
+ml auc: 0.740819931467
+sk auc: 0.740819931467
+label: 15
+ml auc: 0.877429416443
+sk auc: 0.877429416443
+label: 16
+ml auc: 0.847984392087
+sk auc: 0.847984392087
+label: 17
+ml auc: 0.881666421283
+sk auc: 0.881666421283
+label: 18
+ml auc: 0.730163943444
+sk auc: 0.730163943444
+label: 19
+ml auc: 0.923904721102
+sk auc: 0.923904721102
+label: 20
+ml auc: 0.895025598966
+sk auc: 0.895025598966
+label: 21
+ml auc: 0.900659176714
+sk auc: 0.900659176714
+label: 22
+ml auc: 0.94692078505
+sk auc: 0.94692078505
+label: 23
+ml auc: 0.880304198821
+sk auc: 0.880304198821
+label: 24
+ml auc: 0.82278724451
+sk auc: 0.82278724451
+label: 25
+ml auc: 0.872678061927
+sk auc: 0.872678061927
+Saving result "runs/letter/0/lr/penalty(l1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l2)-C(1.000000e-09).pickle", building and running classifier...
+run: penalty(l2)-C(1.000000e-09)
+parameters: {'penalty': 'l2', 'C': 1.0000000000000001e-09}
+ml ce: 0.5735
+ml rmse: 5.70593988752
+sk acc: 0.4265
+sk f1: 0.371043847448
+sk prec: 0.519673009248
+sk recl: 0.4265
+label: 0
+ml auc: 0.899180207583
+sk auc: 0.899180207583
+label: 1
+ml auc: 0.738277919864
+sk auc: 0.738277919864
+label: 2
+ml auc: 0.849370979636
+sk auc: 0.849370979636
+label: 3
+ml auc: 0.602572835024
+sk auc: 0.602572835024
+label: 4
+ml auc: 0.576478553452
+sk auc: 0.576478553452
+label: 5
+ml auc: 0.755069309588
+sk auc: 0.755069309588
+label: 6
+ml auc: 0.517510618276
+sk auc: 0.517510618276
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.795073288294
+sk auc: 0.795073288294
+label: 9
+ml auc: 0.873975611125
+sk auc: 0.873975611125
+label: 10
+ml auc: 0.533468163303
+sk auc: 0.533468163303
+label: 11
+ml auc: 0.81377589496
+sk auc: 0.81377589496
+label: 12
+ml auc: 0.875705970493
+sk auc: 0.875705970493
+label: 13
+ml auc: 0.548596577232
+sk auc: 0.548596577232
+label: 14
+ml auc: 0.514388489209
+sk auc: 0.514388489209
+label: 15
+ml auc: 0.853961626404
+sk auc: 0.853961626404
+label: 16
+ml auc: 0.698205587036
+sk auc: 0.698205587036
+label: 17
+ml auc: 0.683470074214
+sk auc: 0.683470074214
+label: 18
+ml auc: 0.513965043304
+sk auc: 0.513965043304
+label: 19
+ml auc: 0.834819055091
+sk auc: 0.834819055091
+label: 20
+ml auc: 0.72034372204
+sk auc: 0.72034372204
+label: 21
+ml auc: 0.838524540251
+sk auc: 0.838524540251
+label: 22
+ml auc: 0.865711160675
+sk auc: 0.865711160675
+label: 23
+ml auc: 0.506289308176
+sk auc: 0.506289308176
+label: 24
+ml auc: 0.579905183595
+sk auc: 0.579905183595
+label: 25
+ml auc: 0.813408101002
+sk auc: 0.813408101002
+Saving result "runs/letter/0/lr/penalty(l2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l2)-C(6.309573e-07).pickle", building and running classifier...
+run: penalty(l2)-C(6.309573e-07)
+parameters: {'penalty': 'l2', 'C': 6.3095734448019296e-07}
+ml ce: 0.5725
+ml rmse: 5.70212679621
+sk acc: 0.4275
+sk f1: 0.372016080488
+sk prec: 0.520015984119
+sk recl: 0.4275
+label: 0
+ml auc: 0.899050134742
+sk auc: 0.899050134742
+label: 1
+ml auc: 0.738277919864
+sk auc: 0.738277919864
+label: 2
+ml auc: 0.849370979636
+sk auc: 0.849370979636
+label: 3
+ml auc: 0.602572835024
+sk auc: 0.602572835024
+label: 4
+ml auc: 0.576478553452
+sk auc: 0.576478553452
+label: 5
+ml auc: 0.755069309588
+sk auc: 0.755069309588
+label: 6
+ml auc: 0.517510618276
+sk auc: 0.517510618276
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+label: 8
+ml auc: 0.79559480068
+sk auc: 0.79559480068
+label: 9
+ml auc: 0.873845808425
+sk auc: 0.873845808425
+label: 10
+ml auc: 0.533468163303
+sk auc: 0.533468163303
+label: 11
+ml auc: 0.81377589496
+sk auc: 0.81377589496
+label: 12
+ml auc: 0.876094974643
+sk auc: 0.876094974643
+label: 13
+ml auc: 0.548596577232
+sk auc: 0.548596577232
+label: 14
+ml auc: 0.514388489209
+sk auc: 0.514388489209
+label: 15
+ml auc: 0.85693781688
+sk auc: 0.85693781688
+label: 16
+ml auc: 0.701181777513
+sk auc: 0.701181777513
+label: 17
+ml auc: 0.689551012087
+sk auc: 0.689551012087
+label: 18
+ml auc: 0.513965043304
+sk auc: 0.513965043304
+label: 19
+ml auc: 0.834948958962
+sk auc: 0.834948958962
+label: 20
+ml auc: 0.72034372204
+sk auc: 0.72034372204
+label: 21
+ml auc: 0.838524540251
+sk auc: 0.838524540251
+label: 22
+ml auc: 0.865581660546
+sk auc: 0.865581660546
+label: 23
+ml auc: 0.506289308176
+sk auc: 0.506289308176
+label: 24
+ml auc: 0.579905183595
+sk auc: 0.579905183595
+label: 25
+ml auc: 0.813408101002
+sk auc: 0.813408101002
+Saving result "runs/letter/0/lr/penalty(l2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l2)-C(3.981072e-04).pickle", building and running classifier...
+run: penalty(l2)-C(3.981072e-04)
+parameters: {'penalty': 'l2', 'C': 0.00039810717055349692}
+ml ce: 0.475
+ml rmse: 5.32247592761
+sk acc: 0.525
+sk f1: 0.482508238392
+sk prec: 0.581267297831
+sk recl: 0.525
+label: 0
+ml auc: 0.910189706235
+sk auc: 0.910189706235
+label: 1
+ml auc: 0.819419071977
+sk auc: 0.819419071977
+label: 2
+ml auc: 0.866998517805
+sk auc: 0.866998517805
+label: 3
+ml auc: 0.772442591988
+sk auc: 0.772442591988
+label: 4
+ml auc: 0.605304190831
+sk auc: 0.605304190831
+label: 5
+ml auc: 0.737299754838
+sk auc: 0.737299754838
+label: 6
+ml auc: 0.54377654569
+sk auc: 0.54377654569
+label: 7
+ml auc: 0.499350480644
+sk auc: 0.499350480644
+label: 8
+ml auc: 0.795144403619
+sk auc: 0.795144403619
+label: 9
+ml auc: 0.873719513906
+sk auc: 0.873719513906
+label: 10
+ml auc: 0.577858975908
+sk auc: 0.577858975908
+label: 11
+ml auc: 0.851415676779
+sk auc: 0.851415676779
+label: 12
+ml auc: 0.910629898571
+sk auc: 0.910629898571
+label: 13
+ml auc: 0.658347003036
+sk auc: 0.658347003036
+label: 14
+ml auc: 0.546503589669
+sk auc: 0.546503589669
+label: 15
+ml auc: 0.897249975147
+sk auc: 0.897249975147
+label: 16
+ml auc: 0.789162690128
+sk auc: 0.789162690128
+label: 17
+ml auc: 0.788518943371
+sk auc: 0.788518943371
+label: 18
+ml auc: 0.565457651854
+sk auc: 0.565457651854
+label: 19
+ml auc: 0.839564417695
+sk auc: 0.839564417695
+label: 20
+ml auc: 0.868215031315
+sk auc: 0.868215031315
+label: 21
+ml auc: 0.850018268177
+sk auc: 0.850018268177
+label: 22
+ml auc: 0.931452506992
+sk auc: 0.931452506992
+label: 23
+ml auc: 0.540880503145
+sk auc: 0.540880503145
+label: 24
+ml auc: 0.678348763362
+sk auc: 0.678348763362
+label: 25
+ml auc: 0.882939397334
+sk auc: 0.882939397334
+Saving result "runs/letter/0/lr/penalty(l2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l2)-C(2.511886e-01).pickle", building and running classifier...
+run: penalty(l2)-C(2.511886e-01)
+parameters: {'penalty': 'l2', 'C': 0.25118864315095718}
+ml ce: 0.291
+ml rmse: 4.36153642654
+sk acc: 0.709
+sk f1: 0.704539982343
+sk prec: 0.709449970916
+sk recl: 0.709
+label: 0
+ml auc: 0.916099682489
+sk auc: 0.916099682489
+label: 1
+ml auc: 0.880259712581
+sk auc: 0.880259712581
+label: 2
+ml auc: 0.849412963004
+sk auc: 0.849412963004
+label: 3
+ml auc: 0.916670702425
+sk auc: 0.916670702425
+label: 4
+ml auc: 0.808601871102
+sk auc: 0.808601871102
+label: 5
+ml auc: 0.850620379856
+sk auc: 0.850620379856
+label: 6
+ml auc: 0.63917253745
+sk auc: 0.63917253745
+label: 7
+ml auc: 0.697047826992
+sk auc: 0.697047826992
+label: 8
+ml auc: 0.909904784481
+sk auc: 0.909904784481
+label: 9
+ml auc: 0.899171367629
+sk auc: 0.899171367629
+label: 10
+ml auc: 0.797529341513
+sk auc: 0.797529341513
+label: 11
+ml auc: 0.874947584408
+sk auc: 0.874947584408
+label: 12
+ml auc: 0.936693176579
+sk auc: 0.936693176579
+label: 13
+ml auc: 0.82243213857
+sk auc: 0.82243213857
+label: 14
+ml auc: 0.721309199726
+sk auc: 0.721309199726
+label: 15
+ml auc: 0.877037975942
+sk auc: 0.877037975942
+label: 16
+ml auc: 0.85109106273
+sk auc: 0.85109106273
+label: 17
+ml auc: 0.89124367597
+sk auc: 0.89124367597
+label: 18
+ml auc: 0.714766235384
+sk auc: 0.714766235384
+label: 19
+ml auc: 0.923385105618
+sk auc: 0.923385105618
+label: 20
+ml auc: 0.900586539417
+sk auc: 0.900586539417
+label: 21
+ml auc: 0.889241566192
+sk auc: 0.889241566192
+label: 22
+ml auc: 0.945496283626
+sk auc: 0.945496283626
+label: 23
+ml auc: 0.867985931337
+sk auc: 0.867985931337
+label: 24
+ml auc: 0.815631289414
+sk auc: 0.815631289414
+label: 25
+ml auc: 0.875061775578
+sk auc: 0.875061775578
+Saving result "runs/letter/0/lr/penalty(l2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l2)-C(1.584893e+02).pickle", building and running classifier...
+run: penalty(l2)-C(1.584893e+02)
+parameters: {'penalty': 'l2', 'C': 158.48931924611108}
+ml ce: 0.28475
+ml rmse: 4.31480011125
+sk acc: 0.71525
+sk f1: 0.713072866889
+sk prec: 0.718641837583
+sk recl: 0.71525
+label: 0
+ml auc: 0.920605539102
+sk auc: 0.920605539102
+label: 1
+ml auc: 0.887871452929
+sk auc: 0.887871452929
+label: 2
+ml auc: 0.849931366321
+sk auc: 0.849931366321
+label: 3
+ml auc: 0.908340897126
+sk auc: 0.908340897126
+label: 4
+ml auc: 0.812021282416
+sk auc: 0.812021282416
+label: 5
+ml auc: 0.860684244238
+sk auc: 0.860684244238
+label: 6
+ml auc: 0.647927846588
+sk auc: 0.647927846588
+label: 7
+ml auc: 0.702241400966
+sk auc: 0.702241400966
+label: 8
+ml auc: 0.913326221801
+sk auc: 0.913326221801
+label: 9
+ml auc: 0.899430973029
+sk auc: 0.899430973029
+label: 10
+ml auc: 0.794104683979
+sk auc: 0.794104683979
+label: 11
+ml auc: 0.883981297785
+sk auc: 0.883981297785
+label: 12
+ml auc: 0.94107307515
+sk auc: 0.94107307515
+label: 13
+ml auc: 0.81902885407
+sk auc: 0.81902885407
+label: 14
+ml auc: 0.740819931467
+sk auc: 0.740819931467
+label: 15
+ml auc: 0.877429416443
+sk auc: 0.877429416443
+label: 16
+ml auc: 0.847984392087
+sk auc: 0.847984392087
+label: 17
+ml auc: 0.881666421283
+sk auc: 0.881666421283
+label: 18
+ml auc: 0.730163943444
+sk auc: 0.730163943444
+label: 19
+ml auc: 0.923904721102
+sk auc: 0.923904721102
+label: 20
+ml auc: 0.895025598966
+sk auc: 0.895025598966
+label: 21
+ml auc: 0.900659176714
+sk auc: 0.900659176714
+label: 22
+ml auc: 0.94692078505
+sk auc: 0.94692078505
+label: 23
+ml auc: 0.880304198821
+sk auc: 0.880304198821
+label: 24
+ml auc: 0.82278724451
+sk auc: 0.82278724451
+label: 25
+ml auc: 0.872678061927
+sk auc: 0.872678061927
+Saving result "runs/letter/0/lr/penalty(l2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/letter/0/lr/penalty(l2)-C(1.000000e+05).pickle", building and running classifier...
+run: penalty(l2)-C(1.000000e+05)
+parameters: {'penalty': 'l2', 'C': 100000.0}
+ml ce: 0.28475
+ml rmse: 4.31480011125
+sk acc: 0.71525
+sk f1: 0.713072866889
+sk prec: 0.718641837583
+sk recl: 0.71525
+label: 0
+ml auc: 0.920605539102
+sk auc: 0.920605539102
+label: 1
+ml auc: 0.887871452929
+sk auc: 0.887871452929
+label: 2
+ml auc: 0.849931366321
+sk auc: 0.849931366321
+label: 3
+ml auc: 0.908340897126
+sk auc: 0.908340897126
+label: 4
+ml auc: 0.812021282416
+sk auc: 0.812021282416
+label: 5
+ml auc: 0.860684244238
+sk auc: 0.860684244238
+label: 6
+ml auc: 0.647927846588
+sk auc: 0.647927846588
+label: 7
+ml auc: 0.702241400966
+sk auc: 0.702241400966
+label: 8
+ml auc: 0.913326221801
+sk auc: 0.913326221801
+label: 9
+ml auc: 0.899430973029
+sk auc: 0.899430973029
+label: 10
+ml auc: 0.794104683979
+sk auc: 0.794104683979
+label: 11
+ml auc: 0.883981297785
+sk auc: 0.883981297785
+label: 12
+ml auc: 0.94107307515
+sk auc: 0.94107307515
+label: 13
+ml auc: 0.81902885407
+sk auc: 0.81902885407
+label: 14
+ml auc: 0.740819931467
+sk auc: 0.740819931467
+label: 15
+ml auc: 0.877429416443
+sk auc: 0.877429416443
+label: 16
+ml auc: 0.847984392087
+sk auc: 0.847984392087
+label: 17
+ml auc: 0.881666421283
+sk auc: 0.881666421283
+label: 18
+ml auc: 0.730163943444
+sk auc: 0.730163943444
+label: 19
+ml auc: 0.923904721102
+sk auc: 0.923904721102
+label: 20
+ml auc: 0.895025598966
+sk auc: 0.895025598966
+label: 21
+ml auc: 0.900659176714
+sk auc: 0.900659176714
+label: 22
+ml auc: 0.94692078505
+sk auc: 0.94692078505
+label: 23
+ml auc: 0.880304198821
+sk auc: 0.880304198821
+label: 24
+ml auc: 0.82278724451
+sk auc: 0.82278724451
+label: 25
+ml auc: 0.872678061927
+sk auc: 0.872678061927
+Saving result "runs/letter/0/lr/penalty(l2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...

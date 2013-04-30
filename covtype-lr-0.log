@@ -1,0 +1,393 @@
+Data set: covtype
+Algorithm: lr
+Loading covtype data set...
+Creating logistic regression hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for logistic regression...
+Applying classifier to trial...
+
+No cached result "runs/covtype/0/lr/penalty(l1)-C(1.000000e-09).pickle", building and running classifier...
+run: penalty(l1)-C(1.000000e-09)
+parameters: {'penalty': 'l1', 'C': 1.0000000000000001e-09}
+ml ce: 0.63098063447
+ml rmse: 1.69052072232
+sk acc: 0.36901936553
+sk f1: 0.198938445379
+sk prec: 0.136175292136
+sk recl: 0.36901936553
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/covtype/0/lr/penalty(l1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l1)-C(6.309573e-07).pickle", building and running classifier...
+run: penalty(l1)-C(6.309573e-07)
+parameters: {'penalty': 'l1', 'C': 6.3095734448019296e-07}
+ml ce: 0.63098063447
+ml rmse: 1.69052072232
+sk acc: 0.36901936553
+sk f1: 0.198938445379
+sk prec: 0.136175292136
+sk recl: 0.36901936553
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.5
+sk auc: 0.5
+label: 5
+ml auc: 0.5
+sk auc: 0.5
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/covtype/0/lr/penalty(l1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l1)-C(3.981072e-04).pickle", building and running classifier...
+run: penalty(l1)-C(3.981072e-04)
+parameters: {'penalty': 'l1', 'C': 0.00039810717055349692}
+ml ce: 0.937583381314
+ml rmse: 4.62366397433
+sk acc: 0.0624166186858
+sk f1: 0.0150221318788
+sk prec: 0.01021295079
+sk recl: 0.0624166186858
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.5
+sk auc: 0.5
+label: 4
+ml auc: 0.679101773692
+sk auc: 0.679101773692
+label: 5
+ml auc: 0.820115277604
+sk auc: 0.820115277604
+label: 6
+ml auc: 0.758116202489
+sk auc: 0.758116202489
+label: 7
+ml auc: 0.698941807652
+sk auc: 0.698941807652
+Saving result "runs/covtype/0/lr/penalty(l1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l1)-C(2.511886e-01).pickle", building and running classifier...
+run: penalty(l1)-C(2.511886e-01)
+parameters: {'penalty': 'l1', 'C': 0.25118864315095718}
+ml ce: 0.440581597832
+ml rmse: 2.02753864239
+sk acc: 0.559418402168
+sk f1: 0.598149305126
+sk prec: 0.691590540971
+sk recl: 0.559418402168
+label: 1
+ml auc: 0.725919731016
+sk auc: 0.725919731016
+label: 2
+ml auc: 0.675185776259
+sk auc: 0.675185776259
+label: 3
+ml auc: 0.758774957842
+sk auc: 0.758774957842
+label: 4
+ml auc: 0.933776744031
+sk auc: 0.933776744031
+label: 5
+ml auc: 0.785093876604
+sk auc: 0.785093876604
+label: 6
+ml auc: 0.763486553075
+sk auc: 0.763486553075
+label: 7
+ml auc: 0.907668261571
+sk auc: 0.907668261571
+Saving result "runs/covtype/0/lr/penalty(l1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l1)-C(1.584893e+02).pickle", building and running classifier...
+run: penalty(l1)-C(1.584893e+02)
+parameters: {'penalty': 'l1', 'C': 158.48931924611108}
+ml ce: 0.441390835428
+ml rmse: 2.03864901837
+sk acc: 0.558609164572
+sk f1: 0.597051274814
+sk prec: 0.691353875808
+sk recl: 0.558609164572
+label: 1
+ml auc: 0.72490640506
+sk auc: 0.72490640506
+label: 2
+ml auc: 0.674313502805
+sk auc: 0.674313502805
+label: 3
+ml auc: 0.765595711291
+sk auc: 0.765595711291
+label: 4
+ml auc: 0.934534359072
+sk auc: 0.934534359072
+label: 5
+ml auc: 0.782872421527
+sk auc: 0.782872421527
+label: 6
+ml auc: 0.768386781655
+sk auc: 0.768386781655
+label: 7
+ml auc: 0.908749708117
+sk auc: 0.908749708117
+Saving result "runs/covtype/0/lr/penalty(l1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l1)-C(1.000000e+05).pickle", building and running classifier...
+run: penalty(l1)-C(1.000000e+05)
+parameters: {'penalty': 'l1', 'C': 100000.0}
+ml ce: 0.441397857012
+ml rmse: 2.03720494232
+sk acc: 0.558602142988
+sk f1: 0.597044749102
+sk prec: 0.6913183197
+sk recl: 0.558602142988
+label: 1
+ml auc: 0.724858242998
+sk auc: 0.724858242998
+label: 2
+ml auc: 0.674209332883
+sk auc: 0.674209332883
+label: 3
+ml auc: 0.765629032254
+sk auc: 0.765629032254
+label: 4
+ml auc: 0.934439379782
+sk auc: 0.934439379782
+label: 5
+ml auc: 0.782940379709
+sk auc: 0.782940379709
+label: 6
+ml auc: 0.768358640172
+sk auc: 0.768358640172
+label: 7
+ml auc: 0.910091937831
+sk auc: 0.910091937831
+Saving result "runs/covtype/0/lr/penalty(l1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l2)-C(1.000000e-09).pickle", building and running classifier...
+run: penalty(l2)-C(1.000000e-09)
+parameters: {'penalty': 'l2', 'C': 1.0000000000000001e-09}
+ml ce: 0.655870395596
+ml rmse: 3.08577045718
+sk acc: 0.344129604404
+sk f1: 0.410288943601
+sk prec: 0.64518341961
+sk recl: 0.344129604404
+label: 1
+ml auc: 0.623536320247
+sk auc: 0.623536320247
+label: 2
+ml auc: 0.592711474761
+sk auc: 0.592711474761
+label: 3
+ml auc: 0.644669616659
+sk auc: 0.644669616659
+label: 4
+ml auc: 0.948982883291
+sk auc: 0.948982883291
+label: 5
+ml auc: 0.676510518998
+sk auc: 0.676510518998
+label: 6
+ml auc: 0.696265233507
+sk auc: 0.696265233507
+label: 7
+ml auc: 0.866775629024
+sk auc: 0.866775629024
+Saving result "runs/covtype/0/lr/penalty(l2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l2)-C(6.309573e-07).pickle", building and running classifier...
+run: penalty(l2)-C(6.309573e-07)
+parameters: {'penalty': 'l2', 'C': 6.3095734448019296e-07}
+ml ce: 0.654696035613
+ml rmse: 3.08276081547
+sk acc: 0.345303964387
+sk f1: 0.411410873862
+sk prec: 0.645245628485
+sk recl: 0.345303964387
+label: 1
+ml auc: 0.62379532242
+sk auc: 0.62379532242
+label: 2
+ml auc: 0.593077803921
+sk auc: 0.593077803921
+label: 3
+ml auc: 0.645121135181
+sk auc: 0.645121135181
+label: 4
+ml auc: 0.949662269719
+sk auc: 0.949662269719
+label: 5
+ml auc: 0.677345285483
+sk auc: 0.677345285483
+label: 6
+ml auc: 0.699639131287
+sk auc: 0.699639131287
+label: 7
+ml auc: 0.867114432162
+sk auc: 0.867114432162
+Saving result "runs/covtype/0/lr/penalty(l2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l2)-C(3.981072e-04).pickle", building and running classifier...
+run: penalty(l2)-C(3.981072e-04)
+parameters: {'penalty': 'l2', 'C': 0.00039810717055349692}
+ml ce: 0.512366765437
+ml rmse: 2.26797774563
+sk acc: 0.487633234563
+sk f1: 0.538866628622
+sk prec: 0.657556711048
+sk recl: 0.487633234563
+label: 1
+ml auc: 0.681989598485
+sk auc: 0.681989598485
+label: 2
+ml auc: 0.638432582628
+sk auc: 0.638432582628
+label: 3
+ml auc: 0.699613222239
+sk auc: 0.699613222239
+label: 4
+ml auc: 0.872988584951
+sk auc: 0.872988584951
+label: 5
+ml auc: 0.732098307474
+sk auc: 0.732098307474
+label: 6
+ml auc: 0.766863231888
+sk auc: 0.766863231888
+label: 7
+ml auc: 0.893013856795
+sk auc: 0.893013856795
+Saving result "runs/covtype/0/lr/penalty(l2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l2)-C(2.511886e-01).pickle", building and running classifier...
+run: penalty(l2)-C(2.511886e-01)
+parameters: {'penalty': 'l2', 'C': 0.25118864315095718}
+ml ce: 0.442526576697
+ml rmse: 2.03164173625
+sk acc: 0.557473423303
+sk f1: 0.596470464338
+sk prec: 0.690926244909
+sk recl: 0.557473423303
+label: 1
+ml auc: 0.725240843181
+sk auc: 0.725240843181
+label: 2
+ml auc: 0.674348006745
+sk auc: 0.674348006745
+label: 3
+ml auc: 0.75515248634
+sk auc: 0.75515248634
+label: 4
+ml auc: 0.931707509454
+sk auc: 0.931707509454
+label: 5
+ml auc: 0.784299043368
+sk auc: 0.784299043368
+label: 6
+ml auc: 0.763916161738
+sk auc: 0.763916161738
+label: 7
+ml auc: 0.904381277045
+sk auc: 0.904381277045
+Saving result "runs/covtype/0/lr/penalty(l2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l2)-C(1.584893e+02).pickle", building and running classifier...
+run: penalty(l2)-C(1.584893e+02)
+parameters: {'penalty': 'l2', 'C': 158.48931924611108}
+ml ce: 0.441362749091
+ml rmse: 2.03746601126
+sk acc: 0.558637250909
+sk f1: 0.597078339963
+sk prec: 0.691378398247
+sk recl: 0.558637250909
+label: 1
+ml auc: 0.724896478719
+sk auc: 0.724896478719
+label: 2
+ml auc: 0.674254473183
+sk auc: 0.674254473183
+label: 3
+ml auc: 0.765658328556
+sk auc: 0.765658328556
+label: 4
+ml auc: 0.934439379782
+sk auc: 0.934439379782
+label: 5
+ml auc: 0.782956399674
+sk auc: 0.782956399674
+label: 6
+ml auc: 0.768367666665
+sk auc: 0.768367666665
+label: 7
+ml auc: 0.910039142595
+sk auc: 0.910039142595
+Saving result "runs/covtype/0/lr/penalty(l2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/covtype/0/lr/penalty(l2)-C(1.000000e+05).pickle", building and running classifier...
+run: penalty(l2)-C(1.000000e+05)
+parameters: {'penalty': 'l2', 'C': 100000.0}
+ml ce: 0.441369770675
+ml rmse: 2.0370420804
+sk acc: 0.558630229325
+sk f1: 0.597057925763
+sk prec: 0.691307292765
+sk recl: 0.558630229325
+label: 1
+ml auc: 0.724889746889
+sk auc: 0.724889746889
+label: 2
+ml auc: 0.674195404668
+sk auc: 0.674195404668
+label: 3
+ml auc: 0.765671109427
+sk auc: 0.765671109427
+label: 4
+ml auc: 0.93444465641
+sk auc: 0.93444465641
+label: 5
+ml auc: 0.782959959666
+sk auc: 0.782959959666
+label: 6
+ml auc: 0.768325985443
+sk auc: 0.768325985443
+label: 7
+ml auc: 0.910092845631
+sk auc: 0.910092845631
+Saving result "runs/covtype/0/lr/penalty(l2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...

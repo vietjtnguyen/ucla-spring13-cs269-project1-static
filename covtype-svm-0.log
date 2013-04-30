@@ -1,0 +1,362 @@
+Data set: covtype
+Algorithm: svm
+Loading covtype data set...
+Creating SVM hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.970153000323
+ml rmse: 3.26854201746
+sk acc: 0.029846999677
+sk f1: 0.0260038284249
+sk prec: 0.339409798845
+sk recl: 0.029846999677
+label: 1
+ml auc: 0.502609346507
+sk auc: 0.502609346507
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.604240606314
+sk auc: 0.604240606314
+label: 4
+ml auc: 0.524039615812
+sk auc: 0.524039615812
+label: 5
+ml auc: 0.512281972734
+sk auc: 0.512281972734
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.508684851297
+sk auc: 0.508684851297
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.970153000323
+ml rmse: 3.26854201746
+sk acc: 0.029846999677
+sk f1: 0.0260038284249
+sk prec: 0.339409798845
+sk recl: 0.029846999677
+label: 1
+ml auc: 0.502609346507
+sk auc: 0.502609346507
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.604240606314
+sk auc: 0.604240606314
+label: 4
+ml auc: 0.524039615812
+sk auc: 0.524039615812
+label: 5
+ml auc: 0.512281972734
+sk auc: 0.512281972734
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.508684851297
+sk auc: 0.508684851297
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.968262438737
+ml rmse: 3.26850496026
+sk acc: 0.0317375612633
+sk f1: 0.0287136066269
+sk prec: 0.674107719634
+sk recl: 0.0317375612633
+label: 1
+ml auc: 0.503585113864
+sk auc: 0.503585113864
+label: 2
+ml auc: 0.500164977665
+sk auc: 0.500164977665
+label: 3
+ml auc: 0.596017718338
+sk auc: 0.596017718338
+label: 4
+ml auc: 0.78137735857
+sk auc: 0.78137735857
+label: 5
+ml auc: 0.517451971257
+sk auc: 0.517451971257
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.508684851297
+sk auc: 0.508684851297
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.434135783398
+ml rmse: 1.84212455658
+sk acc: 0.565864216602
+sk f1: 0.581729524043
+sk prec: 0.633901777131
+sk recl: 0.565864216602
+label: 1
+ml auc: 0.645414085589
+sk auc: 0.645414085589
+label: 2
+ml auc: 0.661985847189
+sk auc: 0.661985847189
+label: 3
+ml auc: 0.778794736512
+sk auc: 0.778794736512
+label: 4
+ml auc: 0.963750056643
+sk auc: 0.963750056643
+label: 5
+ml auc: 0.762176157305
+sk auc: 0.762176157305
+label: 6
+ml auc: 0.795015994997
+sk auc: 0.795015994997
+label: 7
+ml auc: 0.884931961861
+sk auc: 0.884931961861
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.336885084751
+ml rmse: 1.61394437816
+sk acc: 0.663114915249
+sk f1: 0.68296083819
+sk prec: 0.735191344612
+sk recl: 0.663114915249
+label: 1
+ml auc: 0.765076133032
+sk auc: 0.765076133032
+label: 2
+ml auc: 0.730704817036
+sk auc: 0.730704817036
+label: 3
+ml auc: 0.844040013632
+sk auc: 0.844040013632
+label: 4
+ml auc: 0.97171056275
+sk auc: 0.97171056275
+label: 5
+ml auc: 0.901136474278
+sk auc: 0.901136474278
+label: 6
+ml auc: 0.874542198766
+sk auc: 0.874542198766
+label: 7
+ml auc: 0.95906688908
+sk auc: 0.95906688908
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.332386004578
+ml rmse: 1.55043426946
+sk acc: 0.667613995422
+sk f1: 0.681162272974
+sk prec: 0.728276952156
+sk recl: 0.667613995422
+label: 1
+ml auc: 0.758999245872
+sk auc: 0.758999245872
+label: 2
+ml auc: 0.729170273549
+sk auc: 0.729170273549
+label: 3
+ml auc: 0.861993038899
+sk auc: 0.861993038899
+label: 4
+ml auc: 0.964923852581
+sk auc: 0.964923852581
+label: 5
+ml auc: 0.896441952989
+sk auc: 0.896441952989
+label: 6
+ml auc: 0.862123361271
+sk auc: 0.862123361271
+label: 7
+ml auc: 0.943859435708
+sk auc: 0.943859435708
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.980350096196
+ml rmse: 3.27592788483
+sk acc: 0.0196499038043
+sk f1: 0.011212259875
+sk prec: 0.415495584525
+sk recl: 0.0196499038043
+label: 1
+ml auc: 0.501845376569
+sk auc: 0.501845376569
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.534516046223
+sk auc: 0.534516046223
+label: 4
+ml auc: 0.524039615812
+sk auc: 0.524039615812
+label: 5
+ml auc: 0.504231050607
+sk auc: 0.504231050607
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.501432336739
+sk auc: 0.501432336739
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.980350096196
+ml rmse: 3.27592788483
+sk acc: 0.0196499038043
+sk f1: 0.011212259875
+sk prec: 0.415495584525
+sk recl: 0.0196499038043
+label: 1
+ml auc: 0.501845376569
+sk auc: 0.501845376569
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+label: 3
+ml auc: 0.534516046223
+sk auc: 0.534516046223
+label: 4
+ml auc: 0.524039615812
+sk auc: 0.524039615812
+label: 5
+ml auc: 0.504231050607
+sk auc: 0.504231050607
+label: 6
+ml auc: 0.5
+sk auc: 0.5
+label: 7
+ml auc: 0.501432336739
+sk auc: 0.501432336739
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.501779971633
+ml rmse: 1.3627997299
+sk acc: 0.498220028367
+sk f1: 0.354027285192
+sk prec: 0.499642364015
+sk recl: 0.498220028367
+label: 1
+ml auc: 0.502709537525
+sk auc: 0.502709537525
+label: 2
+ml auc: 0.516749562742
+sk auc: 0.516749562742
+label: 3
+ml auc: 0.528738819336
+sk auc: 0.528738819336
+label: 4
+ml auc: 0.781619203983
+sk auc: 0.781619203983
+label: 5
+ml auc: 0.538108053871
+sk auc: 0.538108053871
+label: 6
+ml auc: 0.521845379573
+sk auc: 0.521845379573
+label: 7
+ml auc: 0.530991013655
+sk auc: 0.530991013655
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.407253647713
+ml rmse: 1.76740248367
+sk acc: 0.592746352287
+sk f1: 0.611790384702
+sk prec: 0.652129481269
+sk recl: 0.592746352287
+label: 1
+ml auc: 0.682748709337
+sk auc: 0.682748709337
+label: 2
+ml auc: 0.678136039433
+sk auc: 0.678136039433
+label: 3
+ml auc: 0.788804982547
+sk auc: 0.788804982547
+label: 4
+ml auc: 0.96306991485
+sk auc: 0.96306991485
+label: 5
+ml auc: 0.765082429179
+sk auc: 0.765082429179
+label: 6
+ml auc: 0.821724379515
+sk auc: 0.821724379515
+label: 7
+ml auc: 0.887432513178
+sk auc: 0.887432513178
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.31114044573
+ml rmse: 1.52279498378
+sk acc: 0.68885955427
+sk f1: 0.704964312101
+sk prec: 0.748743929039
+sk recl: 0.68885955427
+label: 1
+ml auc: 0.776287219056
+sk auc: 0.776287219056
+label: 2
+ml auc: 0.74763537104
+sk auc: 0.74763537104
+label: 3
+ml auc: 0.86390302712
+sk auc: 0.86390302712
+label: 4
+ml auc: 0.972776860481
+sk auc: 0.972776860481
+label: 5
+ml auc: 0.919957927536
+sk auc: 0.919957927536
+label: 6
+ml auc: 0.895343738139
+sk auc: 0.895343738139
+label: 7
+ml auc: 0.963767991482
+sk auc: 0.963767991482
+Saving result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/covtype/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...

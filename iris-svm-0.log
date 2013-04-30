@@ -1,0 +1,2539 @@
+Data set: iris
+Algorithm: svm
+Loading iris data set...
+Creating SVM hyper classifier...
+Running trial 0...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.14
+ml rmse: 0.663324958071
+sk acc: 0.86
+sk f1: 0.855298303229
+sk prec: 0.858313090418
+sk recl: 0.86
+label: 0
+ml auc: 0.895721925134
+sk auc: 0.895721925134
+label: 1
+ml auc: 0.969696969697
+sk auc: 0.969696969697
+label: 2
+ml auc: 0.814338235294
+sk auc: 0.814338235294
+Saving result "runs/iris/0/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.14
+ml rmse: 0.707106781187
+sk acc: 0.86
+sk f1: 0.860772238514
+sk prec: 0.864421052632
+sk recl: 0.86
+label: 0
+ml auc: 0.880570409982
+sk auc: 0.880570409982
+label: 1
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+label: 2
+ml auc: 0.830882352941
+sk auc: 0.830882352941
+Saving result "runs/iris/0/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.14
+ml rmse: 0.565685424949
+sk acc: 0.86
+sk f1: 0.860478354978
+sk prec: 0.864261437908
+sk recl: 0.86
+label: 0
+ml auc: 0.940285204991
+sk auc: 0.940285204991
+label: 1
+ml auc: 0.896613190731
+sk auc: 0.896613190731
+label: 2
+ml auc: 0.847426470588
+sk auc: 0.847426470588
+Saving result "runs/iris/0/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.939328984157
+sk prec: 0.949
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.954545454545
+sk auc: 0.954545454545
+label: 2
+ml auc: 0.90625
+sk auc: 0.90625
+Saving result "runs/iris/0/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.939889400922
+sk prec: 0.940888888889
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.940285204991
+sk auc: 0.940285204991
+label: 2
+ml auc: 0.922794117647
+sk auc: 0.922794117647
+Saving result "runs/iris/0/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 3}
+ml ce: 0.1
+ml rmse: 0.316227766017
+sk acc: 0.9
+sk f1: 0.899447004608
+sk prec: 0.908345864662
+sk recl: 0.9
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.867201426025
+sk auc: 0.867201426025
+label: 2
+ml auc: 0.909926470588
+sk auc: 0.909926470588
+Saving result "runs/iris/0/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.001}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959926470588
+sk prec: 0.964444444444
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.001}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959926470588
+sk prec: 0.964444444444
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.01}
+ml ce: 0.34
+ml rmse: 0.583095189485
+sk acc: 0.66
+sk f1: 0.543619047619
+sk prec: 0.481111111111
+sk recl: 0.66
+label: 0
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.764705882353
+sk auc: 0.764705882353
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.01}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959926470588
+sk prec: 0.964444444444
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.01}
+ml ce: 0.08
+ml rmse: 0.282842712475
+sk acc: 0.92
+sk f1: 0.919852941176
+sk prec: 0.924
+sk recl: 0.92
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.896613190731
+sk auc: 0.896613190731
+label: 2
+ml auc: 0.924632352941
+sk auc: 0.924632352941
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.1}
+ml ce: 0.1
+ml rmse: 0.316227766017
+sk acc: 0.9
+sk f1: 0.899447004608
+sk prec: 0.908345864662
+sk recl: 0.9
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.867201426025
+sk auc: 0.867201426025
+label: 2
+ml auc: 0.909926470588
+sk auc: 0.909926470588
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.1}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959926470588
+sk prec: 0.964444444444
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.1}
+ml ce: 0.1
+ml rmse: 0.316227766017
+sk acc: 0.9
+sk f1: 0.899447004608
+sk prec: 0.908345864662
+sk recl: 0.9
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.867201426025
+sk auc: 0.867201426025
+label: 2
+ml auc: 0.909926470588
+sk auc: 0.909926470588
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 1}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 1}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959926470588
+sk prec: 0.964444444444
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 1}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959926470588
+sk prec: 0.964444444444
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 2}
+ml ce: 0.08
+ml rmse: 0.374165738677
+sk acc: 0.92
+sk f1: 0.921140819964
+sk prec: 0.925416666667
+sk recl: 0.92
+label: 0
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.924632352941
+sk auc: 0.924632352941
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 2}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 2}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+Saving result "runs/iris/0/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...
+Running trial 1...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.26
+ml rmse: 0.787400787401
+sk acc: 0.74
+sk f1: 0.726400309461
+sk prec: 0.743942028986
+sk recl: 0.74
+label: 0
+ml auc: 0.852049910873
+sk auc: 0.852049910873
+label: 1
+ml auc: 0.897058823529
+sk auc: 0.897058823529
+label: 2
+ml auc: 0.674688057041
+sk auc: 0.674688057041
+Saving result "runs/iris/1/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.14
+ml rmse: 0.663324958071
+sk acc: 0.86
+sk f1: 0.859307359307
+sk prec: 0.859583333333
+sk recl: 0.86
+label: 0
+ml auc: 0.895721925134
+sk auc: 0.895721925134
+label: 1
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 2
+ml auc: 0.836898395722
+sk auc: 0.836898395722
+Saving result "runs/iris/1/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.08
+ml rmse: 0.509901951359
+sk acc: 0.92
+sk f1: 0.920990550668
+sk prec: 0.925065789474
+sk recl: 0.92
+label: 0
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 1
+ml auc: 0.96875
+sk auc: 0.96875
+label: 2
+ml auc: 0.92513368984
+sk auc: 0.92513368984
+Saving result "runs/iris/1/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.18
+ml rmse: 0.424264068712
+sk acc: 0.82
+sk f1: 0.807356097561
+sk prec: 0.8848
+sk recl: 0.82
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.867647058824
+sk auc: 0.867647058824
+label: 2
+ml auc: 0.735294117647
+sk auc: 0.735294117647
+Saving result "runs/iris/1/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/1/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 3}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/1/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.001}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.939668202765
+sk prec: 0.949473684211
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.955882352941
+sk auc: 0.955882352941
+label: 2
+ml auc: 0.911764705882
+sk auc: 0.911764705882
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.001}
+ml ce: 0.02
+ml rmse: 0.141421356237
+sk acc: 0.98
+sk f1: 0.979963133641
+sk prec: 0.981111111111
+sk recl: 0.98
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.96875
+sk auc: 0.96875
+label: 2
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.01}
+ml ce: 0.32
+ml rmse: 0.565685424949
+sk acc: 0.68
+sk f1: 0.591111111111
+sk prec: 0.84
+sk recl: 0.68
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.764705882353
+sk auc: 0.764705882353
+label: 2
+ml auc: 0.529411764706
+sk auc: 0.529411764706
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.01}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959777777778
+sk prec: 0.964210526316
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.9375
+sk auc: 0.9375
+label: 2
+ml auc: 0.969696969697
+sk auc: 0.969696969697
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.01}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.1}
+ml ce: 0.16
+ml rmse: 0.4
+sk acc: 0.84
+sk f1: 0.835488721805
+sk prec: 0.867272727273
+sk recl: 0.84
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.865808823529
+sk auc: 0.865808823529
+label: 2
+ml auc: 0.778966131907
+sk auc: 0.778966131907
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.1}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.1}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 1}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959926470588
+sk prec: 0.964444444444
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+label: 2
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 1}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 1}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 0.824621125124
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 2}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 2}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 2}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/1/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...
+Running trial 2...
+Creating trial data...
+Scaling data for SVM...
+Applying classifier to trial...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(poly)-degree(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(poly)-degree(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(poly)-degree(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 2}
+ml ce: 0.22
+ml rmse: 0.761577310586
+sk acc: 0.78
+sk f1: 0.761421149656
+sk prec: 0.783616161616
+sk recl: 0.78
+label: 0
+ml auc: 0.878676470588
+sk auc: 0.878676470588
+label: 1
+ml auc: 0.924242424242
+sk auc: 0.924242424242
+label: 2
+ml auc: 0.704991087344
+sk auc: 0.704991087344
+Saving result "runs/iris/2/svm/kernel(poly)-degree(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 2}
+ml ce: 0.12
+ml rmse: 0.6
+sk acc: 0.88
+sk f1: 0.875464052288
+sk prec: 0.884723346829
+sk recl: 0.88
+label: 0
+ml auc: 0.924632352941
+sk auc: 0.924632352941
+label: 1
+ml auc: 0.969696969697
+sk auc: 0.969696969697
+label: 2
+ml auc: 0.837789661319
+sk auc: 0.837789661319
+Saving result "runs/iris/2/svm/kernel(poly)-degree(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(2)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 2}
+ml ce: 0.06
+ml rmse: 0.424264068712
+sk acc: 0.94
+sk f1: 0.939376623377
+sk prec: 0.939861111111
+sk recl: 0.94
+label: 0
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/2/svm/kernel(poly)-degree(2)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e-09)
+parameters: {'kernel': 'poly', 'C': 1.0000000000000001e-09, 'degree': 3}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(poly)-degree(3)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(6.309573e-07)
+parameters: {'kernel': 'poly', 'C': 6.3095734448019296e-07, 'degree': 3}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(poly)-degree(3)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(3.981072e-04)
+parameters: {'kernel': 'poly', 'C': 0.00039810717055349692, 'degree': 3}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(poly)-degree(3)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(2.511886e-01)
+parameters: {'kernel': 'poly', 'C': 0.25118864315095718, 'degree': 3}
+ml ce: 0.14
+ml rmse: 0.374165738677
+sk acc: 0.86
+sk f1: 0.853803071364
+sk prec: 0.900833333333
+sk recl: 0.86
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.893939393939
+sk auc: 0.893939393939
+label: 2
+ml auc: 0.794117647059
+sk auc: 0.794117647059
+Saving result "runs/iris/2/svm/kernel(poly)-degree(3)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.584893e+02)
+parameters: {'kernel': 'poly', 'C': 158.48931924611108, 'degree': 3}
+ml ce: 0.08
+ml rmse: 0.282842712475
+sk acc: 0.92
+sk f1: 0.919722222222
+sk prec: 0.923649122807
+sk recl: 0.92
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.92513368984
+sk auc: 0.92513368984
+label: 2
+ml auc: 0.896613190731
+sk auc: 0.896613190731
+Saving result "runs/iris/2/svm/kernel(poly)-degree(3)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(poly)-degree(3)-C(1.000000e+05)
+parameters: {'kernel': 'poly', 'C': 100000.0, 'degree': 3}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/2/svm/kernel(poly)-degree(3)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.001}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.001}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.001)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.001}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959861111111
+sk prec: 0.964210526316
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.969696969697
+sk auc: 0.969696969697
+label: 2
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.001)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.01}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.01}
+ml ce: 0.08
+ml rmse: 0.282842712475
+sk acc: 0.92
+sk f1: 0.918877192982
+sk prec: 0.935238095238
+sk recl: 0.92
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939393939394
+sk auc: 0.939393939394
+label: 2
+ml auc: 0.882352941176
+sk auc: 0.882352941176
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.01}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.01)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.01}
+ml ce: 0.02
+ml rmse: 0.141421356237
+sk acc: 0.98
+sk f1: 0.979982683983
+sk prec: 0.981111111111
+sk recl: 0.98
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.01)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 0.1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 0.1}
+ml ce: 0.08
+ml rmse: 0.282842712475
+sk acc: 0.92
+sk f1: 0.918877192982
+sk prec: 0.935238095238
+sk recl: 0.92
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939393939394
+sk auc: 0.939393939394
+label: 2
+ml auc: 0.882352941176
+sk auc: 0.882352941176
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 0.1}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.959861111111
+sk prec: 0.964210526316
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.969696969697
+sk auc: 0.969696969697
+label: 2
+ml auc: 0.941176470588
+sk auc: 0.941176470588
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(0.1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 0.1}
+ml ce: 0.02
+ml rmse: 0.141421356237
+sk acc: 0.98
+sk f1: 0.979982683983
+sk prec: 0.981111111111
+sk recl: 0.98
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(0.1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 1}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 1}
+ml ce: 0.04
+ml rmse: 0.316227766017
+sk acc: 0.96
+sk f1: 0.959963133641
+sk prec: 0.961111111111
+sk recl: 0.96
+label: 0
+ml auc: 0.96875
+sk auc: 0.96875
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 1}
+ml ce: 0.04
+ml rmse: 0.316227766017
+sk acc: 0.96
+sk f1: 0.959963133641
+sk prec: 0.961111111111
+sk recl: 0.96
+label: 0
+ml auc: 0.96875
+sk auc: 0.96875
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(1)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 1}
+ml ce: 0.04
+ml rmse: 0.316227766017
+sk acc: 0.96
+sk f1: 0.959963133641
+sk prec: 0.961111111111
+sk recl: 0.96
+label: 0
+ml auc: 0.96875
+sk auc: 0.96875
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(1)-C(1.000000e+05).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e-09)
+parameters: {'kernel': 'rbf', 'C': 1.0000000000000001e-09, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(1.000000e-09).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(6.309573e-07)
+parameters: {'kernel': 'rbf', 'C': 6.3095734448019296e-07, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(6.309573e-07).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(3.981072e-04)
+parameters: {'kernel': 'rbf', 'C': 0.00039810717055349692, 'gamma': 2}
+ml ce: 0.68
+ml rmse: 1.30384048104
+sk acc: 0.32
+sk f1: 0.155151515152
+sk prec: 0.1024
+sk recl: 0.32
+label: 0
+ml auc: 0.5
+sk auc: 0.5
+label: 1
+ml auc: 0.5
+sk auc: 0.5
+label: 2
+ml auc: 0.5
+sk auc: 0.5
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(3.981072e-04).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(2.511886e-01)
+parameters: {'kernel': 'rbf', 'C': 0.25118864315095718, 'gamma': 2}
+ml ce: 0.08
+ml rmse: 0.374165738677
+sk acc: 0.92
+sk f1: 0.920990550668
+sk prec: 0.925065789474
+sk recl: 0.92
+label: 0
+ml auc: 0.96875
+sk auc: 0.96875
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.92513368984
+sk auc: 0.92513368984
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(2.511886e-01).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.584893e+02)
+parameters: {'kernel': 'rbf', 'C': 158.48931924611108, 'gamma': 2}
+ml ce: 0.06
+ml rmse: 0.346410161514
+sk acc: 0.94
+sk f1: 0.940534562212
+sk prec: 0.942222222222
+sk recl: 0.94
+label: 0
+ml auc: 0.96875
+sk auc: 0.96875
+label: 1
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+label: 2
+ml auc: 0.940285204991
+sk auc: 0.940285204991
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(1.584893e+02).pickle"...
+
+No cached result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle", building and running classifier...
+run: kernel(rbf)-gamma(2)-C(1.000000e+05)
+parameters: {'kernel': 'rbf', 'C': 100000.0, 'gamma': 2}
+ml ce: 0.06
+ml rmse: 0.346410161514
+sk acc: 0.94
+sk f1: 0.940534562212
+sk prec: 0.942222222222
+sk recl: 0.94
+label: 0
+ml auc: 0.96875
+sk auc: 0.96875
+label: 1
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+label: 2
+ml auc: 0.940285204991
+sk auc: 0.940285204991
+Saving result "runs/iris/2/svm/kernel(rbf)-gamma(2)-C(1.000000e+05).pickle"...
+Clearing trial data from memory...

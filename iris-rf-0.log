@@ -1,0 +1,376 @@
+Data set: iris
+Algorithm: rf
+Loading iris data set...
+Creating random forest hyper classifier...
+Running trial 0...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/iris/0/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+4
+2.0
+0.5
+1
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+Saving result "runs/iris/0/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/iris/0/rf/estimators(500)-split(1).pickle", building and running classifier...
+4
+2.0
+1
+2
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+Saving result "runs/iris/0/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/iris/0/rf/estimators(500)-split(2).pickle", building and running classifier...
+4
+2.0
+2
+4
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+Saving result "runs/iris/0/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/iris/0/rf/estimators(500)-split(4).pickle", building and running classifier...
+4
+2.0
+4
+4
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+Saving result "runs/iris/0/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/iris/0/rf/estimators(500)-split(8).pickle", building and running classifier...
+4
+2.0
+8
+4
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+label: 2
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+Saving result "runs/iris/0/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...
+Running trial 1...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/iris/1/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+4
+2.0
+0.5
+1
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/1/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/iris/1/rf/estimators(500)-split(1).pickle", building and running classifier...
+4
+2.0
+1
+2
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/1/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/iris/1/rf/estimators(500)-split(2).pickle", building and running classifier...
+4
+2.0
+2
+4
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/1/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/iris/1/rf/estimators(500)-split(4).pickle", building and running classifier...
+4
+2.0
+4
+4
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.04
+ml rmse: 0.2
+sk acc: 0.96
+sk f1: 0.96
+sk prec: 0.96
+sk recl: 0.96
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.954044117647
+sk auc: 0.954044117647
+label: 2
+ml auc: 0.955436720143
+sk auc: 0.955436720143
+Saving result "runs/iris/1/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/iris/1/rf/estimators(500)-split(8).pickle", building and running classifier...
+4
+2.0
+8
+4
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.06
+ml rmse: 0.244948974278
+sk acc: 0.94
+sk f1: 0.94
+sk prec: 0.941102941176
+sk recl: 0.94
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.939338235294
+sk auc: 0.939338235294
+label: 2
+ml auc: 0.926024955437
+sk auc: 0.926024955437
+Saving result "runs/iris/1/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...
+Running trial 2...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/iris/2/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+4
+2.0
+0.5
+1
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.02
+ml rmse: 0.141421356237
+sk acc: 0.98
+sk f1: 0.979982683983
+sk prec: 0.981111111111
+sk recl: 0.98
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/2/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/iris/2/rf/estimators(500)-split(1).pickle", building and running classifier...
+4
+2.0
+1
+2
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.02
+ml rmse: 0.141421356237
+sk acc: 0.98
+sk f1: 0.979982683983
+sk prec: 0.981111111111
+sk recl: 0.98
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/2/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/iris/2/rf/estimators(500)-split(2).pickle", building and running classifier...
+4
+2.0
+2
+4
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.02
+ml rmse: 0.141421356237
+sk acc: 0.98
+sk f1: 0.979982683983
+sk prec: 0.981111111111
+sk recl: 0.98
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/2/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/iris/2/rf/estimators(500)-split(4).pickle", building and running classifier...
+4
+2.0
+4
+4
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.02
+ml rmse: 0.141421356237
+sk acc: 0.98
+sk f1: 0.979982683983
+sk prec: 0.981111111111
+sk recl: 0.98
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/2/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/iris/2/rf/estimators(500)-split(8).pickle", building and running classifier...
+4
+2.0
+8
+4
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.02
+ml rmse: 0.141421356237
+sk acc: 0.98
+sk f1: 0.979982683983
+sk prec: 0.981111111111
+sk recl: 0.98
+label: 0
+ml auc: 1.0
+sk auc: 1.0
+label: 1
+ml auc: 0.984848484848
+sk auc: 0.984848484848
+label: 2
+ml auc: 0.970588235294
+sk auc: 0.970588235294
+Saving result "runs/iris/2/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...

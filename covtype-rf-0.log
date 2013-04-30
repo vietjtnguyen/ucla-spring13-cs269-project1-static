@@ -1,0 +1,188 @@
+Data set: covtype
+Algorithm: rf
+Loading covtype data set...
+Creating random forest hyper classifier...
+Running trial 0...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/covtype/0/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+54
+7.34846922835
+0.5
+3
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.257430591639
+ml rmse: 1.38840074058
+sk acc: 0.742569408361
+sk f1: 0.754090591999
+sk prec: 0.789049320864
+sk recl: 0.742569408361
+label: 1
+ml auc: 0.812952728194
+sk auc: 0.812952728194
+label: 2
+ml auc: 0.788279324842
+sk auc: 0.788279324842
+label: 3
+ml auc: 0.908074582737
+sk auc: 0.908074582737
+label: 4
+ml auc: 0.982551357396
+sk auc: 0.982551357396
+label: 5
+ml auc: 0.949565008543
+sk auc: 0.949565008543
+label: 6
+ml auc: 0.92447143664
+sk auc: 0.92447143664
+label: 7
+ml auc: 0.972453840254
+sk auc: 0.972453840254
+Saving result "runs/covtype/0/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/covtype/0/rf/estimators(500)-split(1).pickle", building and running classifier...
+54
+7.34846922835
+1
+7
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.251225266469
+ml rmse: 1.38113268353
+sk acc: 0.748774733531
+sk f1: 0.760321773113
+sk prec: 0.794708064208
+sk recl: 0.748774733531
+label: 1
+ml auc: 0.816501731979
+sk auc: 0.816501731979
+label: 2
+ml auc: 0.793605818649
+sk auc: 0.793605818649
+label: 3
+ml auc: 0.913460127577
+sk auc: 0.913460127577
+label: 4
+ml auc: 0.983626868545
+sk auc: 0.983626868545
+label: 5
+ml auc: 0.954348274606
+sk auc: 0.954348274606
+label: 6
+ml auc: 0.930063678504
+sk auc: 0.930063678504
+label: 7
+ml auc: 0.974094491713
+sk auc: 0.974094491713
+Saving result "runs/covtype/0/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/covtype/0/rf/estimators(500)-split(2).pickle", building and running classifier...
+54
+7.34846922835
+2
+14
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.257551713969
+ml rmse: 1.41041457158
+sk acc: 0.742448286031
+sk f1: 0.75467445865
+sk prec: 0.790975984082
+sk recl: 0.742448286031
+label: 1
+ml auc: 0.812410888875
+sk auc: 0.812410888875
+label: 2
+ml auc: 0.788897116545
+sk auc: 0.788897116545
+label: 3
+ml auc: 0.912243334023
+sk auc: 0.912243334023
+label: 4
+ml auc: 0.981856642842
+sk auc: 0.981856642842
+label: 5
+ml auc: 0.953780650868
+sk auc: 0.953780650868
+label: 6
+ml auc: 0.930826897386
+sk auc: 0.930826897386
+label: 7
+ml auc: 0.972239497722
+sk auc: 0.972239497722
+Saving result "runs/covtype/0/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/covtype/0/rf/estimators(500)-split(4).pickle", building and running classifier...
+54
+7.34846922835
+4
+29
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.272237357637
+ml rmse: 1.46628495665
+sk acc: 0.727762642363
+sk f1: 0.740880829436
+sk prec: 0.780471224952
+sk recl: 0.727762642363
+label: 1
+ml auc: 0.80112895099
+sk auc: 0.80112895099
+label: 2
+ml auc: 0.777829448466
+sk auc: 0.777829448466
+label: 3
+ml auc: 0.912271559924
+sk auc: 0.912271559924
+label: 4
+ml auc: 0.98416022693
+sk auc: 0.98416022693
+label: 5
+ml auc: 0.951498565933
+sk auc: 0.951498565933
+label: 6
+ml auc: 0.927113497605
+sk auc: 0.927113497605
+label: 7
+ml auc: 0.969890987221
+sk auc: 0.969890987221
+Saving result "runs/covtype/0/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/covtype/0/rf/estimators(500)-split(8).pickle", building and running classifier...
+54
+7.34846922835
+8
+54
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.286013706133
+ml rmse: 1.5021283706
+sk acc: 0.713986293867
+sk f1: 0.727744326293
+sk prec: 0.769298599531
+sk recl: 0.713986293867
+label: 1
+ml auc: 0.791012792692
+sk auc: 0.791012792692
+label: 2
+ml auc: 0.766985505837
+sk auc: 0.766985505837
+label: 3
+ml auc: 0.905243628258
+sk auc: 0.905243628258
+label: 4
+ml auc: 0.983688429195
+sk auc: 0.983688429195
+label: 5
+ml auc: 0.948743885378
+sk auc: 0.948743885378
+label: 6
+ml auc: 0.918821055209
+sk auc: 0.918821055209
+label: 7
+ml auc: 0.966170400997
+sk auc: 0.966170400997
+Saving result "runs/covtype/0/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...
