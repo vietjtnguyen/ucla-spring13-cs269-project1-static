@@ -39,9 +39,11 @@ class ClassifierRun(object):
 			self.classifier = hyper_classifier.make_classifier(training_data, training_target, **self.parameterization)
 			self.classifier.fit(training_data, training_target)
 			results['predicted'] = self.classifier.predict(testing_data)
+		except MemoryError as e:
+			raise e
 		except Exception as e:
-			print(e)
-			results['exception'] = str(e)
+			print(repr(e))
+			results['exception'] = e
 		else:
 			# attempt to save memory
 			del(self.classifier)

@@ -1,0 +1,173 @@
+Data set: har
+Algorithm: rf
+Loading har data set...
+Creating random forest hyper classifier...
+Running trial 0...
+Creating trial data...
+Applying classifier to trial...
+
+No cached result "runs/har/0/rf/estimators(500)-split(0.5).pickle", building and running classifier...
+561
+23.6854385647
+0.5
+11
+run: estimators(500)-split(0.5)
+parameters: {'n_estimators': 500, 'split': 0.5}
+ml ce: 0.0730326476694
+ml rmse: 0.376714173609
+sk acc: 0.926967352331
+sk f1: 0.926334910101
+sk prec: 0.928826645846
+sk recl: 0.926967352331
+label: 1
+ml auc: 0.981010234423
+sk auc: 0.981010234423
+label: 2
+ml auc: 0.933551163412
+sk auc: 0.933551163412
+label: 3
+ml auc: 0.896806938485
+sk auc: 0.896806938485
+label: 4
+ml auc: 0.95099197945
+sk auc: 0.95099197945
+label: 5
+ml auc: 0.960200624203
+sk auc: 0.960200624203
+label: 6
+ml auc: 1.0
+sk auc: 1.0
+Saving result "runs/har/0/rf/estimators(500)-split(0.5).pickle"...
+
+No cached result "runs/har/0/rf/estimators(500)-split(1).pickle", building and running classifier...
+561
+23.6854385647
+1
+23
+run: estimators(500)-split(1)
+parameters: {'n_estimators': 500, 'split': 1}
+ml ce: 0.0871862615588
+ml rmse: 0.406124094982
+sk acc: 0.912813738441
+sk f1: 0.912361924857
+sk prec: 0.914818271883
+sk recl: 0.912813738441
+label: 1
+ml auc: 0.976229831663
+sk auc: 0.976229831663
+label: 2
+ml auc: 0.923001802602
+sk auc: 0.923001802602
+label: 3
+ml auc: 0.904863993564
+sk auc: 0.904863993564
+label: 4
+ml auc: 0.943834515237
+sk auc: 0.943834515237
+label: 5
+ml auc: 0.927029089216
+sk auc: 0.927029089216
+label: 6
+ml auc: 1.0
+sk auc: 1.0
+Saving result "runs/har/0/rf/estimators(500)-split(1).pickle"...
+
+No cached result "runs/har/0/rf/estimators(500)-split(2).pickle", building and running classifier...
+561
+23.6854385647
+2
+47
+run: estimators(500)-split(2)
+parameters: {'n_estimators': 500, 'split': 2}
+ml ce: 0.0934138516701
+ml rmse: 0.413492026264
+sk acc: 0.90658614833
+sk f1: 0.906310417616
+sk prec: 0.909043679749
+sk recl: 0.90658614833
+label: 1
+ml auc: 0.975797088147
+sk auc: 0.975797088147
+label: 2
+ml auc: 0.919126584803
+sk auc: 0.919126584803
+label: 3
+ml auc: 0.915680090477
+sk auc: 0.915680090477
+label: 4
+ml auc: 0.931642383362
+sk auc: 0.931642383362
+label: 5
+ml auc: 0.912723011576
+sk auc: 0.912723011576
+label: 6
+ml auc: 1.0
+sk auc: 1.0
+Saving result "runs/har/0/rf/estimators(500)-split(2).pickle"...
+
+No cached result "runs/har/0/rf/estimators(500)-split(4).pickle", building and running classifier...
+561
+23.6854385647
+4
+94
+run: estimators(500)-split(4)
+parameters: {'n_estimators': 500, 'split': 4}
+ml ce: 0.0966220041517
+ml rmse: 0.407515729311
+sk acc: 0.903377995848
+sk f1: 0.903139217905
+sk prec: 0.90606640944
+sk recl: 0.903377995848
+label: 1
+ml auc: 0.975241963001
+sk auc: 0.975241963001
+label: 2
+ml auc: 0.915108363094
+sk auc: 0.915108363094
+label: 3
+ml auc: 0.920095781644
+sk auc: 0.920095781644
+label: 4
+ml auc: 0.92616554549
+sk auc: 0.92616554549
+label: 5
+ml auc: 0.90770417342
+sk auc: 0.90770417342
+label: 6
+ml auc: 1.0
+sk auc: 1.0
+Saving result "runs/har/0/rf/estimators(500)-split(4).pickle"...
+
+No cached result "runs/har/0/rf/estimators(500)-split(8).pickle", building and running classifier...
+561
+23.6854385647
+8
+189
+run: estimators(500)-split(8)
+parameters: {'n_estimators': 500, 'split': 8}
+ml ce: 0.100396301189
+ml rmse: 0.386847356879
+sk acc: 0.899603698811
+sk f1: 0.899387387342
+sk prec: 0.902387796955
+sk recl: 0.899603698811
+label: 1
+ml auc: 0.972277708808
+sk auc: 0.972277708808
+label: 2
+ml auc: 0.909970571301
+sk auc: 0.909970571301
+label: 3
+ml auc: 0.923076934288
+sk auc: 0.923076934288
+label: 4
+ml auc: 0.921029539247
+sk auc: 0.921029539247
+label: 5
+ml auc: 0.904934849582
+sk auc: 0.904934849582
+label: 6
+ml auc: 1.0
+sk auc: 1.0
+Saving result "runs/har/0/rf/estimators(500)-split(8).pickle"...
+Clearing trial data from memory...
